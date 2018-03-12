@@ -1,0 +1,34 @@
+DOH Site # (31),DOH Site Name,QAPP Site # (10),QAPP Site Name ,QAPP Code,Proposed ,Team,Lat,Long
+
+1st day, team Kamaole
+713,Waipulani,,Waipulani,KWP,7,Kamaole,20.755056,-156.459602
+676,Kihei South,,Kihei South (Lipoa),KKS,8,Kamaole,20.747334,-156.457881
+679,Kalama Beach,2036,Kalama Park,KKP,9,Kamaole,20.730973,-156.45372
+703,Cove Park,,Cove Park,KCP,10,Kamaole,20.727434,-156.450077
+681,Kamaole I,,Kamaole I,KKO,11,Kamaole,20.721985,-156.448183
+683,Kamaole III,,Kamaole III,KKT,12,Kamaole,20.712908,-156.446596
+
+2nd day, team Makena
+717,Makena Landing,,Makena Landing,MML,19,Makena,20.653913,-156.441174
+718,Maluaka Beach,,South Maluaka Beach ,MMB,20,Makena,20.645598,-156.443859
+719,Oneuli,,Oneuli (black sand beach),MON,21,Makena,20.639866,-156.447406
+661,Makena Beach Shoreline,,Makena Beach Shoreline,MBS,22,Makena,20.63061,-156.446183
+731,Ahihi Kinau ,2035,Ahihi Kinau North,MAN,23,Makena,20.618366,-156.437572
+,,,Ahihi Kinau South,MAS,24,Makena,20.6138,-156.436853
+732,La Perouse,,La Perouse,MLP,24,Makena,20.599719,-156.420733
+
+3rd day, team North Kihei
+687,Maalaea Condos,2039,Haycraft Park,NHP,1,North Kihei,20.796414,-156.503198
+711,Kealia Pond,2061,Kealia Pond,NKP,2,North Kihei,20.794936,-156.485587
+,,2062,Sugar Beach,NSB,3,North Kihei,20.784204,-156.466463
+671,Kihei North,,Kihei Canoe Club,NKC,4,North Kihei,20.781403,-156.463176
+702,Mai Poina Oe Iau,,Mai Poina 'Oe Ia'u,NMP,5,North Kihei,20.774894,-156.460776
+,,,Kalepolepo North,NKN,6,North Kihei,20.765132,-156.459344
+
+4th day, team Wailea
+704,Keawekapu (2),,Kilohana Dr,WKD,13,Wailea,20.702214,-156.445921
+685,Keawekapu Beach,,Keawekapu Beach,WKB,14,Wailea,20.695939,-156.444632
+686,Ulua Beach,,Ulua Beach,WUL,15,Wailea,20.69112,-156.444201
+691,Wailea Beach,,Wailea Beach,WWA,16,Wailea,20.68156,-156.443524
+715,Palauea,,Palauea,WPL,17,Wailea,20.669565,-156.442907
+716,Poolenalena (Chang's Beach),,Poolenalena (Chang's Beach),WPO,18,Wailea,20.66339,-156.441968

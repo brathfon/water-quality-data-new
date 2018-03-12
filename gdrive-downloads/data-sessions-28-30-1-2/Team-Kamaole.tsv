@@ -1,0 +1,15 @@
+Copied to main database by Kim 	Checked by Dana	yes/no	yes/no	#	R2RS, R2RN, Polanui, Olowalu	LLHS	initials	initials	initials	RCB	RCB031717	2062	Canoe Beach	03/17/17	12:00											deg C	ppt	mg/L	%								0, 1, 2, 3, 4	0-8	0-5	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	
+		Nut_Dup	Sed_Sample	Session	Team	Lab	Sampler	Sampler2	Sampler3	Station	SampleID	Location	SiteName	Date	Time	40D#	2100Q#	pHInst#	DOInst#	SalInst#	Moon	Cloud_1_8	Rain_1_4	Wind_dir	SampleID2	Temp	Salinity	DO	DO%	pH	Turb1	Turb2	Turb3	Average Turbidity	CV Turbidity		Waves	Wind	Stream	Swimmers	On Beach	Campers	Comments
+		Example:		26	R2RS	LLHS	CM	TF	MS	RCB	RCB170821	2020	Canoe Beach	2017-08-21	9:22:00	1	1	4	2	3	1	7	2		RCB170821	27.0	33.1	6.92	104.4	8.18	5.78	5.86	6.03	Calculated	Calculated		1	0		1	20		RHL no waves at collection site but waves breaking starting halfway to Lipoa Point, light rain the night before
+	yes	no	no	1	Kamaole	NMS	MB	AQ	DH	KWP	KWP171107		Waipuilani Park	2017-11-07	8:20	1	1	1	1	1	19	0	0	Trades	KWP171107	26.1	33.7	5.47	81.5	8.19	8.31	7.70	8.58				0	1		0	0	2	
+	yes	no	no	1	Kamaole	NMS	MB	AQ	DH	KKS	KKS171107		Kihei South	2017-11-07	9:05	1	1	1	1	1	19	0	0	Trades	KKS171107	26.8	34.7	5.97	90.5	8.22	5.14	5.12	5.25				0	1		2	8	0	
+	yes	no	no	1	Kamaole	NMS	MB	AQ	DH	KKP	KKP171107		Kalama Park	2017-11-07	9:27	1	1	1	1	1	19	0	0	Trades	KKP171107	27.0	34.8	6.26	95.2	8.22	8.88	8.32	8.21				2	1		1	0	0	Turtles visible in the water
+	yes	no	no	1	Kamaole	NMS	MB	AQ	DH	KCP	KCP171107		Cove park	2017-11-07	9:55	1	1	1	1	1	19	0	0	Trades	KCP171107	26.9	34.3	6.24	94.5	8.24	1.31	0.98	1.08				0	1		20+	1	0	
+	yes	no	no	1	Kamaole	NMS	MB	AQ	DH	KKO	KKO171107		Kamaole Beach I	2017-11-07	10:23	1	1	1	1	1	19	0	0	Trades	KKO171107	27.7	35.0	6.44	98.7	8.27	0.97	0.91	1.11				0	0		20+	20+	0	
+	yes	no	no	1	Kamaole	NMS	MB	AQ	DH	KKT	KKT171107		Kamaole Beach III	2017-11-07	10:50	1	1	1	1	1	19	0	0	Trades	KKT171107	28.0	35.6	6.36	98.9	8.26	1.10	1.43	1.22				0	1		20+	20+	0	
+	yes	no	no	2	Kamaole	NMS	MB	SG	SP	KWP	KWP171121		Waipuilani Park	2017-11-21	8:05	2	2	2	2	2	5	0	0	Trades	KWP171121	23.6	33.6	5.97	85.4	8.13	11.10	11.30	11.30				0	2		0	2	0	
+	yes	no	no	2	Kamaole	NMS	MB	SG	SP	KKS	KKS171121		Kihei South	2017-11-21	8:34	2	2	2	2	2	5	0	0	Trades	KKS171121	24.4	34.9	6.27	91.6	8.24	3.11	3.65	3.61				0	2		0	0	0	
+	yes	no	no	2	Kamaole	NMS	MB	SG	SP	KKP	KKP171121		Kalama Park	2017-11-21	9:00	2	2	2	2	2	5	0	0	Trades	KKP171121	23.7	34.8	6.56	94.8	8.20	3.50	3.33	3.60				0	2		2	1	0	
+	yes	no	no	2	Kamaole	NMS	MB	SG	SP	KCP	KCP171121		Cove park	2017-11-21	9:20	2	2	2	2	2	5	0	0	Trades	KCP171121	25.3	34.2	6.41	94.7	8.17	1.12	0.85	0.92				0	0		0	0	0	
+	yes	no	no	2	Kamaole	NMS	MB	SG	SP	KKO	KKO171121		Kamaole Beach I	2017-11-21	9:34	2	2	2	2	2	5	0	0	Trades	KKO171121	25.7	35.6	6.58	98.4	8.22	0.69	0.79	0.69				0	0		11	20+	0	
+	yes	no	no	2	Kamaole	NMS	MB	SG	SP	KKT	KKT171121		Kamaole Beach III	2017-11-21	10:04	2	2	2	2	2	5	0	0	Trades	KKT171121	25.7	36.1	6.50	97.7	8.21	0.45	0.55	0.49				0	1		12	20+	0	

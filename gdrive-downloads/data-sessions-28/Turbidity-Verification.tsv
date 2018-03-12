@@ -1,0 +1,7 @@
+		RCB031717T	Hach 2100	#	03/17/17	12:00											
+Session #	Team	Turb_Sample_ID	TurbInst	TurbMeterNum	Turb Sec Chk Date	Turb Sec Chk Time	Turb Std (L)	Turb Std (M)	Turb Std (H)	Turb Zero Chk (NTU)	Turb Pre (L)	Turb Pre (M)	Turb Pre (H)	Turb Post Zero	Turb Post (L)	Turb Post (M)	Turb Post (H)
+24	R2RS	RCB031717T	Hach 2100Q	2	8/4/17	10:48 AM	6.6	60	567	0.09	6.48	59	562	0.05	6.59	59.2	561
+28	R2RS		Hach 2100Q	1	10/3/17	8:00 AM	5.49	57	625	0.05	5.57	57.2	627	0.05	5.45	57.3	626
+28	Polanui		Hach 2100Q	1	10/4/17	8:00 AM	5.49	57	625	0.06	5.53	57.2	626	0.04	5.51	57.4	624
+28	Olowalu		Hach 2100Q	1	10/5/17	7:00 AM	5.49	57	625	0.05	5.46	57.2	625	0.04	5.49	57.3	624
+28	R2RN		Hach 2100Q	1	10/6/17	7:45 AM	5.49	57	625	0.05	5.47	57.2	626	0.03	5.5	57.3	625

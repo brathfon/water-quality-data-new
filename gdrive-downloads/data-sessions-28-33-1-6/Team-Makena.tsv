@@ -1,0 +1,35 @@
+Copied to main database by Kim 	Checked by Dana	yes/no	yes/no	#	R2RS, R2RN, Polanui, Olowalu	LLHS	initials	initials	initials	RCB	RCB031717	2062	Canoe Beach	03/17/17	12:00											deg C	ppt	mg/L	%								0, 1, 2, 3, 4	0-8	0-5	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	
+		Nut_Dup	Sed_Sample	Session	Team	Lab	Sampler	Sampler2	Sampler3	Station	SampleID	Location	SiteName	Date	Time	40D#	2100Q#	pHInst#	DOInst#	SalInst#	Moon	Cloud_1_8	Rain_1_4	Wind_dir	SampleID2	Temp	Salinity	DO	DO%	pH	Turb1	Turb2	Turb3	Average Turbidity	CV Turbidity		Waves	Wind	Stream	Swimmers	On Beach	Campers	Comments
+		Example:		26	R2RS	LLHS	CM	TF	MS	RCB	RCB170821	2020	Canoe Beach	2017-08-21	9:22:00	1	1	4	2	3	1	7	2		RCB170821	27.0	33.1	6.92	104.4	8.18	5.78	5.86	6.03	Calculated	Calculated		1	0		1	20		RHL no waves at collection site but waves breaking starting halfway to Lipoa Point, light rain the night before
+	yes	no	no	1	Makena	NMS	SF	AW	TW	MML	MML171108		Makena Landing	2017-11-08	8:30	1	1	1	1	1	20	6	1	Trades	MML171108	26.7	35.2	6.45	97.8	8.26	1.41	1.48	1.44				1	0		2	0	0	
+	yes	no	no	1	Makena	NMS	SF	AW	TW	MMB	MMB171108		Maluaka Beach	2017-11-08	8:52	1	1	1	1	1	20	6	1	Trades	MMB171108	26.9	35.4	6.43	98.1	8.28	0.60	0.61	0.64				1	0		7	5	0	
+	yes	no	no	1	Makena	NMS	SF	AW	TW	MON	MON171108		Oneuli	2017-11-08	9:27	1	1	1	1	1	20	6	1	Trades	MON171108	26.8	35.5	6.07	92.5	8.19	1.13	1.11	1.22				1	0		0	1	0	
+	yes	no	no	1	Makena	NMS	SF	AW	TW	MBS	MBS171108		Makena Beach Shoreline	2017-11-08	9:57	1	1	1	1	1	20	6	1	Trades	MBS171108	26.7	35.4	6.55	99.5	8.26	0.71	0.71	0.75				2	0		2	6	0	
+	yes	no	no	2	Makena	NMS	LL	AW	TW	MML	MML171122		Makena Landing	2017-11-22	8:05	2	2	2	2	2	6	3	0	Trades	MML171122	25.5	36.1	6.47	96.7	8.24	0.56	0.58	0.54				1	1		0	0	0	Lots of kayakers, but not within 100ft
+	yes	no	no	2	Makena	NMS	LL	AW	TW	MMB	MMB171122		Maluaka Beach	2017-11-22	8:40	2	2	2	2	2	6	3	0	Trades	MMB171122	25.4	36.2	6.58	98.3	8.24	0.52	0.53	0.49				2	2		0	0	0	
+	yes	no	no	2	Makena	NMS	LL	AW	TW	MON	MON171122		Oneuli	2017-11-22	9:10	2	2	2	2	2	6	3	0	Trades	MON171122	25.6	36.1	6.78	101.5	8.25	1.95	2.01	2.04				2	3		2	4	0	
+	yes	no	no	2	Makena	NMS	LL	AW	TW	MBS	MBS171122		Makena Beach Shoreline	2017-11-22	9:30	2	2	2	2	2	6	3	0	Trades	MBS171122	26.1	35.9	6.59	99.3	8.25	0.44	0.43	0.44				2	2		0	0	0	
+	yes	no	no	2	Makena	NMS	LL	AW	TW	MAN	MAN171122		Ahihi North	2017-11-22	10:15	2	2	2	2	2	6	3	0	Trades	MAN171122	25.7	36.1	7.17	107.5	8.28	0.60	0.69	0.70				0	2		6	5	0	
+	yes	no	no	2	Makena	NMS	LL	AW	TW	MAS	MAS171122		Ahihi South	2017-11-22	10:40	2	2	2	2	2	6	3	0	Trades	MAS171122	25.5	35.6	6.85	102.3	8.27	0.84	1.09	0.84				2	4		9	20+	0	
+	yes	no	no	3	Makena	NMS	SF	AW	TW	MML	MML171206		Makena Landing	2017-12-06	8:05	1	1	1	1	1	19	6	0	Trades	MML171206	23.9	35.4	6.62	95.4	8.18	0.56	0.51	0.52				0	0		0	0	0	
+	yes	no	no	3	Makena	NMS	SF	AW	TW	MMB	MMB171206		Maluaka Beach	2017-12-06	8:30	1	1	1	1	1	19	6	0	Trades	MMB171206	24.2	35.6	6.60	96.0	8.20	0.70	0.64	0.70				1	0		4	1	0	
+	yes	no	no	3	Makena	NMS	SF	AW	TW	MAN	MAN171206		Ahihi North	2017-12-06	9:05	1	1	1	1	1	19	6	0	Trades	MAN171206	24.2	35.5	6.88	100.1	8.12	1.19	1.34	1.14				0	0		2	0	0	
+	yes	no	no	3	Makena	NMS	SF	AW	TW	MAS	MAS171206		Ahihi South	2017-12-06	9:35	1	1	1	1	1	19	6	0	Trades	MAS171206	24.8	35.8	6.73	99.0	8.20	0.70	0.75	0.70				1	1		2	7	0	
+	yes	no	no	4	Makena	NMS	AW	LL	TW	MML	MML171220		Makena Landing	2017-12-20	8:05	2	2	2	2	2	3	8	1	Trades	MML171220	24.5	35.4	6.71	98.6	8.31	1.11	1.46	1.14				0	2		0	8	0	
+	yes	no	no	4	Makena	NMS	AW	LL	TW	MMB	MMB171220		Maluaka Beach	2017-12-20	8:30	2	2	2	2	2	3	8	1	Trades	MMB171220	24.4	35.3	6.75	99.0	8.30	0.84	0.92	1.05				2	4		0	0	0	
+	yes	no	no	4	Makena	NMS	AW	LL	TW	MON	MON171220		Oneuli	2017-12-20	8:55	2	2	2	2	2	3	8	1	Trades	MON171220	24.5	35.3	6.74	98.9	8.28	1.67	2.00	1.85				2	4		0	0	0	
+	yes	no	no	4	Makena	NMS	AW	LL	TW	MBS	MBS171220		Makena Beach Shoreline	2017-12-20	9:17	2	2	2	2	2	3	8	1	Trades	MBS171220	24.7	35.4	6.68	98.3	8.31	0.55	0.59	0.55				1	2		0	2	0	
+	yes	no	no	4	Makena	NMS	AW	LL	TW	MAN	MAN171220		Ahihi North	2017-12-20	9:36	2	2	2	2	2	3	8	1	Trades	MAN171220	24.4	35.2	6.37	93.4	8.17	0.72	0.76	0.87				0	1		0	0	0	
+	yes	no	no	4	Makena	NMS	AW	LL	TW	MAS	MAS171220		Ahihi South	2017-12-20	9:56	2	2	2	2	2	3	8	1	Trades	MAS171220	24.4	34.3	6.56	95.5	8.16	0.88	0.93	0.97				1	2		0	0	0	
+	yes	no	no	5	Makena	NMS	LL	TW	SF	MML	MML180110		Makena Landing	2018-01-10	7:59	1	1	1	1	1	24	0	0	Trades	MML180110	23.8	34.5	6.63	95.0	8.17	1.93	2.08	1.85				0	0		0	0	0	
+	yes	no	no	5	Makena	NMS	LL	TW	SF	MMB	MMB180110		Maluaka Beach	2018-01-10	8:25	1	1	1	1	1	24	0	0	Trades	MMB180110	23.9	34.8	6.87	99.0	8.16	1.39	1.99	1.57				3	0		0	0	0	
+	yes	no	no	5	Makena	NMS	LL	TW	SF	MON	MON180110		Oneuli	2018-01-10	8:52	1	1	1	1	1	24	0	0	Trades	MON180110	24.3	34.9	6.81	98.7	8.13	2.39	2.13	2.16				3	0		0	3	0	
+	yes	no	no	5	Makena	NMS	LL	TW	SF	MBS	MBS180110		Makena Beach Shoreline	2018-01-10	9:15	1	1	1	1	1	24	0	0	Trades	MBS180110	24.6	35.3	6.72	98.2	8.20	0.44	0.46	0.44				1	0		1	21	0	
+	yes	no	no	5	Makena	NMS	LL	TW	SF	MAN	MAN180110		Ahihi North	2018-01-10	9:45	1	1	1	1	1	24	0	0	Trades	MAN180110	24.7	35.1	7.11	104.1	8.10	0.86	0.80	0.85				0	0		3	10	0	
+	yes	no	no	5	Makena	NMS	LL	TW	SF	MAS	MAS180110		Ahihi South	2018-01-10	10:10	1	1	1	1	1	24	0	0	Trades	MAS180110	24.5	35.2	6.67	97.3	8.10	0.57	0.56	0.83				0	0		6	23	0	
+		no	no	6	Makena	NMS	GB	SF	LL	MML	MML180124		Makena Landing	2018-01-24	8:00	2	2	2	2	2	9	2	0	Trades	MML180124	24.4	35.4	6.67	99.6	8.17	1.18	1.23	1.36				1	0		0	1	0	
+		no	no	6	Makena	NMS	GB	SF	LL	MMB	MMB180124		Maluaka Beach	2018-01-24	8:31	2	2	2	2	2	9	2	0	Trades	MMB180124	24.5	35.7	6.84	100.7	8.19	1.03	1.14	1.18				2	0		3	2	0	
+		no	no	6	Makena	NMS	GB	SF	LL	MON	MON180124		Oneuli	2018-01-24	8:58	2	2	2	2	2	9	2	0	Trades	MON180124	24.4	35.6	6.79	99.5	8.13	3.54	3.34	3.63				1	0		0	5	0	
+		no	no	6	Makena	NMS	GB	SF	LL	MBS	MBS180124		Makena Beach Shoreline	2018-01-24	9:22	2	2	2	2	2	9	2	0	Trades	MBS180124	24.8	35.8	6.72	99.2	8.19	0.52	0.58	0.57				1	1		0	3	0	
+		no	no	6	Makena	NMS	GB	SF	LL	MAN	MAN180124		Ahihi North	2018-01-24	9:50	2	2	2	2	2	9	2	0	Trades	MAN180124	24.9	35.5	7.21	106.6	8.14	0.68	0.61	0.78				0	0		12	3	0	
+		no	no	6	Makena	NMS	GB	SF	LL	MAS	MAS180124		Ahihi South	2018-01-24	9:55	2	2	2	2	2	9	2	0	Trades	MAS180124	24.8	35.3	6.68	98.5	8.13	0.97	0.83	0.96				1	1		7	16	0	

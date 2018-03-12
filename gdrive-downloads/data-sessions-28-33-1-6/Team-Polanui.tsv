@@ -1,0 +1,39 @@
+Copied to main database by Kim 	Checked by Dana	yes/no	yes/no	#	R2RS, R2RN, Polanui, Olowalu	LLHS	initials	initials	initials	RCB	RCB031717	2062	Canoe Beach	03/17/17	12:00											deg C	ppt	mg/L	%								0, 1, 2, 3, 4	0-8	0-5	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	
+		Nut_Dup	Sed_Sample	Session	Team	Lab	Sampler	Sampler2	Sampler3	Station	SampleID	Location	SiteName	Date	Time	40D#	2100Q#	pHInst#	DOInst#	SalInst#	Moon	Cloud_1_8	Rain_1_4	Wind_dir	SampleID2	Temp	Salinity	DO	DO%	pH	Turb1	Turb2	Turb3	Average Turbidity	CV Turbidity		Waves	Wind	Stream	Swimmers	On Beach	Campers	Comments
+		Example:		26	R2RS	LLHS	CM	TF	MS	RCB	RCB170821	2020	Canoe Beach	2017-08-21	9:22:00	1	1	4	2	3	1	7	2		RCB170821	27.0	33.1	6.92	104.4	8.18	5.78	5.86	6.03	Calculated	Calculated		1	0		1	20		
+yes	yes	no	no	28	Polanui	LLHS	JM	RB	MB	PFF	PFF171004	2022	505 Front St	2017-10-04	8:20	1	1	4	2	3	14	0		trades	PFF171004	27.6	34.0	5.54	84.9	8.04	10.10	10.30	10.60	10.33	0.024		0	1		0	1	0	PFF stream flowing
+yes	yes	no	no	28	Polanui	LLHS	JM	RB	MB	PLH	PLH171004	2023	Lindsey Hale	2017-10-04	8:40	1	1	4	2	3	14	0		trades	PLH171004	27.8	33.8	5.64	86.7	8.03	4.04	4.14	4.08	4.09	0.012		0	1		0	4	0	PLH stream no flow
+yes	yes	no	no	28	Polanui	LLHS	JM	RB	MB	PLT	PLT171004	2024	Lahaina Town	2017-10-04	9:00	1	1	4	2	3	14	0		trades	PLT171004	29.3	33.7	5.67	87.7	8.05	3.29	4.30	4.79	4.13	0.185		0	2		0	1	0	
+yes	yes	no	no	28	Polanui	LLHS	JM	RB	MB	PPU	PPU171004	2025	Puamana	2017-10-04	9:25	1	1	4	2	3	14	0		trades	PPU171004	28.1	34.5	6.46	100.1	8.18	2.24	2.65	2.42	2.44	0.084		1	2		0	0	0	
+yes	yes	no	no	28	Polanui	LLHS	JM	RB	MB	OLP	OLP171004	2072	Launiupoko	2017-10-04	9:42	1	1	4	2	3	14	0		trades	OLP171004	28.4	34.6	6.52	101.4	8.14	1.51	1.94	1.55	1.67	0.143		1	2		3	6	0	
+yes	yes	no	no	28	Polanui	LLHS	JM	RB	MB	OSF	OSF171004	2027	Olowalu Pier	2017-10-04	10:10	1	1	4	2	3	14	0		trades	OSF171004	27.9	34.6	6.81	105.3	8.15	1.02	1.43	1.23	1.23	0.167		0	1		1	1	0	
+yes	yes	no	no	29	Polanui	LLHS	JM	RB	MB	PFF	PFF171025	2022	505 Front St	2017-10-25	8:22	2	3	3	1	2	5	8		trades	PFF171025	26.7	34.7	6.58	99.6	8.06	6.63	7.11	8.14	7.29	0.106		0	0		0	2	0	PFF stream flowing, drain pipe flow
+yes	yes	no	yes	29	Polanui	LLHS	JM	RB	MB	PLH	PLH171025	2023	Lindsey Hale	2017-10-25	8:47	2	3	3	1	2	5	8		trades	PLH171025	26.7	34.1	6.50	98.2	8.07	19.20	19.10	19.40	19.23	0.008		1	1		0	4	0	PLH stream flowing, some erosion
+yes	yes	no	yes	29	Polanui	LLHS	JM	RB	MB	PLT	PLT171025	2024	Lahaina Town	2017-10-25	9:10	2	3	3	1	2	5	8		trades	PLT171025	26.8	34.2	6.39	96.7	8.07	15.00	15.90	15.20	15.37	0.031		0	1		0	0	0	PLT very little beach
+yes	yes	no	no	29	Polanui	LLHS	JM	RB	MB	PPU	PPU171025	2025	Puamana	2017-10-25	9:35	2	3	3	1	2	5	8		trades	PPU171025	27.2	34.7	6.65	101.6	8.14	13.00	13.80	13.60	13.47	0.031		2	1		0	0	0	PPU very high tide and waves
+yes	yes	no	no	29	Polanui	LLHS	JM	RB	MB	OLP	OLP171025	2072	Launiupoko	2017-10-25	9:55	2	3	3	1	2	5	8		trades	OLP171025	27.9	34.4	6.60	100.5	8.09	11.70	11.10	11.30	11.37	0.027		2	1		1	5	0	
+yes	yes	no	no	29	Polanui	LLHS	JM	RB	MB	OSF	OSF171025	2027	Olowalu Pier	2017-10-25	10:15	2	3	3	1	2	5	8		trades	OSF171025	27.1	34.6	6.59	100.5	8.10	1.47	1.63	1.82	1.64	0.107		0	1		0	0	0	
+	yes	no	no	30	Polanui	LLHS	GB	JM	KH	PFF	PFF171115	2022	505 Front St	2017-11-15	8:10	1	1	4	2	3	27	2	2	trades	PFF171115	25.9	35.2	6.46	96.7	8.11	4.31	4.89	4.68				0	0	3	4	2	0	PFF - moderate stream flow
+	yes	no	no	30	Polanui	LLHS	GB	JM	KH	PLH	PLH171115	2023	Lindsey Hale	2017-11-15	8:35	1	1	4	2	3	27	2	2	trades	PLH171115	26.0	34.5	6.37	95.2	8.11	3.16	3.65	3.84				0	0	0	0	5	0	PLH - no stream flow
+	yes	no	no	30	Polanui	LLHS	GB	JM	KH	PLT	PLT171115	2024	Lahaina Town	2017-11-15	8:55	1	1	4	2	3	27	2	2	trades	PLT171115	26.2	34.6	6.30	94.6	8.11	2.39	2.61	2.47				0	1		0	3	0	
+	yes	no	no	30	Polanui	LLHS	GB	JM	KH	PPU	PPU171115	2025	Puamana	2017-11-15	9:15	1	1	4	2	3	27	2	2	trades	PPU171115	26.7	34.7	6.71	101.6	8.19	1.27	1.66	1.36				2	1		0	0	0	
+	yes	no	no	30	Polanui	LLHS	GB	JM	KH	OLP	OLP171115	2072	Launiupoko	2017-11-15	9:40	1	1	4	2	3	27	2	2	trades	OLP171115	26.5	35.0	6.74	102	8.15	2.41	2.04	2.00				2	2		3	5	0	
+	yes	no	no	30	Polanui	LLHS	GB	JM	KH	OSF	OSF171115	2027	Olowalu Pier	2017-11-15	10:05	1	1	4	2	3	27	2	2	trades	OSF171115	25.5	35.0	6.62	98.4	8.09	1.34	1.32	1.55				0	2		0	0	3	pH probe not placed in KCL leaving OLP
+	yes	no	no	31	Polanui	LLHS	JM	RB	KH	PFF	PFF171206	2022	505 Front St	2017-12-06	8:15	2	3	3	1	2	19	2	2	trades	PFF171206	24.5	35.0	6.72	97.8	8.17	3.48	3.54	3.67				1	0	1	1	3	0	
+	yes	no	yes	31	Polanui	LLHS	JM	RB	KH	PLH	PLH171206	2023	Lindsey Hale	2017-12-06	8:35	2	3	3	1	2	19	2	2	trades	PLH171206	23.8	34.6	6.67	95.7	8.15	11.90	12.00	12.90				1	0	0	0	0	0	
+	yes	no	yes	31	Polanui	LLHS	JM	RB	KH	PLT	PLT171206	2024	Lahaina Town	2017-12-06	8:55	2	3	3	1	2	19	2	2	trades	PLT171206	23.6	34.3	6.59	94.2	8.13	15.90	16.90	16.00				0	1		0	1	0	
+	yes	no	no	31	Polanui	LLHS	JM	RB	KH	PPU	PPU171206	2025	Puamana	2017-12-06	9:20	2	3	3	1	2	19	2	2	trades	PPU171206	24.6	34.6	6.98	101.5	8.21	1.78	2.26	2.10				1	1		0	5	0	
+	yes	no	no	31	Polanui	LLHS	JM	RB	KH	OLP	OLP171206	2072	Launiupoko	2017-12-06	9:45	2	3	3	1	2	19	2	2	trades	OLP171206	24.7	34.9	6.95	101.6	8.19	1.86	1.69	1.85				1	0		9	17	0	
+	yes	no	no	31	Polanui	LLHS	JM	RB	KH	OSF	OSF171206	2027	Olowalu Pier	2017-12-06	10:08	2	3	3	1	2	19	2	2	trades	OSF171206	24.6	34.8	6.96	101.4	8.16	1.39	1.41	1.33				0	1		0	3	0	
+	yes	no	no	32	Polanui	LLHS	DR	RB	KH	PFF	PFF171220	2022	505 Front St	2017-12-20	8:20	1	1	4	2	3	3	8	2	undetermined	PFF171220	24.0	35.4	6.68	97.2	8.15	5.42	5.43	5.33				0	0	1	0	0	0	PFF - normal stream flow
+	yes	no	yes	32	Polanui	LLHS	DR	RB	KH	PLH	PLH171220	2023	Lindsey Hale	2017-12-20	8:41	1	1	4	2	3	3	8	2	undetermined	PLH171220	24.1	34.9	6.59	96	8.14	7.31	6.83	6.69				0	1		0	3	0	PLH - no entry for flow
+	yes	no	yes	32	Polanui	LLHS	DR	RB	KH	PLT	PLT171220	2024	Lahaina Town	2017-12-20	9:05	1	1	4	2	3	3	8	2	undetermined	PLT171220	23.9	34.5	6.61	95.5	8.13	10.30	10.00	9.88				0	0		7	1	0	
+	yes	no	no	32	Polanui	LLHS	DR	RB	KH	PPU	PPU171220	2025	Puamana	2017-12-20	9:35	1	1	4	2	3	3	8	2	undetermined	PPU171220	24.4	34.9	6.85	100.2	8.17	5.09	5.19	5.75				2	1		0	0	0	
+	yes	no	no	32	Polanui	LLHS	DR	RB	KH	OLP	OLP171220	2072	Launiupoko	2017-12-20	9:55	1	1	4	2	3	3	8	2	undetermined	OLP171220	24.6	35.0	6.77	99.5	8.13	4.96	4.59	4.94				1	0		2	1	0	OLP baby pond - people surveying
+	yes	no	no	32	Polanui	LLHS	DR	RB	KH	OSF	OSF171220	2027	Olowalu Pier	2017-12-20	10:15	1	1	4	2	3	3	8	2	undetermined	OSF171220	24.6	35.0	6.35	93.2	8.08	2.48	2.89	2.56				0	1		0	0	0	
+	yes	no	no	33	Polanui	LLHS	RB	KH	MB	PFF	PFF180110	2022	505 Front St	2018-01-10	8:27	2	3	3	1	2	24	0	0	trades	PFF180110	23.9	34.7	5.85	84.1	8.07	1.46	1.68	1.59				0	0	3	0	0	0	PFF - strong stream flow
+	yes	no	no	33	Polanui	LLHS	RB	KH	MB	PLH	PLH180110	2023	Lindsey Hale	2018-01-10	8:45	2	3	3	1	2	24	0	0	trades	PLH180110	24.0	34.1	6.10	87.7	8.07	2.38	3.00	2.55				0	0	0	1	4	0	2 dogs
+	yes	no	no	33	Polanui	LLHS	RB	KH	MB	PLT	PLT180110	2024	Lahaina Town	2018-01-10	9:07	2	3	3	1	2	24	0	0	trades	PLT180110	24.0	34.2	6.03	86.6	8.06	2.57	2.34	2.49				0	2		0	1	0	
+	yes	no	no	33	Polanui	LLHS	RB	KH	MB	PPU	PPU180110	2025	Puamana	2018-01-10	9:33	2	3	3	1	2	24	0	0	trades	PPU180110	24.3	34.2	7.03	101.5	8.14	1.24	1.41	1.31				0	2		0	0	0	
+	yes	no	no	33	Polanui	LLHS	RB	KH	MB	OLP	OLP180110	2072	Launiupoko	2018-01-10	9:52	2	3	3	1	2	24	0	0	trades	OLP180110	25.0	34.5	7.11	104	8.15	1.02	1.03	1.18				1	4		0	0	0	
+	yes	no	no	33	Polanui	LLHS	RB	KH	MB	OSF	OSF180110	2027	Olowalu Pier	2018-01-10	10:19	2	3	3	1	2	24	0	0	trades	OSF180110	24.5	34.5	7.38	107.2	8.13	2.92	2.37	2.75				0	4		0	0	0	
