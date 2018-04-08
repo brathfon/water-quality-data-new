@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kapalua-manta-sites-20180330.kml</name>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>webextract-sites</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>8:23:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666668,20.999203</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:24:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666676,20.999208</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:25:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666837,20.999248</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:26:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667041,20.999071</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:27:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667123,20.998949</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:28:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667063,20.999229</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:29:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666932,20.999498</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:30:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666878,20.999761</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:31:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666884,21.000023</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:32:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666949,21.000269</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:33:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667075,21.000401</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:34:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667122,21.00017</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:35:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667133,20.999872</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:36:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667135,20.999642</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:37:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667143,20.999407</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:38:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667176,20.999141</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:39:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667229,20.998918</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:40:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667323,20.998954</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:41:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.66727,20.99926</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:42:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667192,20.999577</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:43:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667124,20.999871</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:44:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667074,21.00016</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:45:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667051,21.000396</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:46:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667179,21.000468</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:47:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667288,21.000253</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:48:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667352,20.999982</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:49:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667396,20.999712</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:50:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667445,20.99946</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:51:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.66748,20.999224</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:52:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667519,20.99898</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:53:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667619,20.998826</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:54:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667552,20.998863</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:55:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667367,20.998859</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:56:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667178,20.998925</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:57:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667008,20.998909</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:58:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666846,20.999028</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>8:59:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666697,20.999209</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:00:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666575,20.999375</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:01:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666535,20.999534</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:02:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666522,20.999739</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:03:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666508,20.999974</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:04:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666554,21.000111</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:05:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666636,21.000295</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:06:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666819,21.000399</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:07:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667001,21.00044</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:08:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.667134,21.000506</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:09:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666989,21.000324</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:10:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.66676,21.000182</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:11:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.66652,21.000173</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>9:12:00</name>
+			<visibility>0</visibility>
+			<styleUrl>#m_ylw-pushpin6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-156.666507,21.000166</coordinates>
+			</Point>
+		</Placemark>
+
+	</Folder>
+</Document>
+</kml>
+
