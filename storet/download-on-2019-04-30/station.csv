@@ -1,0 +1,89 @@
+OrganizationIdentifier,OrganizationFormalName,MonitoringLocationIdentifier,MonitoringLocationName,MonitoringLocationTypeName,MonitoringLocationDescriptionText,HUCEightDigitCode,DrainageAreaMeasure/MeasureValue,DrainageAreaMeasure/MeasureUnitCode,ContributingDrainageAreaMeasure/MeasureValue,ContributingDrainageAreaMeasure/MeasureUnitCode,LatitudeMeasure,LongitudeMeasure,SourceMapScaleNumeric,HorizontalAccuracyMeasure/MeasureValue,HorizontalAccuracyMeasure/MeasureUnitCode,HorizontalCollectionMethodName,HorizontalCoordinateReferenceSystemDatumName,VerticalMeasure/MeasureValue,VerticalMeasure/MeasureUnitCode,VerticalAccuracyMeasure/MeasureValue,VerticalAccuracyMeasure/MeasureUnitCode,VerticalCollectionMethodName,VerticalCoordinateReferenceSystemDatumName,CountryCode,StateCode,CountyCode,AquiferName,FormationTypeText,AquiferTypeName,ConstructionDateText,WellDepthMeasure/MeasureValue,WellDepthMeasure/MeasureUnitCode,WellHoleDepthMeasure/MeasureValue,WellHoleDepthMeasure/MeasureUnitCode,ProviderName
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-HBW,Hana Bay Wharf,Ocean,,20020000,,,,,20.7557722222,-155.9820944444,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-HHC,Helene Hall Cesspool Discharge,Ocean,,20020000,,,,,20.7552916667,-155.9833694444,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-HIW,Holoinawawae Stream,Ocean,,20020000,,,,,20.7615166667,-155.9859083333,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-HKC,Hana Kai Condo,Ocean,,20020000,,,,,20.7596638889,-155.9866277778,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-HLD,Hana Landfill Discharge,Ocean,,20020000,,,,,20.7680777778,-155.9842777778,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-HPV,Pavilion,Ocean,,20020000,,,,,20.7553388889,-155.9837333333,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-HRR,Ranch/Residential Runoff,Ocean,,20020000,,,,,20.7561027778,-155.9845722222,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-KKE,Kealia,Ocean,,20020000,,,,,20.791179,-156.477859,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-KKR,Kealia river mouth,Ocean,,20020000,,,,,20.795668,-156.488647,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-KSB,Sugar Beach,Ocean,,20020000,,,,,20.785885,-156.468678,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-KWF,Waterfront,Ocean,,20020000,,,,,20.79203,-156.509604,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-KWH,Waiohuli,Ocean,,20020000,,,,,20.782492,-156.464369,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NBR,Boat ramp,Ocean,,20020000,,,,,20.896339,-156.477878,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NDH,DOH site 2,Ocean,,20020000,,,,,20.891308,-156.471494,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NHA,Kahului Harbor Pier 2 stream,Ocean,,20020000,,,,,20.894046,-156.467804,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NHB,Kahului Harbor Pier1 and Pier 2,Ocean,,20020000,,,,,20.895767,-156.465103,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NHL,Harbor lights DOH site,Ocean,,20020000,,,,,20.891374,-156.473608,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NKA,Kaa point,Ocean,,20020000,,,,,20.898254,-156.44728,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NKC,Kahului Harbor Canoe Hale,Ocean,,20020000,,,,,20.892119,-156.469484,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NKN,Kailua nui,Ocean,,20020000,,,,,20.913837,-156.393691,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NKW,Kahului WWRF,Ocean,,20020000,,,,,20.897078,-156.456264,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NME,MECO,Ocean,,20020000,,,,,20.797023,-156.494285,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NMG,McGregor Point,Ocean,,20020000,,,,,20.777306,-156.522318,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NPA,Papaula,Ocean,,20020000,,,,,20.908397,-156.427644,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NSB,Beach,Ocean,,20020000,,,,,20.785001,-156.516267,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NSC,Sugar Cove,Ocean,,20020000,,,,,20.909365,-156.409301,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NWA,Wawau,Ocean,,20020000,,,,,20.91271,-156.40314,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NWG,Waiehu Golf course,Ocean,,20020000,,,,,20.927878,-156.495496,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NWI,Wailuku stream,Ocean,,20020000,,,,,20.910498,-156.484707,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NWK,Waihee Kalepa,Ocean,,20020000,,,,,20.933892,-156.503223,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-NWS,Waiehu stream,Ocean,,20020000,,,,,20.918357,-156.491816,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OBR,Ukumehame Bridge,Ocean,,20020000,,,,,20.79983,-156.59244,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OCO,Camp Olowalu,Ocean,,20020000,,,,,20.80986,-156.61369,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OLP,Launiupoko,Ocean,,20020000,,,,,20.84236,-156.653035,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OMM,Mile Marker 14,Ocean,,20020000,,,,,20.80915,-156.60661,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OPB,Papalaua,Ocean,,20020000,,,,,20.79348,-156.57492,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OPM,Peter Martin Hale,Ocean,,20020000,,,,,20.808444,-156.619697,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OPP,Papalaua Pali,Ocean,,20020000,,,,,20.79269,-156.56872,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OSB,Olowalu surf break,Ocean,,20020000,,,,,20.82378,-156.6315,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OSF,Olowalu shore front,Ocean,,20020000,,,,,20.80916,-156.62289,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OTC,Teen Challenge,Ocean,,20020000,,,,,20.81005,-156.6089,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-OUB,Ukumehame Beach,Ocean,,20020000,,,,,20.79448,-156.58142,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-PFF,505 Front Street,Ocean,,20020000,,,,,20.86732,-156.67605,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-PLH,Lindsey Hale,Ocean,,20020000,,,,,20.86485,-156.67374,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-PLT,Lahaina Town,Ocean,,20020000,,,,,20.86356,-156.67297,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-PMA,Makila Point,Ocean,,20020000,,,,,20.85884,-156.66933,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-PPU,Puamana,Ocean,,20020000,,,,,20.859233,-156.669442,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RAB,Airport Beach,Ocean,,20020000,,,,,20.936669,-156.69278,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RAP,Airport2,Ocean,,20020000,,,,,20.941269,-156.692439,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RBR,Black Rock,Ocean,,20020000,,,,,20.929589,-156.69395,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RCB,Canoe Beach,Ocean,,20020000,,,,,20.910017,-156.68917,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RFN,FlemingNorth DT beach park,Ocean,,20020000,,,,,21.005,-156.65084,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RFS,FlemingSouth Kapalua Bay,Ocean,,20020000,,,,,20.998636,-156.66667,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RHL,Honolua,Ocean,,20020000,,,,,21.013058,-156.63834,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RHO,Honokowai,Ocean,,20020000,,,,,20.955278,-156.686472,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RKA,South seep (Kahekili 4),Ocean,,20020000,,,,,20.938304,-156.692792,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RKN,North seep (Kehekili 3),Ocean,,20020000,,,,,20.940004,-156.692586,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RKO,Ka'opala,Ocean,,20020000,,,,,20.981967,-156.67308,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RKS,Kaanapali Shores,Ocean,,20020000,,,,,20.949331,-156.691124,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RKV,Kahana Village,Ocean,,20020000,,,,,20.976561,-156.678,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RLO,Lokelani,Ocean,,20020000,,,,,20.960256,-156.68436,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RMO,Mokuleia,Ocean,,20020000,,,,,21.011111,-156.64256,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RNN,Napili (north end),Ocean,,20020000,,,,,20.99658,-156.66614,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RNS,Napili (south end),Ocean,,20020000,,,,,20.994222,-156.667417,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RON,Oneloa,Ocean,,20020000,,,,,21.004056,-156.65894,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RPA,Papakea,Ocean,,20020000,,,,,20.950738,-156.690333,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RPO,Pohaku,Ocean,,20020000,,,,,20.967083,-156.68139,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RPU,Pohaku 2,Ocean,,20020000,,,,,20.968376,-156.681003,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RSK,Sheraton Ka'anapali,Ocean,,20020000,,,,,20.92495,-156.69527,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-RWA,Wahikuli,Ocean,,20020000,,,,,20.90423,-156.68593,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SAK,Ahihi Kina'u,Ocean,,20020000,,,,,20.61845,-156.43748,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SBA,Baby Beach,Ocean,,20020000,,,,,20.912772,-156.402925,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SBB,Baldwin Beach,Ocean,,20020000,,,,,20.913989,-156.393739,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SHE,Hookipa Beach Park E,Ocean,,20020000,,,,,20.934069,-156.356622,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SHP,Haycraft Park,Ocean,,20020000,,,,,20.79657,-156.50173,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SHW,Hookipa Beach Park W,Ocean,,20020000,,,,,20.933519,-156.357594,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SKA,Kanaha Beach,Ocean,,20020000,,,,,20.903278,-156.435917,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SKB,K Bay,Ocean,,20020000,,,,,20.942239,-156.318086,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SKH,Kahului Harbor,Ocean,,20020000,,,,,20.891192,-156.473478,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SKI,Kihei Pier,Ocean,,20020000,,,,,20.78115,-156.46283,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SKO,Kō'ie'ie Fishpond,Ocean,,20020000,,,,,20.76387,-156.45908,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SKP,Kalama Park,Ocean,,20020000,,,,,20.73122,-156.45388,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SKU,Kuau Bay,Ocean,,20020000,,,,,20.922344,-156.374183,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SMA,Mama's Beach,Ocean,,20020000,,,,,20.929565,-156.367104,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SMB,Maliko Bay,Ocean,,20020000,,,,,20.936194,-156.339161,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SPB,Paia Bay,Ocean,,20020000,,,,,20.915669,-156.385783,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SPE,Pe'ahi shoreline,Ocean,,20020000,,,,,20.940953,-156.299172,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
+HUIWAIOLA_WQX,The Nature Conservancy - Honolulu,HUIWAIOLA_WQX-SWB,Waihe'e Beach Park,Ocean,,20020000,,,,,20.932534,-156.498876,,,,GPS-Unspecified,WGS84,,,,,,,US,15,009,,,,,,,,,STORET
