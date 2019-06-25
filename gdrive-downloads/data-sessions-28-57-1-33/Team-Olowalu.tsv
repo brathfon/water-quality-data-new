@@ -1,0 +1,166 @@
+Copied to main database by Kim/Bill 	Checked by Dana	yes/no	yes/no	#	R2RS, R2RN, Polanui, Olowalu	LLHS	initials	initials	initials	RCB	RCB031717	2062	Canoe Beach	03/17/17	12:00										RCB031717	deg C	ppt	mg/L	%								0, 1, 2, 3, 4	0-8	0-5	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	
+		Nut_Dup	Sed_Sample	Session	Team	Lab	Sampler	Sampler2	Sampler3	Station	SampleID	Location	SiteName	Date	Time	40D#	2100Q#	pHInst#	DOInst#	SalInst#	Moon	Cloud_1_8	Rain_1_4	Wind_dir	SampleID2	Temp	Salinity	DO	DO%	pH	Turb1	Turb2	Turb 3	Average Turbidity	CV Turbidity		Waves	Wind	Stream	Swimmers	On Beach	Campers	Comments
+		Example:		26	R2RS	LLHS	CM	TF	MS	RCB	RCB170821	2020	Canoe Beach	2017-08-21	9:22:00	1	1	4	2	3	1	7	2		RCB170821	27.0	33.1	6.92	104.4	8.18	5.78	5.86	6.03	Calculated	Calculated		1	0		1	20		
+yes	yes	no	no	28	Olowalu	LLHS	RN	MG	LO	OPM	OPM171005	2073	Martin Hale	2017-10-05	7:10	1	1	4	2	3	15	1		trades	OPM171005	26.0	34.7	5.80	87.0	8.10	3.05	2.57	2.60	2.74	0.098		0	4		0	0	0	
+yes	yes	no	no	28	Olowalu	LLHS	RN	MG	LO	OCO	OCO171005	2028	Camp Olowalu	2017-10-05	7:35	1	1	4	2	3	15	1		trades	OCO171005	26.0	34.6	6.19	92.6	8.07	6.71	6.81	7.00	6.84	0.022		1	4		0	5	0	
+yes	yes	no	no	28	Olowalu	LLHS	RN	MG	LO	OMM	OMM171005	2029	Mile Marker 14	2017-10-05	7:52	1	1	4	2	3	15	1		trades	OMM171005	25.7	34.5	5.99	89.1	8.02	7.95	7.79	7.83	7.86	0.011		1	2		0	0	0	sample location possibly off by 50'
+yes	yes	no	no	28	Olowalu	LLHS	RN	MG	LO	OUB	OUB171005	2032	Ukumehame	2017-10-05	8:13	1	1	4	2	3	15	1		trades	OUB171005	25.7	34.6	6.61	98.4	8.12	10.50	10.60	10.10	10.40	0.025		2	2		0	0	0	
+yes	yes	no	no	28	Olowalu	LLHS	RN	MG	LO	OPB	OPB171005	2033	Papalaua Beach	2017-10-05	8:25	1	1	4	2	3	15	1		trades	OPB171005	25.9	34.6	6.85	102.2	8.15	7.56	8.04	8.11	7.90	0.038		2	2		0	0	0	
+yes	yes	no	no	28	Olowalu	LLHS	RN	MG	LO	OPP	OPP171005	2034	Papalaua Pali	2017-10-05	8:38	1	1	4	2	3	15	1		trades	OPP171005	26.3	34.2	6.71	100.6	8.13	3.64	3.48	3.13	3.42	0.076		2	3		0	1	0	
+yes	yes	no	no	29	Olowalu	LLHS	GB	RN		OPM	OPM171026	2073	Martin Hale	2017-10-26	7:01	2	3	3	1	2	6	7		trades	OPM171026	26.0	34.7	5.78	86.6	7.96	6.06	6.52	6.32	6.30	0.037		1	1		0	0	0	heavy rain 3-4 days ago
+yes	yes	no	no	29	Olowalu	LLHS	GB	RN		OCO	OCO171026	2028	Camp Olowalu	2017-10-26	7:31	2	3	3	1	2	6	7		trades	OCO171026	26.7	34.5	6.25	94.7	8.01	4.72	4.81	4.73	4.75	0.010		1	0		0	12	0	heavy rain 3-4 days ago
+yes	yes	no	no	29	Olowalu	LLHS	GB	RN		OMM	OMM171026	2029	Mile Marker 14	2017-10-26	7:51	2	3	3	1	2	6	7		trades	OMM171026	26.8	34.5	5.45	82.7	7.96	5.43	5.34	4.99	5.25	0.044		2	0		0	0	0	heavy rain 3-4 days ago
+yes	yes	no	no	29	Olowalu	LLHS	GB	RN		OUB	OUB171026	2032	Ukumehame	2017-10-26	8:14	2	3	3	1	2	6	7		trades	OUB171026	26.8	34.8	6.37	96.9	8.06	10.50	9.99	10.80	10.43	0.039		1	1		0	0	0	heavy rain 3-4 days ago
+yes	yes	no	no	29	Olowalu	LLHS	GB	RN		OPB	OPB171026	2033	Papalaua Beach	2017-10-26	8:40	2	3	3	1	2	6	7		trades	OPB171026	26.9	34.7	6.47	98.5	8.05	20.00	21.60	21.50	21.03	0.043		2	1		0	0	0	heavy rain 3-4 days ago
+yes	yes	no	no	29	Olowalu	LLHS	GB	RN		OPP	OPP171026	2034	Papalaua Pali	2017-10-26	9:05	2	3	3	1	2	6	7		trades	OPP171026	27.0	34.8	6.67	101.8	8.07	4.89	4.96	5.10	4.98	0.021		2	1		0	0	3	heavy rain 3-4 days ago
+yes	yes	no	no	30	Olowalu	LLHS	GB	MG	RN	OPM	OPM171116	2073	Martin Hale	2017-11-16	7:11	1	1	4	2	3	28	2	1	trades	OPM171116	23.8	34.8	5.99	86.6	8.10	3.64	3.22	3.61	3.49	0.067		0	3		0	0	0	spilled all KCL at OPM
+yes	yes	no	no	30	Olowalu	LLHS	GB	MG	RN	OCO	OCO171116	2028	Camp Olowalu	2017-11-16	7:35	1	1	4	2	3	28	2	1	trades	OCO171116	23.8	35.1	6.33	91.5	8.12	2.15	2.24	2.28	2.22	0.030		0	3		0	0	0	
+yes	yes	no	no	30	Olowalu	LLHS	GB	MG	RN	OMM	OMM171116	2029	Mile Marker 14	2017-11-16	7:50	1	1	4	2	3	28	2	1	trades	OMM171116	24.0	35.0	5.83	84.5	8.07	3.02	2.29	2.52	2.61	0.143		1	3		0	0	0	resolved OMM exact location issue
+yes	yes	no	no	30	Olowalu	LLHS	GB	MG	RN	OUB	OUB171116	2032	Ukumehame	2017-11-16	8:10	1	1	4	2	3	28	2	1	trades	OUB171116	23.5	35.0	6.73	96.9	8.15	5.61	5.61	5.71	5.64	0.010		2	4		0	0	0	
+yes	yes	no	no	30	Olowalu	LLHS	GB	MG	RN	OPB	OPB171116	2033	Papalaua Beach	2017-11-16	8:27	1	1	4	2	3	28	2	1	trades	OPB171116	24.2	34.9	7.03	102.2	8.17	5.63	5.55	5.81	5.66	0.024		2	3		0	0	2	
+yes	yes	no	no	30	Olowalu	LLHS	GB	MG	RN	OPP	OPP171116	2034	Papalaua Pali	2017-11-16	8:45	1	1	4	2	3	28	2	1	trades	OPP171116	25.0	34.7	6.75	99.4	8.14	1.53	1.52	1.86	1.64	0.118		2	2		0	0	2	
+yes	yes	no	no	31	Olowalu	LLHS	GB	LO	RN	OPM	OPM171207	2073	Martin Hale	2017-12-07	7:08	2	3	3	1	2	20	1	0	trades	OPM171207	23.3	34.8	6.27	89.5	8.09	6.48	6.56	6.95	6.66	0.038		1	1		0	0	0	
+yes	yes	no	no	31	Olowalu	LLHS	GB	LO	RN	OCO	OCO171207	2028	Camp Olowalu	2017-12-07	7:30	2	3	3	1	2	20	1	0	trades	OCO171207	23.7	34.9	6.38	91.6	8.13	3.59	3.59	3.52	3.57	0.011		1	0		0	5	0	
+yes	yes	no	no	31	Olowalu	LLHS	GB	LO	RN	OMM	OMM171207	2029	Mile Marker 14	2017-12-07	7:47	2	3	3	1	2	20	1	0	trades	OMM171207	24.2	35.0	6.07	87.9	8.11	3.25	3.39	3.32	3.32	0.021		1	0		0	12	1	
+yes	yes	no	no	31	Olowalu	LLHS	GB	LO	RN	OUB	OUB171207	2032	Ukumehame	2017-12-07	8:04	2	3	3	1	2	20	1	0	trades	OUB171207	24.6	34.9	6.55	95.5	8.14	5.75	5.63	5.97	5.78	0.030		3	0		0	0	0	
+yes	yes	no	no	31	Olowalu	LLHS	GB	LO	RN	OPB	OPB171207	2033	Papalaua Beach	2017-12-07	8:20	2	3	3	1	2	20	1	0	trades	OPB171207	24.6	35.0	6.67	97.2	8.18	4.39	4.58	4.15	4.37	0.049		3	0		0	8	0	
+yes	yes	no	no	31	Olowalu	LLHS	GB	LO	RN	OPP	OPP171207	2034	Papalaua Pali	2017-12-07	8:33	2	3	3	1	2	20	1	0	trades	OPP171207	24.3	34.8	6.80	98.8	8.18	2.02	2.12	1.99	2.04	0.033		3	0		0	2	0	
+yes	yes	no	no	32	Olowalu	LLHS	DR	LO		OPM	OPM171221	2073	Martin Hale	2017-12-21	8:21	1	1	4	2	3	4	6	4	varied direction	OPM171221	23.5	34.7	6.46	92.8	8.03	9.07	10.40	10.40	9.96	0.077		0	1		0	0	0	
+yes	yes	no	no	32	Olowalu	LLHS	DR	LO		OCO	OCO171221	2028	Camp Olowalu	2017-12-21	8:45	1	1	4	2	3	4	6	4	varied direction	OCO171221	24.1	34.8	5.91	85.9	8.02	2.35	2.23	2.65	2.41	0.090		0	1		0	0	0	
+yes	yes	no	no	32	Olowalu	LLHS	DR	LO		OMM	OMM171221	2029	Mile Marker 14	2017-12-21	9:04	1	1	4	2	3	4	6	4	varied direction	OMM171221	24.2	34.6	5.87	85.4	8.00	4.36	4.27	4.38	4.34	0.014		0	0		5	3	0	
+yes	yes	no	no	32	Olowalu	LLHS	DR	LO		OUB	OUB171221	2032	Ukumehame	2017-12-21	9:24	1	1	4	2	3	4	6	4	varied direction	OUB171221	24.2	34.6	6.63	96.5	8.11	3.66	3.56	3.52	3.58	0.020		1	2	4	0	0	2	OUB stream flowing brown
+yes	yes	no	no	32	Olowalu	LLHS	DR	LO		OPB	OPB171221	2033	Papalaua Beach	2017-12-21	9:43	1	1	4	2	3	4	6	4	varied direction	OPB171221	24.7	34.6	6.63	97.4	8.09	50.00	50.40	49.10	49.83	0.013		1	1		0	0	0	OPB porta potty maybe leaking
+yes	yes	no	no	32	Olowalu	LLHS	DR	LO		OPP	OPP171221	2034	Papalaua Pali	2017-12-21	9:58	1	1	4	2	3	4	6	4	varied direction	OPP171221	25.0	35.1	6.24	92.3	8.11	13.30	13.10	13.20	13.20	0.008		2	0	4	0	2	1	OPP stream brown
+yes	yes	no	no	33	Olowalu	LLHS	MG	LO	RN	OPM	OPM180111	2073	Martin Hale	2018-01-11	7:14	2	3	3	1	2	25	1	0	trades	OPM180111	23.1	34.3	5.88	83.4	8.06	2.66	2.53	2.48	2.56	0.036		0	0		0	0	0	
+yes	yes	no	no	33	Olowalu	LLHS	MG	LO	RN	OCO	OCO180111	2028	Camp Olowalu	2018-01-11	7:34	2	3	3	1	2	25	1	0	trades	OCO180111	24.1	34.6	6.47	93.4	8.10	1.10	0.90	0.83	0.94	0.149		0	1		9	1	0	
+yes	yes	no	no	33	Olowalu	LLHS	MG	LO	RN	OMM	OMM180111	2029	Mile Marker 14	2018-01-11	7:46	2	3	3	1	2	25	1	0	trades	OMM180111	23.9	34.4	6.29	90.3	8.09	1.14	1.09	1.20	1.14	0.048		0	1		0	4	1	
+yes	yes	no	no	33	Olowalu	LLHS	MG	LO	RN	OUB	OUB180111	2032	Ukumehame	2018-01-11	8:00	2	3	3	1	2	25	1	0	trades	OUB180111	24.2	34.6	6.65	96.0	8.14	2.09	2.16	2.10	2.12	0.018		1	1		0	1	0	
+yes	yes	no	no	33	Olowalu	LLHS	MG	LO	RN	OPB	OPB180111	2033	Papalaua Beach	2018-01-11	8:12	2	3	3	1	2	25	1	0	trades	OPB180111	24.2	34.8	6.85	99.3	8.14	4.19	5.02	3.85	4.35	0.138		1	0		0	0	0	
+yes	yes	no	no	33	Olowalu	LLHS	MG	LO	RN	OPP	OPP180111	2034	Papalaua Pali	2018-01-11	8:30	2	3	3	1	2	25	1	0	trades	OPP180111	24.4	34.6	6.82	99.0	8.13	1.53	1.67	1.70	1.63	0.056		1	0		0	2	0	
+yes	yes	no	no	34	Olowalu	LLHS	GB	LO	RN	OPM	OPM180201	2073	Martin Hale	2018-02-01	7:07	1	1	4	2	3	16	5	0	kona	OPM180201	24.2	34.9	6.27	91.6	8.08	20.80	21.20	22.70	21.57	0.046		1	1		0	0	0	
+yes	yes	no	no	34	Olowalu	LLHS	GB	LO	RN	OCO	OCO180201	2028	Camp Olowalu	2018-02-01	7:27	1	1	4	2	3	16	5	0	kona	OCO180201	25.2	34.2	6.44	95.4	8.08	2.96	2.92	3.25	3.04	0.059		1	1		18	11	0	
+yes	yes	no	no	34	Olowalu	LLHS	GB	LO	RN	OMM	OMM180201	2029	Mile Marker 14	2018-02-01	7:44	1	1	4	2	3	16	5	0	kona	OMM180201	25.1	34.5	6.26	92.5	8.07	4.57	4.34	4.23	4.38	0.040		1	1		0	3	3	
+yes	yes	no	no	34	Olowalu	LLHS	GB	LO	RN	OUB	OUB180201	2032	Ukumehame	2018-02-01	7:58	1	1	4	2	3	16	5	0	kona	OUB180201	24.6	34.7	6.54	95.9	8.12	5.91	6.20	5.72	5.94	0.041		1	2		0	0	0	
+yes	yes	no	no	34	Olowalu	LLHS	GB	LO	RN	OPB	OPB180201	2033	Papalaua Beach	2018-02-01	8:12	1	1	4	2	3	16	5	0	kona	OPB180201	25.0	34.8	6.59	97.5	8.10	7.42	8.99	7.38	7.93	0.116		2	2		0	0	0	
+yes	yes	no	no	34	Olowalu	LLHS	GB	LO	RN	OPP	OPP180201	2034	Papalaua Pali	2018-02-01	8:28	1	1	4	2	3	16	5	0	kona	OPP180201	24.9	34.7	6.53	96.4	8.14	2.65	2.47	2.96	2.69	0.092		2	1		0	2	2	
+yes	yes	no	no	35	Olowalu	LLHS	DR	LO	RN	OPM	OPM180222	2073	Martin Hale	2018-02-22	7:15	2	3	3	2	2	7	8	0	trades	OPM180222	24.0	34.0	5.85	84.2	8.02	6.68	6.73	6.92	6.78	0.019		0	0	0	0	0	0	Started sprinkling at last site.
+yes	yes	no	no	35	Olowalu	LLHS	DR	LO	RN	OCO	OCO180222	2028	Camp Olowalu	2018-02-22	7:45	2	3	3	2	2	7	8	0	trades	OCO180222	24.7	34.5	6.19	90.2	8.07	3.13	3.06	3.14	3.11	0.014		1	0	0	26	6	0	
+yes	yes	no	no	35	Olowalu	LLHS	DR	LO	RN	OMM	OMM180222	2029	Mile Marker 14	2018-02-22	8:02	2	3	3	2	2	7	8	0	trades	OMM180222	24.6	34.4	5.90	85.7	8.03	3.28	3.19	3.31	3.26	0.019		1	0	0	0	4	8	
+yes	yes	no	no	35	Olowalu	LLHS	DR	LO	RN	OUB	OUB180222	2032	Ukumehame	2018-02-22	8:20	2	3	3	2	2	7	8	0	trades	OUB180222	24.4	34.6	6.61	96.0	8.10	3.87	4.09	3.97	3.98	0.028		1	0	0	0	0	0	
+yes	yes	no	no	35	Olowalu	LLHS	DR	LO	RN	OPB	OPB180222	2033	Papalaua Beach	2018-02-22	8:36	2	3	3	2	2	7	8	0	trades	OPB180222	24.6	34.7	6.82	99.3	8.10	10.70	10.20	10.20	10.37	0.028		2	0	0	0	0	0	
+yes	yes	no	no	35	Olowalu	LLHS	DR	LO	RN	OPP	OPP180222	2034	Papalaua Pali	2018-02-22	8:52	2	3	3	2	2	7	8	0	trades	OPP180222	24.6	34.7	6.51	94.9	8.11	3.96	4.73	4.38	4.36	0.088		2	0	0	0	3	1	
+yes	yes	no	no	36	Olowalu	LLHS	LO	RN	LR	OPM	OPM180315	2073	Martin Hale	2018-03-15	7:15	2	1	3	2	2	28	0	0	light kona	OPM180315	23.9	34.1	6.19	88.9	8.05	4.21	4.23	4.32	4.25	0.014		1	0		0	0	0	
+yes	yes	no	no	36	Olowalu	LLHS	LO	RN	LR	OCO	OCO180315	2028	Camp Olowalu	2018-03-15	7:31	2	1	3	2	2	28	0	0	light kona	OCO180315	24.3	34.3	6.52	94.4	8.08	8.06	8.88	8.75	8.56	0.051		2	0		2	5	0	
+yes	yes	no	no	36	Olowalu	LLHS	LO	RN	LR	OMM	OMM180315	2029	Mile Marker 14	2018-03-15	7:45	2	1	3	2	2	28	0	0	light kona	OMM180315	24.3	34.2	6.34	91.8	8.01	8.42	8.47	9.20	8.70	0.050		1	0		0	3	0	
+yes	yes	no	no	36	Olowalu	LLHS	LO	RN	LR	OUB	OUB180315	2032	Ukumehame	2018-03-15	8:00	2	1	3	2	2	28	0	0	light kona	OUB180315	24.3	34.4	6.83	99.0	8.08	9.15	8.53	8.27	8.65	0.052		2	0		0	1	0	
+yes	yes	no	no	36	Olowalu	LLHS	LO	RN	LR	OPB	OPB180315	2033	Papalaua Beach	2018-03-15	8:14	2	1	3	2	2	28	0	0	light kona	OPB180315	24.8	34.6	6.93	101.3	8.13	6.58	7.80	7.31	7.23	0.085		2	0		0	0	0	
+yes	yes	no	no	36	Olowalu	LLHS	LO	RN	LR	OPP	OPP180315	2034	Papalaua Pali	2018-03-15	8:30	2	1	3	2	2	28	0	0	light kona	OPP180315	24.9	34.6	6.87	100.6	8.07	7.64	6.67	7.22	7.18	0.068		2	0		0	0	3	
+yes	yes	no	no	37	Olowalu	LLHS	LO	RN	DR	OPM	OPM180405	2073	Martin Hale	2018-04-05	7:10	1	3	4	1	3	20	7	2	Kona	OPM180405	25.1	34.4	6.14	90.5	8.11	3.25	3.93	4.04	3.74	0.114		0	1		0	0	0	Rain overnight. 
+yes	yes	no	no	37	Olowalu	LLHS	LO	RN	DR	OCO	OCO180405	2028	Camp Olowalu	2018-04-05	7:30	1	3	4	1	3	20	7	2	Kona	OCO180405	26.6	34.2	6.22	94.0	8.06	4.96	5.11	5.95	5.34	0.100		1	1		0	3	0	
+yes	yes	no	no	37	Olowalu	LLHS	LO	RN	DR	OMM	OMM180405	2029	Mile Marker 14	2018-04-05	7:42	1	3	4	1	3	20	7	2	Kona	OMM180405	26.4	33.7	5.52	82.7	8.03	2.50	2.67	2.38	2.52	0.058		1	2		0	3	1	
+yes	yes	no	no	37	Olowalu	LLHS	LO	RN	DR	OUB	OUB180405	2032	Ukumehame	2018-04-05	7:59	1	3	4	1	3	20	7	2	Kona	OUB180405	25.2	34.2	6.70	98.8	8.13	9.30	10.70	9.98	9.99	0.070		2	3	2	0	0	0	Ukumehame stream flowing
+yes	yes	no	no	37	Olowalu	LLHS	LO	RN	DR	OPB	OPB180405	2033	Papalaua Beach	2018-04-05	8:15	1	3	4	1	3	20	7	2	Kona	OPB180405	25.3	34.1	6.74	99.6	8.10	22.40	23.70	22.30	22.80	0.034		2	1		0	0	0	
+yes	yes	no	no	37	Olowalu	LLHS	LO	RN	DR	OPP	OPP180405	2034	Papalaua Pali	2018-04-05	8:30	1	3	4	1	3	20	7	2	Kona	OPP180405	25.7	34.3	6.50	96.8	8.08	18.90	20.00	19.60	19.50	0.029		2	1		0	0	2	Slight drizzle as we sampled.
+yes	yes	no	no	38	Olowalu	LLHS	MG	RN	LR	OPM	OPM180426	2073	Martin Hale	2018-04-26	7:10	2	1	3	2	2	11	2	0		OPM180426	24.7	34.0	5.84	85.0	8.08	1.22	1.47	1.49	1.39	0.108		0	0		0	0	0	No rain in last 24 hours
+yes	yes	no	no	38	Olowalu	LLHS	MG	RN	LR	OCO	OCO180426	2028	Camp Olowalu	2018-04-26	7:30	2	1	3	2	2	11	2	0		OCO180426	24.6	33.8	6.52	94.6	8.10	2.50	2.74	2.95	2.73	0.082		0	1		6	4	0	No rain in last 24 hours
+yes	yes	no	no	38	Olowalu	LLHS	MG	RN	LR	OMM	OMM180426	2029	Mile Marker 14	2018-04-26	7:47	2	1	3	2	2	11	2	0		OMM180426	24.4	33.9	6.08	88.0	8.08	1.59	1.55	1.58	1.57	0.013		0	1		0	1	2	No rain in last 24 hours
+yes	yes	no	no	38	Olowalu	LLHS	MG	RN	LR	OUB	OUB180426	2032	Ukumehame	2018-04-26	8:03	2	1	3	2	2	11	2	0		OUB180426	24.6	34.2	6.83	99.2	8.12	4.97	4.87	5.31	5.05	0.046		2	1		7	3	2	No rain in last 24 hours
+yes	yes	no	no	38	Olowalu	LLHS	MG	RN	LR	OPB	OPB180426	2033	Papalaua Beach	2018-04-26	8:20	2	1	3	2	2	11	5	0		OPB180426	24.9	34.1	6.95	101.7	8.15	3.51	3.03	3.27	3.27	0.073		2	1		0	0	0	No rain in last 24 hours, wind became light onshore
+yes	yes	no	no	38	Olowalu	LLHS	MG	RN	LR	OPP	OPP180426	2034	Papalaua Pali	2018-04-26	8:40	2	1	3	2	2	11	5	0		OPP180426	24.7	33.9	7.00	102.4	8.17	1.93	2.22	2.37	2.17	0.103		2	0		2	0	4	No rain in last 24 hours, wind became light onshore
+yes	yes	no	no	39	Olowalu	LLHS	RN	DR		OPM	OPM180517	2073	Martin Hale	2018-05-17	7:16	1	3	4	1	3	4	8	0	Still	OPM180517	25.7	34.3	5.70	84.6	8.06	1.81	1.99	1.88	1.89	0.048		0	0		0	0	0	VOG and haze
+yes	yes	no	no	39	Olowalu	LLHS	RN	DR		OCO	OCO180517	2028	Camp Olowalu	2018-05-17	7:41	1	3	4	1	3	4	8	0	Still	OCO180517	26.7	34.2	6.25	94.5	8.08	3.79	3.98	3.73	3.83	0.034		0	0		1	2	0	VOG and haze, 1 fisherman north of sampling
+yes	yes	no	no	39	Olowalu	LLHS	RN	DR		OMM	OMM180517	2029	Mile Marker 14	2018-05-17	8:01	1	3	4	1	3	4	8	0	Still	OMM180517	27.2	34.2	5.89	89.7	8.03	2.24	2.21	2.36	2.27	0.035		0	0		0	2	1	VOG and haze
+yes	yes	no	no	39	Olowalu	LLHS	RN	DR		OUB	OUB180517	2032	Ukumehame	2018-05-17	8:26	1	3	4	1	3	4	8	0	Still	OUB180517	26.9	34.4	6.61	100.3	8.12	5.54	5.52	5.98	5.68	0.046		0	0		8	2	0	VOG and haze
+yes	yes	no	no	39	Olowalu	LLHS	RN	DR		OPB	OPB180517	2033	Papalaua Beach	2018-05-17	8:44	1	3	4	1	3	4	6	0	Still	OPB180517	27.5	34.5	6.96	106.2	8.20	3.42	3.49	3.28	3.40	0.031		0	0		0	0	0	VOG and haze
+yes	yes	no	no	39	Olowalu	LLHS	RN	DR		OPP	OPP180517	2034	Papalaua Pali	2018-05-17	9:04	1	3	4	1	3	4	6	0	Still	OPP180517	27.1	34.5	6.78	103.3	8.15	3.65	3.67	3.31	3.54	0.057		1	1		1	0	2	VOG and haze
+yes	yes	no	no	40	Olowalu	LLHS	RN	DR	MG	OPM	OPM180607	2073	Martin Hale	2018-06-07	7:12	2	1	3	2	2	24	3	0	Trades	OPM180607	24.5	34.1	5.38	78.2	8.02	0.90	0.99	0.92	0.94	0.050		0	1		0	0	0	Peter Martin engaged in conversation about WQ. Wanted to know how cesspools affect WQ.
+yes	yes	no	no	40	Olowalu	LLHS	RN	DR	MG	OCO	OCO180607	2028	Camp Olowalu	2018-06-07	7:46	2	1	3	2	2	24	3	0	Trades	OCO180607	25.3	34.1	6.33	93.1	8.08	2.73	2.90	3.44	3.02	0.123		0	1		6	0	0	
+yes	yes	no	no	40	Olowalu	LLHS	RN	DR	MG	OMM	OMM180607	2029	Mile Marker 14	2018-06-07	7:57	2	1	3	2	2	24	3	0	Trades	OMM180607	25.3	34.1	5.70	83.9	8.03	1.99	2.11	2.26	2.12	0.064		0	0		0	2	5	
+yes	yes	no	no	40	Olowalu	LLHS	RN	DR	MG	OUB	OUB180607	2032	Ukumehame	2018-06-07	8:13	2	1	3	2	2	24	3	0	Trades	OUB180607	25.0	34.4	6.61	96.9	8.09	8.00	7.86	8.33	8.06	0.030		0	3		1	0	0	
+yes	yes	no	no	40	Olowalu	LLHS	RN	DR	MG	OPB	OPB180607	2033	Papalaua Beach	2018-06-07	8:26	2	1	3	2	2	24	3	0	Trades	OPB180607	24.9	34.4	6.89	101.0	8.13	2.74	2.99	3.18	2.97	0.074		1	0		0	0	0	
+yes	yes	no	no	40	Olowalu	LLHS	RN	DR	MG	OPP	OPP180607	2034	Papalaua Pali	2018-06-07	8:40	2	1	3	2	2	24	3	0	Trades	OPP180607	25.2	34.3	6.84	100.6	8.13	1.68	1.86	1.83	1.79	0.054		2	1		0	4	4	
+yes	yes	no	no	41	Olowalu	LLHS	RN	LR		OPM	OPM180628	2073	Martin Hale	2018-06-28	7:25	1	3	4	1	3	15	3	0	Kona	OPM180628	25.8	34.3	6.00	89.4	8.09	1.60	1.54	1.43	1.52	0.057		0	0		0	0	0	Team noted that temp on DO probe 0.2 C higher than salinity probe.  This is within tolerance.
+yes	yes	no	no	41	Olowalu	LLHS	RN	LR		OCO	OCO180628	2028	Camp Olowalu	2018-06-28	7:40	1	3	4	1	3	15	3	0	Kona	OCO180628	26.0	34.3	6.39	95.6	8.07	4.86	5.51	5.42	5.26	0.067		1	1		0	4	0	
+yes	yes	no	no	41	Olowalu	LLHS	RN	LR		OUB	OUB180628	2032	Ukumehame	2018-06-28	8:01	1	3	4	1	3	15	3	0	Kona	OUB180628	26.5	34.6	6.71	101.4	8.17	14.60	14.00	14.00	14.20	0.024		2	2		0	1	0	
+yes	yes	no	no	41	Olowalu	LLHS	RN	LR		OPB	OPB180628	2033	Papalaua Beach	2018-06-28	8:18	1	3	4	1	3	15	3	0	Kona	OPB180628	26.3	34.6	6.93	104.4	8.19	5.71	4.90	5.31	5.31	0.076		2	1		2	0	0	
+yes	yes	no	no	41	Olowalu	LLHS	RN	LR		OPP	OPP180628	2034	Papalaua Pali	2018-06-28	8:38	1	3	4	1	3	15	3	0	Kona	OPP180628	25.9	34.6	6.91	103.5	8.18	2.99	3.44	3.64	3.36	0.099		3	2		1	2	2	
+yes	yes	no	no	42	Olowalu	LLHS	RN	LR	LO	OPM	OPM180719	2073	Martin Hale	2018-07-19	7:15	2	1	3	2	2	7	1	0	Trades	OPM180719	25.5	34.1	5.96	88.0	8.10	6.51	5.49	5.10	5.70	0.128		1	2		0	0	0	
+yes	yes	no	no	42	Olowalu	LLHS	RN	LR	LO	OCO	OCO180719	2028	Camp Olowalu	2018-07-19	7:33	2	1	3	2	2	7	1	0	Trades	OCO180719	25.9	34.2	6.51	96.9	8.12	13.60	11.60	12.40	12.53	0.080		2	1		0	13	1	
+yes	yes	no	no	42	Olowalu	LLHS	RN	LR	LO	OUB	OUB180719	2032	Ukumehame	2018-07-19	7:49	2	1	3	2	2	7	1	0	Trades	OUB180719	26.3	34.3	6.62	99.1	8.19	16.90	17.10	16.50	16.83	0.018		2	1		0	0	0	
+yes	yes	no	no	42	Olowalu	LLHS	RN	LR	LO	OPB	OPB180719	2033	Papalaua Beach	2018-07-19	8:02	2	1	3	2	2	7	1	0	Trades	OPB180719	26.1	34.3	6.75	100.7	8.20	8.82	8.92	8.48	8.74	0.026		2	1		0	3	0	
+yes	yes	no	no	42	Olowalu	LLHS	RN	LR	LO	OPP	OPP180719	2034	Papalaua Pali	2018-07-19	8:14	2	1	3	2	2	7	1	0	Trades	OPP180719	26.1	34.2	6.72	100.3	8.20	5.27	3.80	3.75	4.27	0.202		2	1		2	4	1	
+yes	yes	no	no	43	Olowalu	LLHS	MB	JM		OPM	OPM180809	2073	Martin Hale	2018-08-09	7:20	1	3	5	1	3	28	2	0	Still	OPM180809	26.9	34.5	5.39	82.4	8.05	1.18	1.16	1.16	1.17	0.010		0	0		0	0	0	Another encounter with Peter Martin asking about water quality data in the Wahikuli region.  Esp nutrient data.
+yes	yes	no	no	43	Olowalu	LLHS	MB	JM		OCO	OCO180809	2028	Camp Olowalu	2018-08-09	7:35	1	3	5	1	3	28	2	0	Still	OCO180809	26.9	34.3	6.09	93.0	8.06	3.79	4.55	3.85	4.06	0.104		1	0		0	0	0	
+yes	yes	no	no	43	Olowalu	LLHS	MB	JM		OUB	OUB180809	2032	Ukumehame	2018-08-09	7:50	1	3	5	1	3	28	2	0	Still	OUB180809	26.5	34.4	6.55	99.3	8.14	13.90	13.30	13.70	13.63	0.022		3	0		0	0	0	Surfer asked questions about water quality
+yes	yes	no	no	43	Olowalu	LLHS	MB	JM		OPB	OPB180809	2033	Papalaua Beach	2018-08-09	8:05	1	3	5	1	3	28	2	0	Still	OPB180809	26.3	34.6	6.61	100.1	8.14	10.00	9.14	10.30	9.81	0.061		3	0		0	0	0	
+yes	yes	no	no	43	Olowalu	LLHS	MB	JM		OPP	OPP180809	2034	Papalaua Pali	2018-08-09	8:17	1	3	5	1	3	28	2	0	Still	OPP180809	26.5	34.6	6.63	100.6	8.16	7.31	6.34	7.20	6.95	0.076		3	0		0	2	0	
+yes	yes	no	no	44	Olowalu	LLHS	LO	MG	LR	OPM	OPM180830	2073	Martin Hale	2018-08-30	7:15	2	1	6	2	2	20	3	1	Still	OPM180830	25.8	34.3	6.20	92.3	8.13	11.40	12.70	11.20	11.77	0.069		0	0		0	0	0	Lahaina fire 5 days previous of date. Blank pre-sample a little high.
+yes	yes	no	no	44	Olowalu	LLHS	LO	MG	LR	OCO	OCO180830	2028	Camp Olowalu	2018-08-30	7:28	2	1	6	2	2	20	3	1	Still	OCO180830	26.0	34.3	6.21	92.8	8.11	3.62	3.31	3.42	3.45	0.046		1	0		0	0	0	
+yes	yes	no	no	44	Olowalu	LLHS	LO	MG	LR	OUB	OUB180830	2032	Ukumehame	2018-08-30	7:50	2	1	6	2	2	20	3	1	Still	OUB180830	24.8	34.5	6.77	99.2	8.16	18.60	18.10	20.00	18.90	0.052		2	2		0	0	0	
+yes	yes	no	no	44	Olowalu	LLHS	LO	MG	LR	OPB	OPB180830	2033	Papalaua Beach	2018-08-30	8:03	2	1	6	2	2	20	3	1	Still	OPB180830	25.0	34.3	6.77	99.6	8.17	5.79	5.30	5.20	5.43	0.058		2	3		0	0	0	Slight drizzle
+yes	yes	no	no	44	Olowalu	LLHS	LO	MG	LR	OPP	OPP180830	2034	Papalaua Pali	2018-08-30	8:15	2	1	6	2	2	20	3	1	Still	OPP180830	25.6	34.1	6.47	95.8	8.15	14.00	13.70	12.60	13.43	0.055		2	3		0	0	0	DO display on meter intermitant
+yes	yes	no	no	45	Olowalu	LLHS	LO	MG	RN	OPM	OPM180920	2073	Martin Hale	2018-09-20	7:20	1	3	5	1	3	11	0	0	0	OPM180920	27.0	34.3	5.28	80.6	8.03	1.44	1.40	1.73	1.52	0.118		0	0	0	0	0	0	no rain in last 24 hours
+yes	yes	no	no	45	Olowalu	LLHS	LO	MG	RN	OCO	OCO180920	2028	Camp Olowalu	2018-09-20	7:33	1	3	5	1	3	11	0	0	0	OCO180920	27.3	34.4	6.02	92.4	8.11	2.15	2.20	2.15	2.17	0.013		0	0	0	0	6	0	no rain in last 24 hours
+yes	yes	no	no	45	Olowalu	LLHS	LO	MG	RN	OUB	OUB180920	2032	Ukumehame	2018-09-20	7:55	1	3	5	1	3	11	0	0	0	OUB180920	27.3	34.6	6.39	98.1	8.12	15.20	15.40	15.50	15.37	0.010		2	0	0	8	1	0	no rain in last 24 hours
+yes	yes	no	no	45	Olowalu	LLHS	LO	MG	RN	OPB	OPB180920	2033	Papalaua Beach	2018-09-20	8:10	1	3	5	1	3	11	0	0	0	OPB180920	27.6	34.6	6.57	101.5	8.14	6.90	6.49	6.55	6.65	0.033		2	0	0	0	2	0	no rain in last 24 hours
+yes	yes	no	no	45	Olowalu	LLHS	LO	MG	RN	OPP	OPP180920	2034	Papalaua Pali	2018-09-20	8:21	1	3	5	1	3	11	0	0	0	OPP180920	27.6	34.4	6.45	99.4	8.14	4.78	5.37	4.83	4.99	0.066		2	0	0	0	2	0	no rain in last 24 hours
+yes	yes	no	no	46	Olowalu	LLHS	LO	MG	LR	OPM	OPM181011	2073	Martin Hale	2018-10-11	7:14	2	1	6	2	2					OPM181011	27.0	34.6	6.28	95.7	8.11	17.00	18.10	18.10	17.73	0.036					0	0	0	Pre-sampling tubidity blank > 0.1
+yes	yes	no	no	46	Olowalu	LLHS	LO	MG	LR	OCO	OCO181011	2028	Camp Olowalu	2018-10-11	7:34	2	1	6	2	2					OCO181011	27.7	34.6	6.41	98.7	8.12	24.20	23.80	23.30	23.77	0.019					0	0	0	
+yes	yes	no	no	46	Olowalu	LLHS	LO	MG	LR	OUB	OUB181011	2032	Ukumehame	2018-10-11	7:50	2	1	6	2	2					OUB181011	27.5	34.6	6.49	99.8	8.17	6.54	6.82	6.41	6.59	0.032					20	2	0	The swimmers were all serfers
+yes	yes	no	no	46	Olowalu	LLHS	LO	MG	LR	OPB	OPB181011	2033	Papalaua Beach	2018-10-11	8:00	2	1	6	2	2					OPB181011	27.4	34.5	6.61	101.4	8.16	6.79	7.11	6.86	6.92	0.024					0	0	0	
+yes	yes	no	no	46	Olowalu	LLHS	LO	MG	LR	OPP	OPP181011	2034	Papalaua Pali	2018-10-11	8:12	2	1	6	2	2					OPP181011	27.5	34.5	6.57	101.0	8.14	5.43	6.09	5.88	5.80	0.058					0	0	0	
+yes	yes	no	no	47	Olowalu	LLHS	LO	MG	RN	OPM	OPM181101	2073	Martin Hale	2018-11-01	7:13	1	3	5	1	3					OPM181101	26.8	34.5	5.51	83.7	8.03	1.36	2.36	2.47	2.06	0.296					0	0	0	
+yes	yes	no	no	47	Olowalu	LLHS	LO	MG	RN	OCO	OCO181101	2028	Camp Olowalu	2018-11-01	7:24	1	3	5	1	3					OCO181101	27.5	34.4	5.80	89.1	8.08	3.76	3.72	3.49	3.66	0.040					0	0	0	
+yes	yes	no	no	47	Olowalu	LLHS	LO	MG	RN	OUB	OUB181101	2032	Ukumehame	2018-11-01	7:40	1	3	5	1	3					OUB181101	27.2	34.5	6.43	98.3	8.13	23.30	24.50	23.60	23.80	0.026					1	1	0	
+yes	yes	no	no	47	Olowalu	LLHS	LO	MG	RN	OPB	OPB181101	2033	Papalaua Beach	2018-11-01	7:54	1	3	5	1	3					OPB181101	27.0	34.4	6.60	100.5	8.11	7.67	8.44	7.29	7.80	0.075					0	0	0	
+yes	yes	no	no	47	Olowalu	LLHS	LO	MG	RN	OPP	OPP181101	2034	Papalaua Pali	2018-11-01	8:02	1	3	5	1	3					OPP181101	27.3	34.4	6.45	98.6	8.13	8.06	8.45	8.45	8.32	0.027					2	2	0	
+yes	yes	no	no	48	Olowalu	LLHS	LO	JS	LR	OPM	OPM181129	2073	Martin Hale	2018-11-29	7:15	2	1	6	2	2					OPM181129	24.4	34.7	5.42	78.8	8.07	1.60	1.93	2.02	1.85	0.120					0	0	0	
+yes	yes	no	no	48	Olowalu	LLHS	LO	JS	LR	OCO	OCO181129	2028	Camp Olowalu	2018-11-29	7:32	2	1	6	2	2					OCO181129	24.9	34.9	6.47	95.0	8.15	1.22	1.03	1.10	1.12	0.086					2	1	0	
+yes	yes	no	no	48	Olowalu	LLHS	LO	JS	LR	OUB	OUB181129	2032	Ukumehame	2018-11-29	7:48	2	1	6	2	2					OUB181129	24.9	34.8	6.28	92.2	8.17	7.40	7.65	7.46	7.50	0.017					0	0	0	
+yes	yes	no	no	48	Olowalu	LLHS	LO	JS	LR	OPB	OPB181129	2033	Papalaua Beach	2018-11-29	8:00	2	1	6	2	2					OPB181129	25.3	35.0	6.45	95.4	8.18	3.85	3.88	3.64	3.79	0.035					0	0	0	
+yes	yes	no	no	48	Olowalu	LLHS	LO	JS	LR	OPP	OPP181129	2034	Papalaua Pali	2018-11-29	8:13	2	1	6	2	2					OPP181129	25.7	34.8	6.59	98.2	8.21	6.51	6.37	6.94	6.61	0.045					0	0	0	
+yes	yes	no	no	49	Olowalu	LLHS		MG	RN	OPM	OPM181213	2073	Martin Hale	2018-12-13	7:22	1	3	5	1	3					OPM181213	22.9	34.7	6.24	88.2	8.06	3.34	3.59	3.86	3.60	0.072					0	0	0	
+yes	yes	no	no	49	Olowalu	LLHS		MG	RN	OCO	OCO181213	2028	Camp Olowalu	2018-12-13	7:41	1	3	5	1	3					OCO181213	22.8	34.7	6.37	90.0	8.10	1.11	1.18	1.11	1.13	0.036					0	3	0	
+yes	yes	no	no	49	Olowalu	LLHS		MG	RN	OUB	OUB181213	2032	Ukumehame	2018-12-13	7:56	1	3	5	1	3					OUB181213	22.3	34.9	6.86	96.1	8.13	7.41	7.26	6.99	7.22	0.029					0	0	0	
+yes	yes	no	no	49	Olowalu	LLHS		MG	RN	OPB	OPB181213	2033	Papalaua Beach	2018-12-13	8:15	1	3	5	1	3					OPB181213	23.3	34.8	6.84	97.4	8.17	9.63	10.50	9.96	10.03	0.044					0	0	0	
+yes	yes	no	no	49	Olowalu	LLHS		MG	RN	OPP	OPP181213	2034	Papalaua Pali	2018-12-13	8:26	1	3	5	1	3					OPP181213	23.9	34.4	6.45	92.4	8.11	5.36	5.30	5.19	5.28	0.016					0	0	0	
+yes	yes	no	no	50	Olowalu	LLHS	LO	JS	LR	OPM	OPM190110	2073	Martin Hale	2019-01-10	7:18	2	3	6	2	2					OPM190110	23.9	34.6	6.05	87.0	8.04	6.16	6.47	6.47	6.37	0.028					0	0	0	
+yes	yes	no	no	50	Olowalu	LLHS	LO	JS	LR	OCO	OCO190110	2028	Camp Olowalu	2019-01-10	7:32	2	3	6	2	2					OCO190110	24.4	34.4	6.58	95.3	8.10	3.54	3.60	3.77	3.64	0.033					4	10	0	Kayak tour group at site - 4 kayaks in the water and 5 on land about to launch
+yes	yes	no	no	50	Olowalu	LLHS	LO	JS	LR	OUB	OUB190110	2032	Ukumehame	2019-01-10	7:50	2	3	6	2	2					OUB190110	24.3	34.7	6.55	94.8	8.12	13.90	14.50	14.10	14.17	0.022					0	0	0	
+yes	yes	no	no	50	Olowalu	LLHS	LO	JS	LR	OPB	OPB190110	2033	Papalaua Beach	2019-01-10	8:00	2	3	6	2	2					OPB190110	24.5	34.7	6.40	93.0	8.13	2.62	2.95	2.60	2.72	0.072					0	0	0	
+yes	yes	no	no	50	Olowalu	LLHS	LO	JS	LR	OPP	OPP190110	2034	Papalaua Pali	2019-01-10	8:13	2	3	6	2	2					OPP190110	24.5	34.4	6.75	97.8	8.18	4.31	3.78	4.01	4.03	0.066					0	2	0	
+yes	yes	no	no	51	Olowalu	LLHS	LO	LR	RN	OPM	OPM190131	2073	Martin Hale	2019-01-31	7:10	1	1	5	1	3					OPM190131	23.0	34.3	5.80	82.5	8.08	2.22	2.21	2.04	2.16	0.047					0	0	0	Light drizzle encountered, lid for bucket used
+yes	yes	no	no	51	Olowalu	LLHS	LO	LR	RN	OCO	OCO190131	2028	Camp Olowalu	2019-01-31	7:27	1	1	5	1	3					OCO190131	23.6	34.7	6.46	93.1	8.16	1.50	1.42	1.70	1.54	0.094					0	10	0	
+yes	yes	no	no	51	Olowalu	LLHS	LO	LR	RN	OUB	OUB190131	2032	Ukumehame	2019-01-31	7:43	1	1	5	1	3					OUB190131	22.9	34.5	6.72	95.6	8.18	2.02	2.23	2.20	2.15	0.053					0	0	0	
+yes	yes	no	no	51	Olowalu	LLHS	LO	LR	RN	OPB	OPB190131	2033	Papalaua Beach	2019-01-31	7:55	1	1	5	1	3					OPB190131	23.1	34.4	6.69	95.4	8.17	3.05	3.82	3.65	3.51	0.115					1	0	0	
+yes	yes	no	no	51	Olowalu	LLHS	LO	LR	RN	OPP	OPP190131	2034	Papalaua Pali	2019-01-31	8:10	1	1	5	1	3					OPP190131	23.4	34.6	6.60	94.9	8.17	1.50	1.51	1.78	1.60	0.099					0	1	2	
+yes	yes	no	no	52	Olowalu	LLHS	LO	RN	LR	OPM	OPM190221	2073	Martin Hale	2019-02-21	7:07	2	3	6	2	2					OPM190221	23.2	34.5	6.60	94.1	8.12	13.10	13.70	12.70	13.17	0.038					0	0	0	
+yes	yes	no	no	52	Olowalu	LLHS	LO	RN	LR	OCO	OCO190221	2028	Camp Olowalu	2019-02-21	7:22	2	3	6	2	2					OCO190221	24.1	34.5	6.20	89.7	8.12	1.31	1.44	1.45	1.40	0.056					2	12	0	
+yes	yes	no	no	52	Olowalu	LLHS	LO	RN	LR	OUB	OUB190221	2032	Ukumehame	2019-02-21	7:36	2	3	6	2	2					OUB190221	23.9	34.5	6.52	93.9	8.15	2.65	2.69	2.83	2.72	0.035					0	2	2	
+yes	yes	no	no	52	Olowalu	LLHS	LO	RN	LR	OPB	OPB190221	2033	Papalaua Beach	2019-02-21	7:51	2	3	6	2	2					OPB190221	24.1	34.5	6.79	98.3	8.15	10.40	10.70	10.90	10.67	0.024					0	2	0	
+yes	yes	no	no	52	Olowalu	LLHS	LO	RN	LR	OPP	OPP190221	2034	Papalaua Pali	2019-02-21	8:01	2	3	6	2	2					OPP190221	23.8	34.7	6.69	96.4	8.19	4.56	4.67	4.54	4.59	0.015					0	2	0	
+yes	yes	no	no	53	Olowalu	LLHS		JS	RN	OPM	OPM190314	2073	Martin Hale	2019-03-14	7:10	1	3	5	1	3					OPM190314	22.6	33.5	6.03	85.4	8.04	9.52	10.60	10.20	10.11	0.054					0	0	0	Salinity at OPM was above 35.0 on second test
+yes	yes	no	no	53	Olowalu	LLHS		JS	RN	OCO	OCO190314	2028	Camp Olowalu	2019-03-14	7:33	1	3	5	1	3					OCO190314	23.7	35.4	6.56	94.7	8.09	2.40	2.53	2.68	2.54	0.055					10	10	0	
+yes	yes	no	no	53	Olowalu	LLHS		JS	RN	OUB	OUB190314	2032	Ukumehame	2019-03-14	7:55	1	3	5	1	3					OUB190314	23.1	35.5	6.77	96.7	8.13	5.77	5.90	5.96	5.88	0.017					0	1	0	Took 4th turbidity reading at OPM since 3rd was greater over 20% difference with the first two readings.
+yes	yes	no	no	53	Olowalu	LLHS		JS	RN	OPB	OPB190314	2033	Papalaua Beach	2019-03-14	8:16	1	3	5	1	3					OPB190314	23.0	35.8	6.98	99.9	8.17	6.85	6.80	7.71	7.12	0.072					0	1	0	
+yes	yes	no	no	53	Olowalu	LLHS		JS	RN	OPP	OPP190314	2034	Papalaua Pali	2019-03-14	8:37	1	3	5	1	3					OPP190314	23.4	35.4	6.97	100.0	8.17	2.49	2.09	2.11	2.23	0.101					0	2	0	
+yes	yes	no	no	54	Olowalu	LLHS	LR	JS	LO	OPM	OPM190404	2073	Martin Hale	2019-04-04	7:12	1	3	5	1	3					OPM190404	22.9	35.8	6.09	86.7	8.11	2.59	2.26	2.43	2.43	0.068					0	0	0	
+yes	yes	no	no	54	Olowalu	LLHS	LR	JS	LO	OCO	OCO190404	2028	Camp Olowalu	2019-04-04	7:24	1	3	5	1	3					OCO190404	23.9	35.8	6.25	90.6	8.12	1.72	1.70	1.78	1.73	0.024					0	5	0	
+yes	yes	no	no	54	Olowalu	LLHS	LR	JS	LO	OUB	OUB190404	2032	Ukumehame	2019-04-04	7:39	1	3	5	1	3					OUB190404	24.7	35.9	6.46	94.6	8.15	3.17	2.95	3.10	3.07	0.037					0	7	0	
+yes	yes	no	no	54	Olowalu	LLHS	LR	JS	LO	OPB	OPB190404	2033	Papalaua Beach	2019-04-04	7:50	1	3	5	1	3					OPB190404	24.3	36.0	6.80	99.3	8.15	4.36	4.17	4.12	4.22	0.030					0	0	0	
+yes	yes	no	no	54	Olowalu	LLHS	LR	JS	LO	OPP	OPP190404	2034	Papalaua Pali	2019-04-04	8:02	1	3	5	1	3					OPP190404	24.0	35.7	6.71	97.3	8.17	3.21	3.17	3.42	3.27	0.041					0	0	0	
+yes	yes	no	no	55	Olowalu	LLHS	RN	JS	LR	OPM	OPM190425	2073	Martin Hale	2019-04-25	7:10	2	2	6	2	2					OPM190425	23.7	35.6	5.57	80.4	8.05	1.62	1.68	1.74	1.68	0.036					0	0	0	OCO - Did 2nd reading of salinity - value was the same
+yes	yes	no	no	55	Olowalu	LLHS	RN	JS	LR	OCO	OCO190425	2028	Camp Olowalu	2019-04-25	7:30	2	2	6	2	2					OCO190425	24.4	35.7	6.30	92.2	8.08	3.76	3.88	4.04	3.89	0.036					0	0	0	OUB - Did 2nd reading of salinity - value was 35.9
+yes	yes	no	no	55	Olowalu	LLHS	RN	JS	LR	OUB	OUB190425	2032	Ukumehame	2019-04-25	7:45	2	2	6	2	2					OUB190425	24.5	36.0	6.70	98.3	8.15	23.70	24.80	25.50	24.67	0.037					4	1	0	Had trouble getting D.O probe reading to pop up a few times but eventually it worked
+yes	yes	no	no	55	Olowalu	LLHS	RN	JS	LR	OPB	OPB190425	2033	Papalaua Beach	2019-04-25	8:05	2	2	6	2	2					OPB190425	24.3	36.0	6.62	96.8	8.16	6.27	5.88	6.41	6.19	0.044					0	0	0	
+yes	yes	no	no	55	Olowalu	LLHS	RN	JS	LR	OPP	OPP190425	2034	Papalaua Pali	2019-04-25	8:15	2	2	6	2	2					OPP190425	24.5	35.6	6.83	100.1	8.17	3.18	3.10	3.83	3.37	0.119					0	0	0	
+yes	yes	no	no	56	Olowalu	LLHS	BB	JS		OPM	OPM190516	2073	Martin Hale	2019-05-16	7:20	1	3	5	1	3					OPM190516	25.8	35.9	5.85	87.8	8.08	1.36	1.24	1.36	1.32	0.052					0	0	0	OPM - Very low tide
+yes	yes	no	no	56	Olowalu	LLHS	BB	JS		OCO	OCO190516	2028	Camp Olowalu	2019-05-16	7:40	1	3	5	1	3					OCO190516	26.2	35.5	6.54	98.6	8.07	10.60	12.20	10.70	11.17	0.080					0	0	0	
+yes	yes	no	no	56	Olowalu	LLHS	BB	JS		OUB	OUB190516	2032	Ukumehame	2019-05-16	7:55	1	3	5	1	3					OUB190516	26.1	35.9	6.72	101.5	8.15	5.87	5.94	6.06	5.96	0.016					0	0	0	
+yes	yes	no	no	56	Olowalu	LLHS	BB	JS		OPB	OPB190516	2033	Papalaua Beach	2019-05-16	8:20	1	3	5	1	3					OPB190516	26.1	36.0	7.07	106.7	8.20	3.09	3.24	3.31	3.21	0.035					0	0	0	
+yes	yes	no	no	56	Olowalu	LLHS	BB	JS		OPP	OPP190516	2034	Papalaua Pali	2019-05-16	8:40	1	3	5	1	3					OPP190516	26.2	35.9	6.94	104.9	8.20	1.61	1.91	2.00	1.84	0.111					0	0	0	
+	yes	no	no	57	Olowalu	LLHS	RN	LR	BB	OPM	OPM190606	2073	Martin Hale	2019-06-06	7:14	2	NBBF	6	2	2					OPM190606	27.1	36.1	5.02	76.9	8.03	1.39	1.71	1.81	1.64	0.134					0	0	0	All presampling tested a little high, Salinity testing higher than normal range
+	yes	no	no	57	Olowalu	LLHS	RN	LR	BB	OCO	OCO190606	2028	Camp Olowalu	2019-06-06	7:30	2	NBBF	6	2	2					OCO190606	27.4	36.1	5.96	91.6	8.13	1.51	1.58	1.67	1.59	0.051					0	9	0	
+	yes	no	no	57	Olowalu	LLHS	RN	LR	BB	OUB	OUB190606	2032	Ukumehame	2019-06-06	7:45	2	NBBF	6	2	2					OUB190606	27.1	36.1	6.25	95.6	8.13	3.37	3.43	3.19	3.33	0.038					15	0	0	
+	yes	no	no	57	Olowalu	LLHS	RN	LR	BB	OPB	OPB190606	2033	Papalaua Beach	2019-06-06	8:00	2	NBBF	6	2	2					OPB190606	27.3	36.2	6.01	92.3	8.10	3.31	2.72	2.79	2.94	0.110					0	0	2	
+	yes	no	no	57	Olowalu	LLHS	RN	LR	BB	OPP	OPP190606	2034	Papalaua Pali	2019-06-06	8:13	2	NBBF	6	2	2					OPP190606	27.3	36.0	6.16	94.5	8.15	2.69	3.03	3.17	2.96	0.083					0	1	0	Rain started at end of sampling
