@@ -1,0 +1,854 @@
+Organization ID,Monitoring Location ID,Monitoring Location Name,Activity ID,Activity Start Date,Activity Type,Media,Media Subdivision,Result UID,Characteristic,Fraction,Statistic,Value,Unit,Value Type,Detection Condition,Biological Intent,Taxon Name,Status,Last Changed
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328,03-28-2017,Field Msr/Obs,Water,,618108804,"Temperature, water",,,25.4,deg C,Actual,,,,Final,05-23-2017 2:21:42 AM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328,03-28-2017,Field Msr/Obs,Water,,618108805,"Temperature, water",,,25.6,deg C,Actual,,,,Final,05-23-2017 2:21:42 AM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330,03-30-2017,Field Msr/Obs,Water,,618108816,"Temperature, water",,,25.7,deg C,Actual,,,,Final,05-23-2017 2:21:43 AM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328Turb,03-28-2017,Field Msr/Obs,Water,,618108876,Turbidity,,,1.88,NTU,Actual,,,,Final,05-23-2017 2:21:47 AM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328Turb,03-28-2017,Field Msr/Obs,Water,,618108877,Turbidity,,,2.17333333333333,NTU,Actual,,,,Final,05-23-2017 2:21:48 AM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330Turb,03-30-2017,Field Msr/Obs,Water,,618108888,Turbidity,,,7.85,NTU,Actual,,,,Final,05-23-2017 2:21:48 AM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328-N-1TN,03-28-2017,Sample-Routine,Water,,618108894,Nitrogen,Dissolved,,86.994539080832,ug/l,Actual,,,,Final,05-23-2017 2:21:48 AM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328-N-1TN,03-28-2017,Sample-Routine,Water,,618108895,Nitrogen,Dissolved,,143.936788081192,ug/l,Actual,,,,Final,05-23-2017 2:21:48 AM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330-N-1TN,03-30-2017,Sample-Routine,Water,,618108906,Nitrogen,Dissolved,,69.2172754426557,ug/l,Actual,,,,Final,05-23-2017 2:21:49 AM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328-N-1TP,03-28-2017,Sample-Routine,Water,,618108912,Phosphorus,Dissolved,,14.490850109636,ug/l,Actual,,,,Final,05-23-2017 2:21:49 AM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328-N-1TP,03-28-2017,Sample-Routine,Water,,618108913,Phosphorus,Dissolved,,16.306395294852,ug/l,Actual,,,,Final,05-23-2017 2:21:50 AM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330-N-1TP,03-30-2017,Sample-Routine,Water,,618108924,Phosphorus,Dissolved,,9.60588291081962,ug/l,Actual,,,,Final,05-23-2017 2:21:51 AM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328-N-1P,03-28-2017,Sample-Routine,Water,,618108930,Phosphate-phosphorus,Dissolved,,8.86706344423974,ug/l,Actual,,,,Final,05-23-2017 2:21:51 AM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328-N-1P,03-28-2017,Sample-Routine,Water,,618108931,Phosphate-phosphorus,Dissolved,,9.49308746223873,ug/l,Actual,,,,Final,05-23-2017 2:21:51 AM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330-N-1P,03-30-2017,Sample-Routine,Water,,618108942,Phosphate-phosphorus,Dissolved,,5.76785812056575,ug/l,Actual,,,,Final,05-23-2017 2:21:52 AM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328-N-1Si,03-28-2017,Sample-Routine,Water,,618108948,Silicate,Dissolved,,303.094156811388,ug/l,Actual,,,,Final,05-23-2017 2:21:53 AM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328-N-1Si,03-28-2017,Sample-Routine,Water,,618108949,Silicate,Dissolved,,591.66799095818,ug/l,Actual,,,,Final,05-23-2017 2:21:53 AM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330-N-1Si,03-30-2017,Sample-Routine,Water,,618108960,Silicate,Dissolved,,59.3953253750337,ug/l,Actual,,,,Final,05-23-2017 2:21:53 AM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328-N-1NN,03-28-2017,Sample-Routine,Water,,618108966,Nitrate,Dissolved,,19.0808526194758,ug/l,Actual,,,,Final,05-23-2017 2:21:53 AM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328-N-1NN,03-28-2017,Sample-Routine,Water,,618108967,Nitrate,Dissolved,,81.1172210265633,ug/l,Actual,,,,Final,05-23-2017 2:21:53 AM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330-N-1NN,03-30-2017,Sample-Routine,Water,,618108978,Nitrate,Dissolved,,3.19626698900321,ug/l,Actual,,,,Final,05-23-2017 2:21:54 AM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328-N-1NH4,03-28-2017,Sample-Routine,Water,,618108984,Ammonia-nitrogen,Dissolved,,6.92025623496937,ug/l,Actual,,,,Final,05-23-2017 2:21:55 AM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328-N-1NH4,03-28-2017,Sample-Routine,Water,,618108985,Ammonia-nitrogen,Dissolved,,7.49494532660023,ug/l,Actual,,,,Final,05-23-2017 2:21:56 AM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330-N-1NH4,03-30-2017,Sample-Routine,Water,,618108996,Ammonia-nitrogen,Dissolved,,8.89369920052068,ug/l,Actual,,,,Final,05-23-2017 2:21:58 AM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614T,06-14-2016,Field Msr/Obs,Water,,644389603,"Temperature, water",,,26.8,deg C,Actual,,,,Final,08-06-2017 7:32:00 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614T,06-14-2016,Field Msr/Obs,Water,,644389604,"Temperature, water",,,27.2,deg C,Actual,,,,Final,08-06-2017 7:32:00 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616T,06-16-2016,Field Msr/Obs,Water,,644389612,"Temperature, water",,,25.2,deg C,Actual,,,,Final,08-06-2017 7:32:00 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614DO,06-14-2016,Field Msr/Obs,Water,,644389617,Dissolved oxygen (DO),,,6.72,mg/l,Actual,,,,Final,08-06-2017 7:32:00 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614DO,06-14-2016,Field Msr/Obs,Water,,644389618,Dissolved oxygen (DO),,,6.78,mg/l,Actual,,,,Final,08-06-2017 7:32:00 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616DO,06-16-2016,Field Msr/Obs,Water,,644389626,Dissolved oxygen (DO),,,7,mg/l,Actual,,,,Final,08-06-2017 7:32:00 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614DOp,06-14-2016,Field Msr/Obs,Water,,644389631,Dissolved oxygen (DO),,,101.6,%,Actual,,,,Final,08-06-2017 7:32:00 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614DOp,06-14-2016,Field Msr/Obs,Water,,644389632,Dissolved oxygen (DO),,,103.5,%,Actual,,,,Final,08-06-2017 7:32:00 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616DOp,06-16-2016,Field Msr/Obs,Water,,644389640,Dissolved oxygen (DO),,,103.1,%,Actual,,,,Final,08-06-2017 7:32:00 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614pH,06-14-2016,Field Msr/Obs,Water,,644389645,pH,,,8.06,None,Actual,,,,Final,08-06-2017 7:32:01 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614pH,06-14-2016,Field Msr/Obs,Water,,644389646,pH,,,8.06,None,Actual,,,,Final,08-06-2017 7:32:01 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616pH,06-16-2016,Field Msr/Obs,Water,,644389654,pH,,,8.06,None,Actual,,,,Final,08-06-2017 7:32:01 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614S,06-14-2016,Field Msr/Obs,Water,,644389659,Conductivity,,,35,ppt,Actual,,,,Final,08-06-2017 7:32:01 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614S,06-14-2016,Field Msr/Obs,Water,,644389660,Conductivity,,,34.7,ppt,Actual,,,,Final,08-06-2017 7:32:01 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616S,06-16-2016,Field Msr/Obs,Water,,644389668,Conductivity,,,28.1,ppt,Actual,,,,Final,08-06-2017 7:32:01 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614TB,06-14-2016,Field Msr/Obs,Water,,644389673,Turbidity,,,2.62,NTU,Actual,,,,Final,08-06-2017 7:32:02 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614TB,06-14-2016,Field Msr/Obs,Water,,644389674,Turbidity,,,5.86,NTU,Actual,,,,Final,08-06-2017 7:32:02 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616TB,06-16-2016,Field Msr/Obs,Water,,644389682,Turbidity,,,16.87,NTU,Actual,,,,Final,08-06-2017 7:32:02 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614TN,06-14-2016,Sample-Routine,Water,,644389687,Nitrogen,Dissolved,,91.26,ug/l,Actual,,,,Final,08-06-2017 7:32:02 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614TN,06-14-2016,Sample-Routine,Water,,644389688,Nitrogen,Dissolved,,117.22,ug/l,Actual,,,,Final,08-06-2017 7:32:02 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616TN,06-16-2016,Sample-Routine,Water,,644389696,Nitrogen,Dissolved,,63.47,ug/l,Actual,,,,Final,08-06-2017 7:32:02 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614TP,06-14-2016,Sample-Routine,Water,,644389701,Phosphorus,Dissolved,,10.73,ug/l,Actual,,,,Final,08-06-2017 7:32:02 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614TP,06-14-2016,Sample-Routine,Water,,644389702,Phosphorus,Dissolved,,16.68,ug/l,Actual,,,,Final,08-06-2017 7:32:02 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616TP,06-16-2016,Sample-Routine,Water,,644389710,Phosphorus,Dissolved,,16.77,ug/l,Actual,,,,Final,08-06-2017 7:32:03 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614PO4,06-14-2016,Sample-Routine,Water,,644389715,Phosphate-phosphorus,Dissolved,,8.46,ug/l,Actual,,,,Final,08-06-2017 7:32:03 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614PO4,06-14-2016,Sample-Routine,Water,,644389716,Phosphate-phosphorus,Dissolved,,9.4,ug/l,Actual,,,,Final,08-06-2017 7:32:03 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616PO4,06-16-2016,Sample-Routine,Water,,644389724,Phosphate-phosphorus,Dissolved,,6.34,ug/l,Actual,,,,Final,08-06-2017 7:32:03 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614Si,06-14-2016,Sample-Routine,Water,,644389729,Silicate,Dissolved,,604.37,ug/l,Actual,,,,Final,08-06-2017 7:32:03 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614Si,06-14-2016,Sample-Routine,Water,,644389730,Silicate,Dissolved,,576.28,ug/l,Actual,,,,Final,08-06-2017 7:32:03 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616Si,06-16-2016,Sample-Routine,Water,,644389738,Silicate,Dissolved,,112.01,ug/l,Actual,,,,Final,08-06-2017 7:32:03 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614NNN,06-14-2016,Sample-Routine,Water,,644389743,Nitrate,Dissolved,,24.72,ug/l,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614NNN,06-14-2016,Sample-Routine,Water,,644389744,Nitrate,Dissolved,,49.04,ug/l,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616NNN,06-16-2016,Sample-Routine,Water,,644389752,Nitrate,Dissolved,,2.64,ug/l,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160614NH4,06-14-2016,Sample-Routine,Water,,644389757,Ammonia-nitrogen,Dissolved,,1.88,ug/l,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160614NH4,06-14-2016,Sample-Routine,Water,,644389758,Ammonia-nitrogen,Dissolved,,2.27,ug/l,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160616NH4,06-16-2016,Sample-Routine,Water,,644389766,Ammonia-nitrogen,Dissolved,,1.79,ug/l,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628T,06-28-2016,Field Msr/Obs,Water,,644389771,"Temperature, water",,,26.4,deg C,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628T,06-28-2016,Field Msr/Obs,Water,,644389772,"Temperature, water",,,26.2,deg C,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630T,06-30-2016,Field Msr/Obs,Water,,644389781,"Temperature, water",,,26.9,deg C,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628DO,06-28-2016,Field Msr/Obs,Water,,644389786,Dissolved oxygen (DO),,,6.59,mg/l,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628DO,06-28-2016,Field Msr/Obs,Water,,644389787,Dissolved oxygen (DO),,,6.81,mg/l,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630DO,06-30-2016,Field Msr/Obs,Water,,644389796,Dissolved oxygen (DO),,,6.81,mg/l,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628DOp,06-28-2016,Field Msr/Obs,Water,,644389801,Dissolved oxygen (DO),,,99.3,%,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628DOp,06-28-2016,Field Msr/Obs,Water,,644389802,Dissolved oxygen (DO),,,103,%,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630DOp,06-30-2016,Field Msr/Obs,Water,,644389811,Dissolved oxygen (DO),,,103.4,%,Actual,,,,Final,08-06-2017 7:32:04 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628pH,06-28-2016,Field Msr/Obs,Water,,644389816,pH,,,8.1,None,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628pH,06-28-2016,Field Msr/Obs,Water,,644389817,pH,,,8.09,None,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630pH,06-30-2016,Field Msr/Obs,Water,,644389826,pH,,,8.05,None,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628S,06-28-2016,Field Msr/Obs,Water,,644389831,Conductivity,,,27.6,ppt,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628S,06-28-2016,Field Msr/Obs,Water,,644389832,Conductivity,,,28.2,ppt,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630S,06-30-2016,Field Msr/Obs,Water,,644389841,Conductivity,,,29.7,ppt,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628TB,06-28-2016,Field Msr/Obs,Water,,644389846,Turbidity,,,1.77,NTU,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628TB,06-28-2016,Field Msr/Obs,Water,,644389847,Turbidity,,,3.44,NTU,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630TB,06-30-2016,Field Msr/Obs,Water,,644389856,Turbidity,,,10.6,NTU,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628TN,06-28-2016,Sample-Routine,Water,,644389861,Nitrogen,Dissolved,,90.93,ug/l,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628TN,06-28-2016,Sample-Routine,Water,,644389862,Nitrogen,Dissolved,,121.25,ug/l,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630TN,06-30-2016,Sample-Routine,Water,,644389871,Nitrogen,Dissolved,,76.47,ug/l,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628TP,06-28-2016,Sample-Routine,Water,,644389876,Phosphorus,Dissolved,,16.97,ug/l,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628TP,06-28-2016,Sample-Routine,Water,,644389877,Phosphorus,Dissolved,,18.89,ug/l,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630TP,06-30-2016,Sample-Routine,Water,,644389886,Phosphorus,Dissolved,,12.3,ug/l,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628PO4,06-28-2016,Sample-Routine,Water,,644389891,Phosphate-phosphorus,Dissolved,,8.28,ug/l,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628PO4,06-28-2016,Sample-Routine,Water,,644389892,Phosphate-phosphorus,Dissolved,,9.13,ug/l,Actual,,,,Final,08-06-2017 7:32:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630PO4,06-30-2016,Sample-Routine,Water,,644389901,Phosphate-phosphorus,Dissolved,,4.05,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628Si,06-28-2016,Sample-Routine,Water,,644389906,Silicate,Dissolved,,510.71,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628Si,06-28-2016,Sample-Routine,Water,,644389907,Silicate,Dissolved,,649.57,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630Si,06-30-2016,Sample-Routine,Water,,644389916,Silicate,Dissolved,,113.15,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628NNN,06-28-2016,Sample-Routine,Water,,644389921,Nitrate,Dissolved,,26.44,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628NNN,06-28-2016,Sample-Routine,Water,,644389922,Nitrate,Dissolved,,57.28,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630NNN,06-30-2016,Sample-Routine,Water,,644389931,Nitrate,Dissolved,,0.12,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160628NH4,06-28-2016,Sample-Routine,Water,,644389936,Ammonia-nitrogen,Dissolved,,2.59,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160628NH4,06-28-2016,Sample-Routine,Water,,644389937,Ammonia-nitrogen,Dissolved,,3.2,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160630NH4,06-30-2016,Sample-Routine,Water,,644389946,Ammonia-nitrogen,Dissolved,,2.92,ug/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712T,07-12-2016,Field Msr/Obs,Water,,644389951,"Temperature, water",,,27,deg C,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712T,07-12-2016,Field Msr/Obs,Water,,644389952,"Temperature, water",,,27.2,deg C,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714T,07-14-2016,Field Msr/Obs,Water,,644389962,"Temperature, water",,,27.8,deg C,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712DO,07-12-2016,Field Msr/Obs,Water,,644389967,Dissolved oxygen (DO),,,6.46,mg/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712DO,07-12-2016,Field Msr/Obs,Water,,644389968,Dissolved oxygen (DO),,,6.79,mg/l,Actual,,,,Final,08-06-2017 7:32:06 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714DO,07-14-2016,Field Msr/Obs,Water,,644389978,Dissolved oxygen (DO),,,6.05,mg/l,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712DOp,07-12-2016,Field Msr/Obs,Water,,644389983,Dissolved oxygen (DO),,,99.5,%,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712DOp,07-12-2016,Field Msr/Obs,Water,,644389984,Dissolved oxygen (DO),,,104,%,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714DOp,07-14-2016,Field Msr/Obs,Water,,644389994,Dissolved oxygen (DO),,,103.9,%,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712pH,07-12-2016,Field Msr/Obs,Water,,644389999,pH,,,8.09,None,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712pH,07-12-2016,Field Msr/Obs,Water,,644390000,pH,,,8.12,None,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714pH,07-14-2016,Field Msr/Obs,Water,,644390010,pH,,,8.09,None,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712S,07-12-2016,Field Msr/Obs,Water,,644390015,Conductivity,,,36.3,ppt,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712S,07-12-2016,Field Msr/Obs,Water,,644390016,Conductivity,,,35,ppt,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714S,07-14-2016,Field Msr/Obs,Water,,644390026,Conductivity,,,37.2,ppt,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712TB,07-12-2016,Field Msr/Obs,Water,,644390031,Turbidity,,,0.94,NTU,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712TB,07-12-2016,Field Msr/Obs,Water,,644390032,Turbidity,,,2.43,NTU,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714TB,07-14-2016,Field Msr/Obs,Water,,644390042,Turbidity,,,4.15,NTU,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712TN,07-12-2016,Sample-Routine,Water,,644390047,Nitrogen,Dissolved,,79.38,ug/l,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712TN,07-12-2016,Sample-Routine,Water,,644390048,Nitrogen,Dissolved,,122.69,ug/l,Actual,,,,Final,08-06-2017 7:32:07 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714TN,07-14-2016,Sample-Routine,Water,,644390058,Nitrogen,Dissolved,,77.7,ug/l,Actual,,,,Final,08-06-2017 7:32:08 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712TP,07-12-2016,Sample-Routine,Water,,644390063,Phosphorus,Dissolved,,16.45,ug/l,Actual,,,,Final,08-06-2017 7:32:08 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712TP,07-12-2016,Sample-Routine,Water,,644390064,Phosphorus,Dissolved,,18.54,ug/l,Actual,,,,Final,08-06-2017 7:32:08 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714TP,07-14-2016,Sample-Routine,Water,,644390074,Phosphorus,Dissolved,,11.77,ug/l,Actual,,,,Final,08-06-2017 7:32:08 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712PO4,07-12-2016,Sample-Routine,Water,,644390079,Phosphate-phosphorus,Dissolved,,7.04,ug/l,Actual,,,,Final,08-06-2017 7:32:08 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712PO4,07-12-2016,Sample-Routine,Water,,644390080,Phosphate-phosphorus,Dissolved,,8.49,ug/l,Actual,,,,Final,08-06-2017 7:32:08 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714PO4,07-14-2016,Sample-Routine,Water,,644390090,Phosphate-phosphorus,Dissolved,,4.37,ug/l,Actual,,,,Final,08-06-2017 7:32:08 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712Si,07-12-2016,Sample-Routine,Water,,644390095,Silicate,Dissolved,,331.03,ug/l,Actual,,,,Final,08-06-2017 7:32:08 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712Si,07-12-2016,Sample-Routine,Water,,644390096,Silicate,Dissolved,,620.86,ug/l,Actual,,,,Final,08-06-2017 7:32:09 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714Si,07-14-2016,Sample-Routine,Water,,644390106,Silicate,Dissolved,,74.21,ug/l,Actual,,,,Final,08-06-2017 7:32:09 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712NNN,07-12-2016,Sample-Routine,Water,,644390111,Nitrate,Dissolved,,15.44,ug/l,Actual,,,,Final,08-06-2017 7:32:11 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712NNN,07-12-2016,Sample-Routine,Water,,644390112,Nitrate,Dissolved,,55.72,ug/l,Actual,,,,Final,08-06-2017 7:32:11 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714NNN,07-14-2016,Sample-Routine,Water,,644390122,Nitrate,Dissolved,,1.87,ug/l,Actual,,,,Final,08-06-2017 7:32:11 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160712NH4,07-12-2016,Sample-Routine,Water,,644390127,Ammonia-nitrogen,Dissolved,,1.58,ug/l,Actual,,,,Final,08-06-2017 7:32:11 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160712NH4,07-12-2016,Sample-Routine,Water,,644390128,Ammonia-nitrogen,Dissolved,,2.02,ug/l,Actual,,,,Final,08-06-2017 7:32:11 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160714NH4,07-14-2016,Sample-Routine,Water,,644390138,Ammonia-nitrogen,Dissolved,,2.19,ug/l,Actual,,,,Final,08-06-2017 7:32:11 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726T,07-26-2016,Field Msr/Obs,Water,,644390143,"Temperature, water",,,27.2,deg C,Actual,,,,Final,08-06-2017 7:32:11 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726T,07-26-2016,Field Msr/Obs,Water,,644390144,"Temperature, water",,,27.2,deg C,Actual,,,,Final,08-06-2017 7:32:11 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728T,07-28-2016,Field Msr/Obs,Water,,644390154,"Temperature, water",,,27,deg C,Actual,,,,Final,08-06-2017 7:32:11 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726DO,07-26-2016,Field Msr/Obs,Water,,644390159,Dissolved oxygen (DO),,,6.48,mg/l,Actual,,,,Final,08-06-2017 7:32:12 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726DO,07-26-2016,Field Msr/Obs,Water,,644390160,Dissolved oxygen (DO),,,6.57,mg/l,Actual,,,,Final,08-06-2017 7:32:12 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728DO,07-28-2016,Field Msr/Obs,Water,,644390170,Dissolved oxygen (DO),,,6.81,mg/l,Actual,,,,Final,08-06-2017 7:32:12 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726DOp,07-26-2016,Field Msr/Obs,Water,,644390175,Dissolved oxygen (DO),,,99.1,%,Actual,,,,Final,08-06-2017 7:32:12 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726DOp,07-26-2016,Field Msr/Obs,Water,,644390176,Dissolved oxygen (DO),,,100.1,%,Actual,,,,Final,08-06-2017 7:32:12 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728DOp,07-28-2016,Field Msr/Obs,Water,,644390186,Dissolved oxygen (DO),,,104,%,Actual,,,,Final,08-06-2017 7:32:12 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726pH,07-26-2016,Field Msr/Obs,Water,,644390191,pH,,,8.14,None,Actual,,,,Final,08-06-2017 7:32:12 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726pH,07-26-2016,Field Msr/Obs,Water,,644390192,pH,,,8.12,None,Actual,,,,Final,08-06-2017 7:32:12 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728pH,07-28-2016,Field Msr/Obs,Water,,644390202,pH,,,8.11,None,Actual,,,,Final,08-06-2017 7:32:12 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726S,07-26-2016,Field Msr/Obs,Water,,644390207,Conductivity,,,35.3,ppt,Actual,,,,Final,08-06-2017 7:32:13 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726S,07-26-2016,Field Msr/Obs,Water,,644390208,Conductivity,,,34.6,ppt,Actual,,,,Final,08-06-2017 7:32:13 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728S,07-28-2016,Field Msr/Obs,Water,,644390218,Conductivity,,,35.6,ppt,Actual,,,,Final,08-06-2017 7:32:13 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726TB,07-26-2016,Field Msr/Obs,Water,,644390223,Turbidity,,,1.5,NTU,Actual,,,,Final,08-06-2017 7:32:13 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726TB,07-26-2016,Field Msr/Obs,Water,,644390224,Turbidity,,,4.39,NTU,Actual,,,,Final,08-06-2017 7:32:13 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728TB,07-28-2016,Field Msr/Obs,Water,,644390234,Turbidity,,,7.46,NTU,Actual,,,,Final,08-06-2017 7:32:13 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726TN,07-26-2016,Sample-Routine,Water,,644390239,Nitrogen,Dissolved,,87.42,ug/l,Actual,,,,Final,08-06-2017 7:32:13 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726TN,07-26-2016,Sample-Routine,Water,,644390240,Nitrogen,Dissolved,,111.92,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728TN,07-28-2016,Sample-Routine,Water,,644390250,Nitrogen,Dissolved,,73.55,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726TP,07-26-2016,Sample-Routine,Water,,644390255,Phosphorus,Dissolved,,13.39,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726TP,07-26-2016,Sample-Routine,Water,,644390256,Phosphorus,Dissolved,,14.07,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728TP,07-28-2016,Sample-Routine,Water,,644390266,Phosphorus,Dissolved,,10.71,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726PO4,07-26-2016,Sample-Routine,Water,,644390271,Phosphate-phosphorus,Dissolved,,6.82,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726PO4,07-26-2016,Sample-Routine,Water,,644390272,Phosphate-phosphorus,Dissolved,,9.14,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728PO4,07-28-2016,Sample-Routine,Water,,644390282,Phosphate-phosphorus,Dissolved,,4.75,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726Si,07-26-2016,Sample-Routine,Water,,644390287,Silicate,Dissolved,,267.63,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726Si,07-26-2016,Sample-Routine,Water,,644390288,Silicate,Dissolved,,449.68,ug/l,Actual,,,,Final,08-06-2017 7:32:14 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728Si,07-28-2016,Sample-Routine,Water,,644390298,Silicate,Dissolved,,76.83,ug/l,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726NNN,07-26-2016,Sample-Routine,Water,,644390303,Nitrate,Dissolved,,16.56,ug/l,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726NNN,07-26-2016,Sample-Routine,Water,,644390304,Nitrate,Dissolved,,40.03,ug/l,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728NNN,07-28-2016,Sample-Routine,Water,,644390314,Nitrate,Dissolved,,1.09,ug/l,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160726NH4,07-26-2016,Sample-Routine,Water,,644390319,Ammonia-nitrogen,Dissolved,,6.02,ug/l,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160726NH4,07-26-2016,Sample-Routine,Water,,644390320,Ammonia-nitrogen,Dissolved,,4.68,ug/l,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160728NH4,07-28-2016,Sample-Routine,Water,,644390330,Ammonia-nitrogen,Dissolved,,9.69,ug/l,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809T,08-09-2016,Field Msr/Obs,Water,,644390335,"Temperature, water",,,27,deg C,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809T,08-09-2016,Field Msr/Obs,Water,,644390336,"Temperature, water",,,27.3,deg C,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811T,08-11-2016,Field Msr/Obs,Water,,644390346,"Temperature, water",,,27.2,deg C,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809DO,08-09-2016,Field Msr/Obs,Water,,644390351,Dissolved oxygen (DO),,,6.27,mg/l,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809DO,08-09-2016,Field Msr/Obs,Water,,644390352,Dissolved oxygen (DO),,,6.57,mg/l,Actual,,,,Final,08-06-2017 7:32:15 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811DO,08-11-2016,Field Msr/Obs,Water,,644390362,Dissolved oxygen (DO),,,6.66,mg/l,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809DOp,08-09-2016,Field Msr/Obs,Water,,644390367,Dissolved oxygen (DO),,,96.7,%,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809DOp,08-09-2016,Field Msr/Obs,Water,,644390368,Dissolved oxygen (DO),,,100.5,%,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811DOp,08-11-2016,Field Msr/Obs,Water,,644390378,Dissolved oxygen (DO),,,102,%,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809pH,08-09-2016,Field Msr/Obs,Water,,644390383,pH,,,8.12,None,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809pH,08-09-2016,Field Msr/Obs,Water,,644390384,pH,,,8.14,None,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811pH,08-11-2016,Field Msr/Obs,Water,,644390394,pH,,,8.08,None,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809S,08-09-2016,Field Msr/Obs,Water,,644390399,Conductivity,,,35.4,ppt,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809S,08-09-2016,Field Msr/Obs,Water,,644390400,Conductivity,,,35.1,ppt,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811S,08-11-2016,Field Msr/Obs,Water,,644390410,Conductivity,,,35.5,ppt,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809TB,08-09-2016,Field Msr/Obs,Water,,644390415,Turbidity,,,0.42,NTU,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809TB,08-09-2016,Field Msr/Obs,Water,,644390416,Turbidity,,,2.3,NTU,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811TB,08-11-2016,Field Msr/Obs,Water,,644390426,Turbidity,,,10.63,NTU,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809TN,08-09-2016,Sample-Routine,Water,,644390431,Nitrogen,Dissolved,,70.02,ug/l,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809TN,08-09-2016,Sample-Routine,Water,,644390432,Nitrogen,Dissolved,,102.63,ug/l,Actual,,,,Final,08-06-2017 7:32:16 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811TN,08-11-2016,Sample-Routine,Water,,644390441,Nitrogen,Dissolved,,54.1,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809TP,08-09-2016,Sample-Routine,Water,,644390447,Phosphorus,Dissolved,,14.87,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809TP,08-09-2016,Sample-Routine,Water,,644390448,Phosphorus,Dissolved,,16.01,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811TP,08-11-2016,Sample-Routine,Water,,644390457,Phosphorus,Dissolved,,13.2,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809PO4,08-09-2016,Sample-Routine,Water,,644390463,Phosphate-phosphorus,Dissolved,,6.66,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809PO4,08-09-2016,Sample-Routine,Water,,644390464,Phosphate-phosphorus,Dissolved,,8.63,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811PO4,08-11-2016,Sample-Routine,Water,,644390473,Phosphate-phosphorus,Dissolved,,3.98,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809Si,08-09-2016,Sample-Routine,Water,,644390479,Silicate,Dissolved,,322.69,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809Si,08-09-2016,Sample-Routine,Water,,644390480,Silicate,Dissolved,,509.76,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811Si,08-11-2016,Sample-Routine,Water,,644390489,Silicate,Dissolved,,66.18,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809NNN,08-09-2016,Sample-Routine,Water,,644390495,Nitrate,Dissolved,,22.6,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809NNN,08-09-2016,Sample-Routine,Water,,644390496,Nitrate,Dissolved,,55.5,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811NNN,08-11-2016,Sample-Routine,Water,,644390505,Nitrate,Dissolved,,3.16,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160809NH4,08-09-2016,Sample-Routine,Water,,644390511,Ammonia-nitrogen,Dissolved,,2.38,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160809NH4,08-09-2016,Sample-Routine,Water,,644390512,Ammonia-nitrogen,Dissolved,,5.4,ug/l,Actual,,,,Final,08-06-2017 7:32:17 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160811NH4,08-11-2016,Sample-Routine,Water,,644390521,Ammonia-nitrogen,Dissolved,,1.92,ug/l,Actual,,,,Final,08-06-2017 7:32:18 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823T,08-23-2016,Field Msr/Obs,Water,,644390527,"Temperature, water",,,27.7,deg C,Actual,,,,Final,08-06-2017 7:32:18 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823T,08-23-2016,Field Msr/Obs,Water,,644390528,"Temperature, water",,,28,deg C,Actual,,,,Final,08-06-2017 7:32:18 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825T,08-25-2016,Field Msr/Obs,Water,,644390539,"Temperature, water",,,27.8,deg C,Actual,,,,Final,08-06-2017 7:32:18 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823DO,08-23-2016,Field Msr/Obs,Water,,644390544,Dissolved oxygen (DO),,,5.84,mg/l,Actual,,,,Final,08-06-2017 7:32:18 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823DO,08-23-2016,Field Msr/Obs,Water,,644390545,Dissolved oxygen (DO),,,6.36,mg/l,Actual,,,,Final,08-06-2017 7:32:18 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825DO,08-25-2016,Field Msr/Obs,Water,,644390556,Dissolved oxygen (DO),,,6.3,mg/l,Actual,,,,Final,08-06-2017 7:32:18 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823DOp,08-23-2016,Field Msr/Obs,Water,,644390561,Dissolved oxygen (DO),,,90.7,%,Actual,,,,Final,08-06-2017 7:32:18 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823DOp,08-23-2016,Field Msr/Obs,Water,,644390562,Dissolved oxygen (DO),,,99,%,Actual,,,,Final,08-06-2017 7:32:18 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825DOp,08-25-2016,Field Msr/Obs,Water,,644390573,Dissolved oxygen (DO),,,97.6,%,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823pH,08-23-2016,Field Msr/Obs,Water,,644390578,pH,,,8,None,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823pH,08-23-2016,Field Msr/Obs,Water,,644390579,pH,,,8.06,None,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825pH,08-25-2016,Field Msr/Obs,Water,,644390590,pH,,,7.99,None,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823S,08-23-2016,Field Msr/Obs,Water,,644390595,Conductivity,,,35.3,ppt,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823S,08-23-2016,Field Msr/Obs,Water,,644390596,Conductivity,,,35.3,ppt,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825S,08-25-2016,Field Msr/Obs,Water,,644390607,Conductivity,,,36.2,ppt,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823TB,08-23-2016,Field Msr/Obs,Water,,644390612,Turbidity,,,0.46,NTU,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823TB,08-23-2016,Field Msr/Obs,Water,,644390613,Turbidity,,,0.71,NTU,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825TB,08-25-2016,Field Msr/Obs,Water,,644390624,Turbidity,,,15.23,NTU,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823TN,08-23-2016,Sample-Routine,Water,,644390629,Nitrogen,Dissolved,,87.24,ug/l,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823TN,08-23-2016,Sample-Routine,Water,,644390630,Nitrogen,Dissolved,,94.47,ug/l,Actual,,,,Final,08-06-2017 7:32:19 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825TN,08-25-2016,Sample-Routine,Water,,644390641,Nitrogen,Dissolved,,67.52,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823TP,08-23-2016,Sample-Routine,Water,,644390646,Phosphorus,Dissolved,,13.12,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823TP,08-23-2016,Sample-Routine,Water,,644390647,Phosphorus,Dissolved,,14.38,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825TP,08-25-2016,Sample-Routine,Water,,644390658,Phosphorus,Dissolved,,14.74,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823PO4,08-23-2016,Sample-Routine,Water,,644390663,Phosphate-phosphorus,Dissolved,,7.32,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823PO4,08-23-2016,Sample-Routine,Water,,644390664,Phosphate-phosphorus,Dissolved,,7.2,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825PO4,08-25-2016,Sample-Routine,Water,,644390675,Phosphate-phosphorus,Dissolved,,3.78,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823Si,08-23-2016,Sample-Routine,Water,,644390680,Silicate,Dissolved,,350.09,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823Si,08-23-2016,Sample-Routine,Water,,644390681,Silicate,Dissolved,,352.84,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825Si,08-25-2016,Sample-Routine,Water,,644390692,Silicate,Dissolved,,90.14,ug/l,Actual,,,,Final,08-06-2017 7:32:20 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823NNN,08-23-2016,Sample-Routine,Water,,644390697,Nitrate,Dissolved,,25.95,ug/l,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823NNN,08-23-2016,Sample-Routine,Water,,644390698,Nitrate,Dissolved,,34.43,ug/l,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825NNN,08-25-2016,Sample-Routine,Water,,644390709,Nitrate,Dissolved,,4.4,ug/l,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160823NH4,08-23-2016,Sample-Routine,Water,,644390714,Ammonia-nitrogen,Dissolved,,1.89,ug/l,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160823NH4,08-23-2016,Sample-Routine,Water,,644390715,Ammonia-nitrogen,Dissolved,,2.08,ug/l,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160825NH4,08-25-2016,Sample-Routine,Water,,644390726,Ammonia-nitrogen,Dissolved,,1.5,ug/l,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906T,09-06-2016,Field Msr/Obs,Water,,644390731,"Temperature, water",,,27.4,deg C,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906T,09-06-2016,Field Msr/Obs,Water,,644390732,"Temperature, water",,,27.7,deg C,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906DO,09-06-2016,Field Msr/Obs,Water,,644390745,Dissolved oxygen (DO),,,6.41,mg/l,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906DO,09-06-2016,Field Msr/Obs,Water,,644390746,Dissolved oxygen (DO),,,6.45,mg/l,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906DOp,09-06-2016,Field Msr/Obs,Water,,644390759,Dissolved oxygen (DO),,,98.2,%,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906DOp,09-06-2016,Field Msr/Obs,Water,,644390760,Dissolved oxygen (DO),,,99.6,%,Actual,,,,Final,08-06-2017 7:32:21 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906pH,09-06-2016,Field Msr/Obs,Water,,644390773,pH,,,8.21,None,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906pH,09-06-2016,Field Msr/Obs,Water,,644390774,pH,,,8.23,None,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906S,09-06-2016,Field Msr/Obs,Water,,644390787,Conductivity,,,35.3,ppt,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906S,09-06-2016,Field Msr/Obs,Water,,644390788,Conductivity,,,35.2,ppt,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906TB,09-06-2016,Field Msr/Obs,Water,,644390801,Turbidity,,,1.45,NTU,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906TB,09-06-2016,Field Msr/Obs,Water,,644390802,Turbidity,,,2.17,NTU,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906TN,09-06-2016,Sample-Routine,Water,,644390815,Nitrogen,Dissolved,,81.25,ug/l,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906TN,09-06-2016,Sample-Routine,Water,,644390816,Nitrogen,Dissolved,,94.08,ug/l,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OPB160908TN,09-08-2016,Sample-Routine,Water,,644390826,Nitrogen,Dissolved,,64.37,ug/l,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906TP,09-06-2016,Sample-Routine,Water,,644390829,Phosphorus,Dissolved,,15.44,ug/l,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906TP,09-06-2016,Sample-Routine,Water,,644390830,Phosphorus,Dissolved,,19.79,ug/l,Actual,,,,Final,08-06-2017 7:32:22 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OPB160908TP,09-08-2016,Sample-Routine,Water,,644390840,Phosphorus,Dissolved,,10.55,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906PO4,09-06-2016,Sample-Routine,Water,,644390843,Phosphate-phosphorus,Dissolved,,7.41,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906PO4,09-06-2016,Sample-Routine,Water,,644390844,Phosphate-phosphorus,Dissolved,,8.41,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OPB160908PO4,09-08-2016,Sample-Routine,Water,,644390854,Phosphate-phosphorus,Dissolved,,3.44,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906Si,09-06-2016,Sample-Routine,Water,,644390857,Silicate,Dissolved,,368.38,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906Si,09-06-2016,Sample-Routine,Water,,644390858,Silicate,Dissolved,,405.02,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OPB160908Si,09-08-2016,Sample-Routine,Water,,644390868,Silicate,Dissolved,,74.29,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906NNN,09-06-2016,Sample-Routine,Water,,644390871,Nitrate,Dissolved,,26.83,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906NNN,09-06-2016,Sample-Routine,Water,,644390872,Nitrate,Dissolved,,34.91,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OPB160908NNN,09-08-2016,Sample-Routine,Water,,644390882,Nitrate,Dissolved,,3.42,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160906NH4,09-06-2016,Sample-Routine,Water,,644390885,Ammonia-nitrogen,Dissolved,,,ug/l,Actual,Not Detected,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160906NH4,09-06-2016,Sample-Routine,Water,,644390886,Ammonia-nitrogen,Dissolved,,2.48,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OPB160908NH4,09-08-2016,Sample-Routine,Water,,644390896,Ammonia-nitrogen,Dissolved,,1.97,ug/l,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920T,09-20-2016,Field Msr/Obs,Water,,644390899,"Temperature, water",,,27,deg C,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920T,09-20-2016,Field Msr/Obs,Water,,644390900,"Temperature, water",,,27.4,deg C,Actual,,,,Final,08-06-2017 7:32:23 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922T,09-22-2016,Field Msr/Obs,Water,,644390910,"Temperature, water",,,27.7,deg C,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920DO,09-20-2016,Field Msr/Obs,Water,,644390915,Dissolved oxygen (DO),,,6.31,mg/l,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920DO,09-20-2016,Field Msr/Obs,Water,,644390916,Dissolved oxygen (DO),,,6.34,mg/l,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922DO,09-22-2016,Field Msr/Obs,Water,,644390926,Dissolved oxygen (DO),,,6.43,mg/l,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920DOp,09-20-2016,Field Msr/Obs,Water,,644390931,Dissolved oxygen (DO),,,96.6,%,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920DOp,09-20-2016,Field Msr/Obs,Water,,644390932,Dissolved oxygen (DO),,,97.7,%,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922DOp,09-22-2016,Field Msr/Obs,Water,,644390942,Dissolved oxygen (DO),,,100.3,%,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920pH,09-20-2016,Field Msr/Obs,Water,,644390947,pH,,,8.03,None,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920pH,09-20-2016,Field Msr/Obs,Water,,644390948,pH,,,8.02,None,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922pH,09-22-2016,Field Msr/Obs,Water,,644390958,pH,,,8.03,None,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920S,09-20-2016,Field Msr/Obs,Water,,644390963,Conductivity,,,35.6,ppt,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920S,09-20-2016,Field Msr/Obs,Water,,644390964,Conductivity,,,36.1,ppt,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922S,09-22-2016,Field Msr/Obs,Water,,644390974,Conductivity,,,37.1,ppt,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920TB,09-20-2016,Field Msr/Obs,Water,,644390979,Turbidity,,,1.27,NTU,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920TB,09-20-2016,Field Msr/Obs,Water,,644390980,Turbidity,,,3.09,NTU,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922TB,09-22-2016,Field Msr/Obs,Water,,644390990,Turbidity,,,14.63,NTU,Actual,,,,Final,08-06-2017 7:32:24 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920TN,09-20-2016,Sample-Routine,Water,,644390995,Nitrogen,Dissolved,,193.38,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920TN,09-20-2016,Sample-Routine,Water,,644390996,Nitrogen,Dissolved,,131.44,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922TN,09-22-2016,Sample-Routine,Water,,644391006,Nitrogen,Dissolved,,68.23,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920TP,09-20-2016,Sample-Routine,Water,,644391011,Phosphorus,Dissolved,,18.32,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920TP,09-20-2016,Sample-Routine,Water,,644391012,Phosphorus,Dissolved,,19.71,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922TP,09-22-2016,Sample-Routine,Water,,644391022,Phosphorus,Dissolved,,13.63,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920PO4,09-20-2016,Sample-Routine,Water,,644391027,Phosphate-phosphorus,Dissolved,,7.53,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920PO4,09-20-2016,Sample-Routine,Water,,644391028,Phosphate-phosphorus,Dissolved,,7.27,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922PO4,09-22-2016,Sample-Routine,Water,,644391038,Phosphate-phosphorus,Dissolved,,4.85,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920Si,09-20-2016,Sample-Routine,Water,,644391043,Silicate,Dissolved,,364.08,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920Si,09-20-2016,Sample-Routine,Water,,644391044,Silicate,Dissolved,,318.73,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922Si,09-22-2016,Sample-Routine,Water,,644391054,Silicate,Dissolved,,59.54,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920NNN,09-20-2016,Sample-Routine,Water,,644391059,Nitrate,Dissolved,,18,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920NNN,09-20-2016,Sample-Routine,Water,,644391060,Nitrate,Dissolved,,24.77,ug/l,Actual,,,,Final,08-06-2017 7:32:25 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922NNN,09-22-2016,Sample-Routine,Water,,644391070,Nitrate,Dissolved,,4.86,ug/l,Actual,,,,Final,08-06-2017 7:32:26 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB160920NH4,09-20-2016,Sample-Routine,Water,,644391075,Ammonia-nitrogen,Dissolved,,9.23,ug/l,Actual,,,,Final,08-06-2017 7:32:26 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB160920NH4,09-20-2016,Sample-Routine,Water,,644391076,Ammonia-nitrogen,Dissolved,,10.46,ug/l,Actual,,,,Final,08-06-2017 7:32:26 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB160922NH4,09-22-2016,Sample-Routine,Water,,644391086,Ammonia-nitrogen,Dissolved,,10.52,ug/l,Actual,,,,Final,08-06-2017 7:32:26 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004T,10-04-2016,Field Msr/Obs,Water,,644391091,"Temperature, water",,,27.8,deg C,Actual,,,,Final,08-06-2017 7:32:26 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004T,10-04-2016,Field Msr/Obs,Water,,644391092,"Temperature, water",,,27.9,deg C,Actual,,,,Final,08-06-2017 7:32:26 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006T,10-06-2016,Field Msr/Obs,Water,,644391103,"Temperature, water",,,27.2,deg C,Actual,,,,Final,08-06-2017 7:32:26 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004DO,10-04-2016,Field Msr/Obs,Water,,644391108,Dissolved oxygen (DO),,,6.19,mg/l,Actual,,,,Final,08-06-2017 7:32:26 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004DO,10-04-2016,Field Msr/Obs,Water,,644391109,Dissolved oxygen (DO),,,6.42,mg/l,Actual,,,,Final,08-06-2017 7:32:26 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006DO,10-06-2016,Field Msr/Obs,Water,,644391120,Dissolved oxygen (DO),,,6.41,mg/l,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004DOp,10-04-2016,Field Msr/Obs,Water,,644391125,Dissolved oxygen (DO),,,95.2,%,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004DOp,10-04-2016,Field Msr/Obs,Water,,644391126,Dissolved oxygen (DO),,,98.8,%,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006DOp,10-06-2016,Field Msr/Obs,Water,,644391137,Dissolved oxygen (DO),,,97.7,%,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004pH,10-04-2016,Field Msr/Obs,Water,,644391142,pH,,,8.12,None,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004pH,10-04-2016,Field Msr/Obs,Water,,644391143,pH,,,8.15,None,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006pH,10-06-2016,Field Msr/Obs,Water,,644391154,pH,,,8.09,None,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004S,10-04-2016,Field Msr/Obs,Water,,644391159,Conductivity,,,34.3,ppt,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004S,10-04-2016,Field Msr/Obs,Water,,644391160,Conductivity,,,34,ppt,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006S,10-06-2016,Field Msr/Obs,Water,,644391171,Conductivity,,,34.8,ppt,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004TB,10-04-2016,Field Msr/Obs,Water,,644391176,Turbidity,,,0.52,NTU,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004TB,10-04-2016,Field Msr/Obs,Water,,644391177,Turbidity,,,1.99,NTU,Actual,,,,Final,08-06-2017 7:32:27 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006TB,10-06-2016,Field Msr/Obs,Water,,644391188,Turbidity,,,13.27,NTU,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004TN,10-04-2016,Sample-Routine,Water,,644391193,Nitrogen,Dissolved,,85.59,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004TN,10-04-2016,Sample-Routine,Water,,644391194,Nitrogen,Dissolved,,118.93,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006TN,10-06-2016,Sample-Routine,Water,,644391205,Nitrogen,Dissolved,,61.32,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004TP,10-04-2016,Sample-Routine,Water,,644391210,Phosphorus,Dissolved,,17.23,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004TP,10-04-2016,Sample-Routine,Water,,644391211,Phosphorus,Dissolved,,13.51,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006TP,10-06-2016,Sample-Routine,Water,,644391222,Phosphorus,Dissolved,,12.66,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004PO4,10-04-2016,Sample-Routine,Water,,644391227,Phosphate-phosphorus,Dissolved,,5.65,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004PO4,10-04-2016,Sample-Routine,Water,,644391228,Phosphate-phosphorus,Dissolved,,8.2,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006PO4,10-06-2016,Sample-Routine,Water,,644391239,Phosphate-phosphorus,Dissolved,,4.81,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004Si,10-04-2016,Sample-Routine,Water,,644391244,Silicate,Dissolved,,317.64,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004Si,10-04-2016,Sample-Routine,Water,,644391245,Silicate,Dissolved,,583.21,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006Si,10-06-2016,Sample-Routine,Water,,644391256,Silicate,Dissolved,,84.83,ug/l,Actual,,,,Final,08-06-2017 7:32:28 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004NNN,10-04-2016,Sample-Routine,Water,,644391261,Nitrate,Dissolved,,24.89,ug/l,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004NNN,10-04-2016,Sample-Routine,Water,,644391262,Nitrate,Dissolved,,64.14,ug/l,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006NNN,10-06-2016,Sample-Routine,Water,,644391273,Nitrate,Dissolved,,2.93,ug/l,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161004NH4,10-04-2016,Sample-Routine,Water,,644391278,Ammonia-nitrogen,Dissolved,,4.84,ug/l,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161004NH4,10-04-2016,Sample-Routine,Water,,644391279,Ammonia-nitrogen,Dissolved,,7.29,ug/l,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161006NH4,10-06-2016,Sample-Routine,Water,,644391290,Ammonia-nitrogen,Dissolved,,2.65,ug/l,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018T,10-18-2016,Field Msr/Obs,Water,,644391295,"Temperature, water",,,26.8,deg C,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018T,10-18-2016,Field Msr/Obs,Water,,644391296,"Temperature, water",,,27.2,deg C,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020T,10-20-2016,Field Msr/Obs,Water,,644391307,"Temperature, water",,,24.8,deg C,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018DO,10-18-2016,Field Msr/Obs,Water,,644391312,Dissolved oxygen (DO),,,6.28,mg/l,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018DO,10-18-2016,Field Msr/Obs,Water,,644391313,Dissolved oxygen (DO),,,6.22,mg/l,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020DO,10-20-2016,Field Msr/Obs,Water,,644391324,Dissolved oxygen (DO),,,6.47,mg/l,Actual,,,,Final,08-06-2017 7:32:29 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018DOp,10-18-2016,Field Msr/Obs,Water,,644391329,Dissolved oxygen (DO),,,96.3,%,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018DOp,10-18-2016,Field Msr/Obs,Water,,644391330,Dissolved oxygen (DO),,,96.3,%,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020DOp,10-20-2016,Field Msr/Obs,Water,,644391341,Dissolved oxygen (DO),,,96,%,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018pH,10-18-2016,Field Msr/Obs,Water,,644391346,pH,,,7.99,None,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018pH,10-18-2016,Field Msr/Obs,Water,,644391347,pH,,,8.01,None,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020pH,10-20-2016,Field Msr/Obs,Water,,644391358,pH,,,8.08,None,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018S,10-18-2016,Field Msr/Obs,Water,,644391363,Conductivity,,,36.7,ppt,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018S,10-18-2016,Field Msr/Obs,Water,,644391364,Conductivity,,,37.1,ppt,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020S,10-20-2016,Field Msr/Obs,Water,,644391375,Conductivity,,,36.3,ppt,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018TB,10-18-2016,Field Msr/Obs,Water,,644391380,Turbidity,,,0.7,NTU,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018TB,10-18-2016,Field Msr/Obs,Water,,644391381,Turbidity,,,0.93,NTU,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020TB,10-20-2016,Field Msr/Obs,Water,,644391392,Turbidity,,,14.97,NTU,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018TN,10-18-2016,Sample-Routine,Water,,644391397,Nitrogen,Dissolved,,87.06,ug/l,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018TN,10-18-2016,Sample-Routine,Water,,644391398,Nitrogen,Dissolved,,84.95,ug/l,Actual,,,,Final,08-06-2017 7:32:30 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020TN,10-20-2016,Sample-Routine,Water,,644391409,Nitrogen,Dissolved,,63.97,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018TP,10-18-2016,Sample-Routine,Water,,644391414,Phosphorus,Dissolved,,9.44,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018TP,10-18-2016,Sample-Routine,Water,,644391415,Phosphorus,Dissolved,,23.4,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020TP,10-20-2016,Sample-Routine,Water,,644391426,Phosphorus,Dissolved,,8.44,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018PO4,10-18-2016,Sample-Routine,Water,,644391431,Phosphate-phosphorus,Dissolved,,7.1,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018PO4,10-18-2016,Sample-Routine,Water,,644391432,Phosphate-phosphorus,Dissolved,,6.5,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020PO4,10-20-2016,Sample-Routine,Water,,644391443,Phosphate-phosphorus,Dissolved,,5.02,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018Si,10-18-2016,Sample-Routine,Water,,644391448,Silicate,Dissolved,,343.83,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018Si,10-18-2016,Sample-Routine,Water,,644391449,Silicate,Dissolved,,270.97,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020Si,10-20-2016,Sample-Routine,Water,,644391460,Silicate,Dissolved,,76.62,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018NNN,10-18-2016,Sample-Routine,Water,,644391465,Nitrate,Dissolved,,24.67,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018NNN,10-18-2016,Sample-Routine,Water,,644391466,Nitrate,Dissolved,,15.75,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020NNN,10-20-2016,Sample-Routine,Water,,644391477,Nitrate,Dissolved,,0.69,ug/l,Actual,,,,Final,08-06-2017 7:32:31 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161018NH4,10-18-2016,Sample-Routine,Water,,644391482,Ammonia-nitrogen,Dissolved,,3.49,ug/l,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161018NH4,10-18-2016,Sample-Routine,Water,,644391483,Ammonia-nitrogen,Dissolved,,12.04,ug/l,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161020NH4,10-20-2016,Sample-Routine,Water,,644391494,Ammonia-nitrogen,Dissolved,,6.85,ug/l,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101T,11-01-2016,Field Msr/Obs,Water,,644391499,"Temperature, water",,,25.5,deg C,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101T,11-01-2016,Field Msr/Obs,Water,,644391500,"Temperature, water",,,26,deg C,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103T,11-03-2016,Field Msr/Obs,Water,,644391511,"Temperature, water",,,25.4,deg C,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101DO,11-01-2016,Field Msr/Obs,Water,,644391516,Dissolved oxygen (DO),,,6.43,mg/l,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101DO,11-01-2016,Field Msr/Obs,Water,,644391517,Dissolved oxygen (DO),,,6.38,mg/l,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103DO,11-03-2016,Field Msr/Obs,Water,,644391528,Dissolved oxygen (DO),,,6.61,mg/l,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101DOp,11-01-2016,Field Msr/Obs,Water,,644391533,Dissolved oxygen (DO),,,94.7,%,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101DOp,11-01-2016,Field Msr/Obs,Water,,644391534,Dissolved oxygen (DO),,,95.8,%,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103DOp,11-03-2016,Field Msr/Obs,Water,,644391545,Dissolved oxygen (DO),,,97.7,%,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101pH,11-01-2016,Field Msr/Obs,Water,,644391550,pH,,,8.1,None,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101pH,11-01-2016,Field Msr/Obs,Water,,644391551,pH,,,8.12,None,Actual,,,,Final,08-06-2017 7:32:32 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103pH,11-03-2016,Field Msr/Obs,Water,,644391562,pH,,,8.15,None,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101S,11-01-2016,Field Msr/Obs,Water,,644391567,Conductivity,,,34.4,ppt,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101S,11-01-2016,Field Msr/Obs,Water,,644391568,Conductivity,,,34,ppt,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103S,11-03-2016,Field Msr/Obs,Water,,644391579,Conductivity,,,34.9,ppt,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101TB,11-01-2016,Field Msr/Obs,Water,,644391584,Turbidity,,,1.4,NTU,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101TB,11-01-2016,Field Msr/Obs,Water,,644391585,Turbidity,,,1.38,NTU,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103TB,11-03-2016,Field Msr/Obs,Water,,644391596,Turbidity,,,12.6,NTU,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101TN,11-01-2016,Sample-Routine,Water,,644391601,Nitrogen,Dissolved,,84.64,ug/l,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101TN,11-01-2016,Sample-Routine,Water,,644391602,Nitrogen,Dissolved,,96.42,ug/l,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103TN,11-03-2016,Sample-Routine,Water,,644391613,Nitrogen,Dissolved,,64.27,ug/l,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101TP,11-01-2016,Sample-Routine,Water,,644391618,Phosphorus,Dissolved,,20.7,ug/l,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101TP,11-01-2016,Sample-Routine,Water,,644391619,Phosphorus,Dissolved,,21.82,ug/l,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103TP,11-03-2016,Sample-Routine,Water,,644391630,Phosphorus,Dissolved,,11.71,ug/l,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101PO4,11-01-2016,Sample-Routine,Water,,644391635,Phosphate-phosphorus,Dissolved,,8.34,ug/l,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101PO4,11-01-2016,Sample-Routine,Water,,644391636,Phosphate-phosphorus,Dissolved,,6.94,ug/l,Actual,,,,Final,08-06-2017 7:32:33 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103PO4,11-03-2016,Sample-Routine,Water,,644391647,Phosphate-phosphorus,Dissolved,,4.53,ug/l,Actual,,,,Final,08-06-2017 7:32:34 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101Si,11-01-2016,Sample-Routine,Water,,644391652,Silicate,Dissolved,,421.29,ug/l,Actual,,,,Final,08-06-2017 7:32:34 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101Si,11-01-2016,Sample-Routine,Water,,644391653,Silicate,Dissolved,,381.22,ug/l,Actual,,,,Final,08-06-2017 7:32:34 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103Si,11-03-2016,Sample-Routine,Water,,644391664,Silicate,Dissolved,,58.71,ug/l,Actual,,,,Final,08-06-2017 7:32:34 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101NNN,11-01-2016,Sample-Routine,Water,,644391669,Nitrate,Dissolved,,15.51,ug/l,Actual,,,,Final,08-06-2017 7:32:34 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101NNN,11-01-2016,Sample-Routine,Water,,644391670,Nitrate,Dissolved,,28.69,ug/l,Actual,,,,Final,08-06-2017 7:32:34 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103NNN,11-03-2016,Sample-Routine,Water,,644391681,Nitrate,Dissolved,,2.46,ug/l,Actual,,,,Final,08-06-2017 7:32:34 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161101NH4,11-01-2016,Sample-Routine,Water,,644391686,Ammonia-nitrogen,Dissolved,,7.16,ug/l,Actual,,,,Final,08-06-2017 7:32:34 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161101NH4,11-01-2016,Sample-Routine,Water,,644391687,Ammonia-nitrogen,Dissolved,,3.18,ug/l,Actual,,,,Final,08-06-2017 7:32:34 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161103NH4,11-03-2016,Sample-Routine,Water,,644391698,Ammonia-nitrogen,Dissolved,,3.21,ug/l,Actual,,,,Final,08-06-2017 7:32:35 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115T,11-15-2016,Field Msr/Obs,Water,,644391703,"Temperature, water",,,25.8,deg C,Actual,,,,Final,08-06-2017 7:32:35 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115T,11-15-2016,Field Msr/Obs,Water,,644391704,"Temperature, water",,,26.5,deg C,Actual,,,,Final,08-06-2017 7:32:35 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117T,11-17-2016,Field Msr/Obs,Water,,644391715,"Temperature, water",,,24.7,deg C,Actual,,,,Final,08-06-2017 7:32:35 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115DO,11-15-2016,Field Msr/Obs,Water,,644391720,Dissolved oxygen (DO),,,6.49,mg/l,Actual,,,,Final,08-06-2017 7:32:35 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115DO,11-15-2016,Field Msr/Obs,Water,,644391721,Dissolved oxygen (DO),,,6.38,mg/l,Actual,,,,Final,08-06-2017 7:32:35 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117DO,11-17-2016,Field Msr/Obs,Water,,644391732,Dissolved oxygen (DO),,,6.58,mg/l,Actual,,,,Final,08-06-2017 7:32:35 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115DOp,11-15-2016,Field Msr/Obs,Water,,644391737,Dissolved oxygen (DO),,,96.2,%,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115DOp,11-15-2016,Field Msr/Obs,Water,,644391738,Dissolved oxygen (DO),,,95.8,%,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117DOp,11-17-2016,Field Msr/Obs,Water,,644391749,Dissolved oxygen (DO),,,96.2,%,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115pH,11-15-2016,Field Msr/Obs,Water,,644391754,pH,,,8.14,None,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115pH,11-15-2016,Field Msr/Obs,Water,,644391755,pH,,,8.14,None,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117pH,11-17-2016,Field Msr/Obs,Water,,644391766,pH,,,8.05,None,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115S,11-15-2016,Field Msr/Obs,Water,,644391771,Conductivity,,,34.4,ppt,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115S,11-15-2016,Field Msr/Obs,Water,,644391772,Conductivity,,,34.2,ppt,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117S,11-17-2016,Field Msr/Obs,Water,,644391783,Conductivity,,,34.6,ppt,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115TB,11-15-2016,Field Msr/Obs,Water,,644391788,Turbidity,,,1.46,NTU,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115TB,11-15-2016,Field Msr/Obs,Water,,644391789,Turbidity,,,1.66,NTU,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117TB,11-17-2016,Field Msr/Obs,Water,,644391800,Turbidity,,,2.92,NTU,Actual,,,,Final,08-06-2017 7:32:36 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115TN,11-15-2016,Sample-Routine,Water,,644391805,Nitrogen,Dissolved,,67.22,ug/l,Actual,,,,Final,08-06-2017 7:32:37 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115TN,11-15-2016,Sample-Routine,Water,,644391806,Nitrogen,Dissolved,,79.76,ug/l,Actual,,,,Final,08-06-2017 7:32:37 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117TN,11-17-2016,Sample-Routine,Water,,644391817,Nitrogen,Dissolved,,58.01,ug/l,Actual,,,,Final,08-06-2017 7:32:37 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115TP,11-15-2016,Sample-Routine,Water,,644391822,Phosphorus,Dissolved,,8.36,ug/l,Actual,,,,Final,08-06-2017 7:32:37 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115TP,11-15-2016,Sample-Routine,Water,,644391823,Phosphorus,Dissolved,,8.32,ug/l,Actual,,,,Final,08-06-2017 7:32:37 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117TP,11-17-2016,Sample-Routine,Water,,644391834,Phosphorus,Dissolved,,4.1,ug/l,Actual,,,,Final,08-06-2017 7:32:37 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115PO4,11-15-2016,Sample-Routine,Water,,644391839,Phosphate-phosphorus,Dissolved,,5.88,ug/l,Actual,,,,Final,08-06-2017 7:32:37 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115PO4,11-15-2016,Sample-Routine,Water,,644391840,Phosphate-phosphorus,Dissolved,,5.29,ug/l,Actual,,,,Final,08-06-2017 7:32:37 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117PO4,11-17-2016,Sample-Routine,Water,,644391851,Phosphate-phosphorus,Dissolved,,3.36,ug/l,Actual,,,,Final,08-06-2017 7:32:38 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115Si,11-15-2016,Sample-Routine,Water,,644391856,Silicate,Dissolved,,349.27,ug/l,Actual,,,,Final,08-06-2017 7:32:38 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115Si,11-15-2016,Sample-Routine,Water,,644391857,Silicate,Dissolved,,430.52,ug/l,Actual,,,,Final,08-06-2017 7:32:38 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117Si,11-17-2016,Sample-Routine,Water,,644391868,Silicate,Dissolved,,110.15,ug/l,Actual,,,,Final,08-06-2017 7:32:38 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115NNN,11-15-2016,Sample-Routine,Water,,644391873,Nitrate,Dissolved,,15.11,ug/l,Actual,,,,Final,08-06-2017 7:32:38 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115NNN,11-15-2016,Sample-Routine,Water,,644391874,Nitrate,Dissolved,,31.95,ug/l,Actual,,,,Final,08-06-2017 7:32:38 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117NNN,11-17-2016,Sample-Routine,Water,,644391885,Nitrate,Dissolved,,5.78,ug/l,Actual,,,,Final,08-06-2017 7:32:38 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161115NH4,11-15-2016,Sample-Routine,Water,,644391890,Ammonia-nitrogen,Dissolved,,,ug/l,Actual,Not Detected,,,Final,08-06-2017 7:32:38 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161115NH4,11-15-2016,Sample-Routine,Water,,644391891,Ammonia-nitrogen,Dissolved,,2.9,ug/l,Actual,,,,Final,08-06-2017 7:32:38 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161117NH4,11-17-2016,Sample-Routine,Water,,644391902,Ammonia-nitrogen,Dissolved,,,ug/l,Actual,Not Detected,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129T,11-29-2016,Field Msr/Obs,Water,,644391907,"Temperature, water",,,25,deg C,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129T,11-29-2016,Field Msr/Obs,Water,,644391908,"Temperature, water",,,25.4,deg C,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201T,12-01-2016,Field Msr/Obs,Water,,644391919,"Temperature, water",,,23.3,deg C,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129DO,11-29-2016,Field Msr/Obs,Water,,644391924,Dissolved oxygen (DO),,,6.52,mg/l,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129DO,11-29-2016,Field Msr/Obs,Water,,644391925,Dissolved oxygen (DO),,,6.53,mg/l,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201DO,12-01-2016,Field Msr/Obs,Water,,644391936,Dissolved oxygen (DO),,,6.8,mg/l,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129DOp,11-29-2016,Field Msr/Obs,Water,,644391941,Dissolved oxygen (DO),,,95.2,%,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129DOp,11-29-2016,Field Msr/Obs,Water,,644391942,Dissolved oxygen (DO),,,95.4,%,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201DOp,12-01-2016,Field Msr/Obs,Water,,644391953,Dissolved oxygen (DO),,,96.9,%,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129pH,11-29-2016,Field Msr/Obs,Water,,644391958,pH,,,8.14,None,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129pH,11-29-2016,Field Msr/Obs,Water,,644391959,pH,,,8.04,None,Actual,,,,Final,08-06-2017 7:32:39 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201pH,12-01-2016,Field Msr/Obs,Water,,644391970,pH,,,8.13,None,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129S,11-29-2016,Field Msr/Obs,Water,,644391975,Conductivity,,,34.3,ppt,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129S,11-29-2016,Field Msr/Obs,Water,,644391976,Conductivity,,,33.8,ppt,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201S,12-01-2016,Field Msr/Obs,Water,,644391987,Conductivity,,,34.7,ppt,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129TB,11-29-2016,Field Msr/Obs,Water,,644391992,Turbidity,,,1.56,NTU,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129TB,11-29-2016,Field Msr/Obs,Water,,644391993,Turbidity,,,1.46,NTU,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201TB,12-01-2016,Field Msr/Obs,Water,,644392004,Turbidity,,,7.42,NTU,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129TN,11-29-2016,Sample-Routine,Water,,644392009,Nitrogen,Dissolved,,83.38,ug/l,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129TN,11-29-2016,Sample-Routine,Water,,644392010,Nitrogen,Dissolved,,137.85,ug/l,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201TN,12-01-2016,Sample-Routine,Water,,644392021,Nitrogen,Dissolved,,60.43,ug/l,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129TP,11-29-2016,Sample-Routine,Water,,644392026,Phosphorus,Dissolved,,5.77,ug/l,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129TP,11-29-2016,Sample-Routine,Water,,644392027,Phosphorus,Dissolved,,9.45,ug/l,Actual,,,,Final,08-06-2017 7:32:40 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201TP,12-01-2016,Sample-Routine,Water,,644392038,Phosphorus,Dissolved,,6.43,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129PO4,11-29-2016,Sample-Routine,Water,,644392043,Phosphate-phosphorus,Dissolved,,4.06,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129PO4,11-29-2016,Sample-Routine,Water,,644392044,Phosphate-phosphorus,Dissolved,,7.1,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201PO4,12-01-2016,Sample-Routine,Water,,644392055,Phosphate-phosphorus,Dissolved,,2.67,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129Si,11-29-2016,Sample-Routine,Water,,644392060,Silicate,Dissolved,,386.57,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129Si,11-29-2016,Sample-Routine,Water,,644392061,Silicate,Dissolved,,848.06,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201Si,12-01-2016,Sample-Routine,Water,,644392072,Silicate,Dissolved,,148.15,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129NNN,11-29-2016,Sample-Routine,Water,,644392077,Nitrate,Dissolved,,21.25,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129NNN,11-29-2016,Sample-Routine,Water,,644392078,Nitrate,Dissolved,,77.66,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201NNN,12-01-2016,Sample-Routine,Water,,644392089,Nitrate,Dissolved,,1.68,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161129NH4,11-29-2016,Sample-Routine,Water,,644392094,Ammonia-nitrogen,Dissolved,,1.64,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161129NH4,11-29-2016,Sample-Routine,Water,,644392095,Ammonia-nitrogen,Dissolved,,3.07,ug/l,Actual,,,,Final,08-06-2017 7:32:41 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161201NH4,12-01-2016,Sample-Routine,Water,,644392106,Ammonia-nitrogen,Dissolved,,1.58,ug/l,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213T,12-13-2016,Field Msr/Obs,Water,,644392111,"Temperature, water",,,25.3,deg C,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213T,12-13-2016,Field Msr/Obs,Water,,644392112,"Temperature, water",,,25.3,deg C,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215T,12-15-2016,Field Msr/Obs,Water,,644392123,"Temperature, water",,,25,deg C,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213DO,12-13-2016,Field Msr/Obs,Water,,644392128,Dissolved oxygen (DO),,,6.6,mg/l,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213DO,12-13-2016,Field Msr/Obs,Water,,644392129,Dissolved oxygen (DO),,,6.57,mg/l,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215DO,12-15-2016,Field Msr/Obs,Water,,644392140,Dissolved oxygen (DO),,,6.65,mg/l,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213DOp,12-13-2016,Field Msr/Obs,Water,,644392145,Dissolved oxygen (DO),,,97.4,%,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213DOp,12-13-2016,Field Msr/Obs,Water,,644392146,Dissolved oxygen (DO),,,97.1,%,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215DOp,12-15-2016,Field Msr/Obs,Water,,644392157,Dissolved oxygen (DO),,,98.2,%,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213pH,12-13-2016,Field Msr/Obs,Water,,644392162,pH,,,8.02,None,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213pH,12-13-2016,Field Msr/Obs,Water,,644392163,pH,,,8.09,None,Actual,,,,Final,08-06-2017 7:32:42 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215pH,12-15-2016,Field Msr/Obs,Water,,644392174,pH,,,7.89,None,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213S,12-13-2016,Field Msr/Obs,Water,,644392179,Conductivity,,,34.7,ppt,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213S,12-13-2016,Field Msr/Obs,Water,,644392180,Conductivity,,,34.5,ppt,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215S,12-15-2016,Field Msr/Obs,Water,,644392191,Conductivity,,,34.8,ppt,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213TB,12-13-2016,Field Msr/Obs,Water,,644392196,Turbidity,,,1.21,NTU,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213TB,12-13-2016,Field Msr/Obs,Water,,644392197,Turbidity,,,3.32,NTU,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215TB,12-15-2016,Field Msr/Obs,Water,,644392208,Turbidity,,,3.15,NTU,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213TN,12-13-2016,Sample-Routine,Water,,644392213,Nitrogen,Dissolved,,62.36,ug/l,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213TN,12-13-2016,Sample-Routine,Water,,644392214,Nitrogen,Dissolved,,79,ug/l,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215TN,12-15-2016,Sample-Routine,Water,,644392225,Nitrogen,Dissolved,,53.71,ug/l,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213TP,12-13-2016,Sample-Routine,Water,,644392230,Phosphorus,Dissolved,,13.42,ug/l,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213TP,12-13-2016,Sample-Routine,Water,,644392231,Phosphorus,Dissolved,,13.91,ug/l,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215TP,12-15-2016,Sample-Routine,Water,,644392242,Phosphorus,Dissolved,,9.19,ug/l,Actual,,,,Final,08-06-2017 7:32:43 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213PO4,12-13-2016,Sample-Routine,Water,,644392247,Phosphate-phosphorus,Dissolved,,4.78,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213PO4,12-13-2016,Sample-Routine,Water,,644392248,Phosphate-phosphorus,Dissolved,,6.44,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215PO4,12-15-2016,Sample-Routine,Water,,644392259,Phosphate-phosphorus,Dissolved,,2.63,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213Si,12-13-2016,Sample-Routine,Water,,644392264,Silicate,Dissolved,,343.8,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213Si,12-13-2016,Sample-Routine,Water,,644392265,Silicate,Dissolved,,437.3,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215Si,12-15-2016,Sample-Routine,Water,,644392276,Silicate,Dissolved,,80.26,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213NNN,12-13-2016,Sample-Routine,Water,,644392281,Nitrate,Dissolved,,18.57,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213NNN,12-13-2016,Sample-Routine,Water,,644392282,Nitrate,Dissolved,,34.54,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215NNN,12-15-2016,Sample-Routine,Water,,644392293,Nitrate,Dissolved,,7.38,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB161213NH4,12-13-2016,Sample-Routine,Water,,644392298,Ammonia-nitrogen,Dissolved,,,ug/l,Actual,Not Detected,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB161213NH4,12-13-2016,Sample-Routine,Water,,644392299,Ammonia-nitrogen,Dissolved,,4.26,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB161215NH4,12-15-2016,Sample-Routine,Water,,644392310,Ammonia-nitrogen,Dissolved,,1.6,ug/l,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103T,01-03-2017,Field Msr/Obs,Water,,644392315,"Temperature, water",,,24.4,deg C,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103T,01-03-2017,Field Msr/Obs,Water,,644392316,"Temperature, water",,,24.9,deg C,Actual,,,,Final,08-06-2017 7:32:44 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105T,01-05-2017,Field Msr/Obs,Water,,644392327,"Temperature, water",,,22.9,deg C,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103DO,01-03-2017,Field Msr/Obs,Water,,644392332,Dissolved oxygen (DO),,,6.57,mg/l,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103DO,01-03-2017,Field Msr/Obs,Water,,644392333,Dissolved oxygen (DO),,,6.66,mg/l,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105DO,01-05-2017,Field Msr/Obs,Water,,644392344,Dissolved oxygen (DO),,,6.96,mg/l,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103DOp,01-03-2017,Field Msr/Obs,Water,,644392349,Dissolved oxygen (DO),,,95.5,%,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103DOp,01-03-2017,Field Msr/Obs,Water,,644392350,Dissolved oxygen (DO),,,97.6,%,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105DOp,01-05-2017,Field Msr/Obs,Water,,644392361,Dissolved oxygen (DO),,,98.9,%,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103S,01-03-2017,Field Msr/Obs,Water,,644392366,Conductivity,,,34.6,ppt,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103S,01-03-2017,Field Msr/Obs,Water,,644392367,Conductivity,,,34.5,ppt,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105S,01-05-2017,Field Msr/Obs,Water,,644392378,Conductivity,,,35.4,ppt,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103TB,01-03-2017,Field Msr/Obs,Water,,644392383,Turbidity,,,2.49,NTU,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103TB,01-03-2017,Field Msr/Obs,Water,,644392384,Turbidity,,,1.42,NTU,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105TB,01-05-2017,Field Msr/Obs,Water,,644392395,Turbidity,,,12.23,NTU,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103TN,01-03-2017,Sample-Routine,Water,,644392400,Nitrogen,Dissolved,,82.42,ug/l,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103TN,01-03-2017,Sample-Routine,Water,,644392401,Nitrogen,Dissolved,,121.24,ug/l,Actual,,,,Final,08-06-2017 7:32:45 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105TN,01-05-2017,Sample-Routine,Water,,644392412,Nitrogen,Dissolved,,75.23,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103TP,01-03-2017,Sample-Routine,Water,,644392417,Phosphorus,Dissolved,,12.88,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103TP,01-03-2017,Sample-Routine,Water,,644392418,Phosphorus,Dissolved,,14.48,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105TP,01-05-2017,Sample-Routine,Water,,644392429,Phosphorus,Dissolved,,12.42,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103PO4,01-03-2017,Sample-Routine,Water,,644392434,Phosphate-phosphorus,Dissolved,,7.56,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103PO4,01-03-2017,Sample-Routine,Water,,644392435,Phosphate-phosphorus,Dissolved,,7.73,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105PO4,01-05-2017,Sample-Routine,Water,,644392446,Phosphate-phosphorus,Dissolved,,5.28,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103Si,01-03-2017,Sample-Routine,Water,,644392451,Silicate,Dissolved,,314.68,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103Si,01-03-2017,Sample-Routine,Water,,644392452,Silicate,Dissolved,,430.02,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105Si,01-05-2017,Sample-Routine,Water,,644392463,Silicate,Dissolved,,88.84,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103NNN,01-03-2017,Sample-Routine,Water,,644392468,Nitrate,Dissolved,,15.25,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103NNN,01-03-2017,Sample-Routine,Water,,644392469,Nitrate,Dissolved,,47.01,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105NNN,01-05-2017,Sample-Routine,Water,,644392480,Nitrate,Dissolved,,7.87,ug/l,Actual,,,,Final,08-06-2017 7:32:46 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170103NH4,01-03-2017,Sample-Routine,Water,,644392485,Ammonia-nitrogen,Dissolved,,1.63,ug/l,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170103NH4,01-03-2017,Sample-Routine,Water,,644392486,Ammonia-nitrogen,Dissolved,,3.18,ug/l,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170105NH4,01-05-2017,Sample-Routine,Water,,644392497,Ammonia-nitrogen,Dissolved,,,ug/l,Actual,Not Detected,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124T,01-24-2017,Field Msr/Obs,Water,,644392502,"Temperature, water",,,24.1,deg C,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124T,01-24-2017,Field Msr/Obs,Water,,644392503,"Temperature, water",,,24.5,deg C,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126T,01-26-2017,Field Msr/Obs,Water,,644392514,"Temperature, water",,,23.5,deg C,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124DO,01-24-2017,Field Msr/Obs,Water,,644392518,Dissolved oxygen (DO),,,6.46,mg/l,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124DO,01-24-2017,Field Msr/Obs,Water,,644392519,Dissolved oxygen (DO),,,6.57,mg/l,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126DO,01-26-2017,Field Msr/Obs,Water,,644392530,Dissolved oxygen (DO),,,6.85,mg/l,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124DOp,01-24-2017,Field Msr/Obs,Water,,644392535,Dissolved oxygen (DO),,,94.5,%,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124DOp,01-24-2017,Field Msr/Obs,Water,,644392536,Dissolved oxygen (DO),,,96.3,%,Actual,,,,Final,08-06-2017 7:32:47 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126DOp,01-26-2017,Field Msr/Obs,Water,,644392547,Dissolved oxygen (DO),,,98,%,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124pH,01-24-2017,Field Msr/Obs,Water,,644392552,pH,,,8.16,None,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124pH,01-24-2017,Field Msr/Obs,Water,,644392553,pH,,,8.18,None,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126pH,01-26-2017,Field Msr/Obs,Water,,644392564,pH,,,8.06,None,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126S,01-26-2017,Field Msr/Obs,Water,,644392576,Conductivity,,,35.3,ppt,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124TB,01-24-2017,Field Msr/Obs,Water,,644392581,Turbidity,,,4.08,NTU,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124TB,01-24-2017,Field Msr/Obs,Water,,644392582,Turbidity,,,0.8,NTU,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126TB,01-26-2017,Field Msr/Obs,Water,,644392593,Turbidity,,,6.62,NTU,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124TN,01-24-2017,Sample-Routine,Water,,644392598,Nitrogen,Dissolved,,79.75,ug/l,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124TN,01-24-2017,Sample-Routine,Water,,644392599,Nitrogen,Dissolved,,113.22,ug/l,Actual,,,,Final,08-06-2017 7:32:48 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126TN,01-26-2017,Sample-Routine,Water,,644392610,Nitrogen,Dissolved,,79.41,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124TP,01-24-2017,Sample-Routine,Water,,644392615,Phosphorus,Dissolved,,23.24,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124TP,01-24-2017,Sample-Routine,Water,,644392616,Phosphorus,Dissolved,,19.74,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126TP,01-26-2017,Sample-Routine,Water,,644392627,Phosphorus,Dissolved,,15.49,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124PO4,01-24-2017,Sample-Routine,Water,,644392632,Phosphate-phosphorus,Dissolved,,18.9,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124PO4,01-24-2017,Sample-Routine,Water,,644392633,Phosphate-phosphorus,Dissolved,,16.74,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126PO4,01-26-2017,Sample-Routine,Water,,644392644,Phosphate-phosphorus,Dissolved,,6.83,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124Si,01-24-2017,Sample-Routine,Water,,644392649,Silicate,Dissolved,,237.48,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124Si,01-24-2017,Sample-Routine,Water,,644392650,Silicate,Dissolved,,327.23,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126Si,01-26-2017,Sample-Routine,Water,,644392661,Silicate,Dissolved,,110.39,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124NNN,01-24-2017,Sample-Routine,Water,,644392666,Nitrate,Dissolved,,13.92,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124NNN,01-24-2017,Sample-Routine,Water,,644392667,Nitrate,Dissolved,,46.28,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126NNN,01-26-2017,Sample-Routine,Water,,644392678,Nitrate,Dissolved,,8.47,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170124NH4,01-24-2017,Sample-Routine,Water,,644392683,Ammonia-nitrogen,Dissolved,,4.49,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170124NH4,01-24-2017,Sample-Routine,Water,,644392684,Ammonia-nitrogen,Dissolved,,7.68,ug/l,Actual,,,,Final,08-06-2017 7:32:49 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170126NH4,01-26-2017,Sample-Routine,Water,,644392695,Ammonia-nitrogen,Dissolved,,5.32,ug/l,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214T,02-14-2017,Field Msr/Obs,Water,,644392701,"Temperature, water",,,24.5,deg C,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214T,02-14-2017,Field Msr/Obs,Water,,644392702,"Temperature, water",,,24.7,deg C,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217T,02-17-2017,Field Msr/Obs,Water,,644392713,"Temperature, water",,,25.3,deg C,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214DO,02-14-2017,Field Msr/Obs,Water,,644392719,Dissolved oxygen (DO),,,6.81,mg/l,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214DO,02-14-2017,Field Msr/Obs,Water,,644392720,Dissolved oxygen (DO),,,6.76,mg/l,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217DO,02-17-2017,Field Msr/Obs,Water,,644392731,Dissolved oxygen (DO),,,6.46,mg/l,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214DOp,02-14-2017,Field Msr/Obs,Water,,644392737,Dissolved oxygen (DO),,,99.1,%,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214DOp,02-14-2017,Field Msr/Obs,Water,,644392738,Dissolved oxygen (DO),,,98.6,%,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217DOp,02-17-2017,Field Msr/Obs,Water,,644392749,Dissolved oxygen (DO),,,95.3,%,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214pH,02-14-2017,Field Msr/Obs,Water,,644392755,pH,,,8.19,None,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214pH,02-14-2017,Field Msr/Obs,Water,,644392756,pH,,,8.19,None,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217pH,02-17-2017,Field Msr/Obs,Water,,644392767,pH,,,8.11,None,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214S,02-14-2017,Field Msr/Obs,Water,,644392773,Conductivity,,,34.6,ppt,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214S,02-14-2017,Field Msr/Obs,Water,,644392774,Conductivity,,,34.3,ppt,Actual,,,,Final,08-06-2017 7:32:50 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217S,02-17-2017,Field Msr/Obs,Water,,644392785,Conductivity,,,35.2,ppt,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214TB,02-14-2017,Field Msr/Obs,Water,,644392791,Turbidity,,,5.25,NTU,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214TB,02-14-2017,Field Msr/Obs,Water,,644392792,Turbidity,,,1.47,NTU,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217TB,02-17-2017,Field Msr/Obs,Water,,644392803,Turbidity,,,2.77,NTU,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214TN,02-14-2017,Sample-Routine,Water,,644392808,Nitrogen,Dissolved,,95.15,ug/l,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214TN,02-14-2017,Sample-Routine,Water,,644392809,Nitrogen,Dissolved,,136.07,ug/l,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217TN,02-17-2017,Sample-Routine,Water,,644392820,Nitrogen,Dissolved,,95.54,ug/l,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214TP,02-14-2017,Sample-Routine,Water,,644392826,Phosphorus,Dissolved,,14.98,ug/l,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214TP,02-14-2017,Sample-Routine,Water,,644392827,Phosphorus,Dissolved,,16.87,ug/l,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217TP,02-17-2017,Sample-Routine,Water,,644392838,Phosphorus,Dissolved,,9.67,ug/l,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214PO4,02-14-2017,Sample-Routine,Water,,644392844,Phosphate-phosphorus,Dissolved,,10.48,ug/l,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214PO4,02-14-2017,Sample-Routine,Water,,644392845,Phosphate-phosphorus,Dissolved,,10.08,ug/l,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217PO4,02-17-2017,Sample-Routine,Water,,644392856,Phosphate-phosphorus,Dissolved,,5.16,ug/l,Actual,,,,Final,08-06-2017 7:32:51 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214Si,02-14-2017,Sample-Routine,Water,,644392862,Silicate,Dissolved,,381.69,ug/l,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214Si,02-14-2017,Sample-Routine,Water,,644392863,Silicate,Dissolved,,457.43,ug/l,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217Si,02-17-2017,Sample-Routine,Water,,644392874,Silicate,Dissolved,,65.93,ug/l,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214NNN,02-14-2017,Sample-Routine,Water,,644392880,Nitrate,Dissolved,,23.45,ug/l,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214NNN,02-14-2017,Sample-Routine,Water,,644392881,Nitrate,Dissolved,,71,ug/l,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217NNN,02-17-2017,Sample-Routine,Water,,644392892,Nitrate,Dissolved,,4.3,ug/l,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170214NH4,02-14-2017,Sample-Routine,Water,,644392898,Ammonia-nitrogen,Dissolved,,6.22,ug/l,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170214NH4,02-14-2017,Sample-Routine,Water,,644392899,Ammonia-nitrogen,Dissolved,,6.74,ug/l,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170217NH4,02-17-2017,Sample-Routine,Water,,644392910,Ammonia-nitrogen,Dissolved,,8.73,ug/l,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307T,03-07-2017,Field Msr/Obs,Water,,644392917,"Temperature, water",,,24.5,deg C,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307T,03-07-2017,Field Msr/Obs,Water,,644392918,"Temperature, water",,,24.9,deg C,Actual,,,,Final,08-06-2017 7:32:52 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309T,03-09-2017,Field Msr/Obs,Water,,644392929,"Temperature, water",,,24.7,deg C,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307DO,03-07-2017,Field Msr/Obs,Water,,644392935,Dissolved oxygen (DO),,,6.7,mg/l,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307DO,03-07-2017,Field Msr/Obs,Water,,644392936,Dissolved oxygen (DO),,,6.69,mg/l,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309DO,03-09-2017,Field Msr/Obs,Water,,644392947,Dissolved oxygen (DO),,,6.76,mg/l,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307DOp,03-07-2017,Field Msr/Obs,Water,,644392953,Dissolved oxygen (DO),,,97.5,%,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307DOp,03-07-2017,Field Msr/Obs,Water,,644392954,Dissolved oxygen (DO),,,97.6,%,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309DOp,03-09-2017,Field Msr/Obs,Water,,644392965,Dissolved oxygen (DO),,,98.6,%,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307pH,03-07-2017,Field Msr/Obs,Water,,644392971,pH,,,8.15,None,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307pH,03-07-2017,Field Msr/Obs,Water,,644392972,pH,,,8.17,None,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309pH,03-09-2017,Field Msr/Obs,Water,,644392983,pH,,,8.11,None,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307S,03-07-2017,Field Msr/Obs,Water,,644392989,Conductivity,,,34.2,ppt,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307S,03-07-2017,Field Msr/Obs,Water,,644392990,Conductivity,,,33.7,ppt,Actual,,,,Final,08-06-2017 7:32:53 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309S,03-09-2017,Field Msr/Obs,Water,,644393001,Conductivity,,,34.5,ppt,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307TB,03-07-2017,Field Msr/Obs,Water,,644393007,Turbidity,,,7.2,NTU,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307TB,03-07-2017,Field Msr/Obs,Water,,644393008,Turbidity,,,3.84,NTU,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309TB,03-09-2017,Field Msr/Obs,Water,,644393019,Turbidity,,,15.43,NTU,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307TN,03-07-2017,Sample-Routine,Water,,644393024,Nitrogen,Dissolved,,74.76,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307TN,03-07-2017,Sample-Routine,Water,,644393025,Nitrogen,Dissolved,,122.36,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309TN,03-09-2017,Sample-Routine,Water,,644393036,Nitrogen,Dissolved,,75.57,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307TP,03-07-2017,Sample-Routine,Water,,644393042,Phosphorus,Dissolved,,13.16,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307TP,03-07-2017,Sample-Routine,Water,,644393043,Phosphorus,Dissolved,,10.73,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309TP,03-09-2017,Sample-Routine,Water,,644393054,Phosphorus,Dissolved,,10.2,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307PO4,03-07-2017,Sample-Routine,Water,,644393060,Phosphate-phosphorus,Dissolved,,10.3,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307PO4,03-07-2017,Sample-Routine,Water,,644393061,Phosphate-phosphorus,Dissolved,,8.64,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309PO4,03-09-2017,Sample-Routine,Water,,644393072,Phosphate-phosphorus,Dissolved,,5.87,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307Si,03-07-2017,Sample-Routine,Water,,644393078,Silicate,Dissolved,,263.05,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307Si,03-07-2017,Sample-Routine,Water,,644393079,Silicate,Dissolved,,398.69,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309Si,03-09-2017,Sample-Routine,Water,,644393090,Silicate,Dissolved,,99.46,ug/l,Actual,,,,Final,08-06-2017 7:32:54 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307NNN,03-07-2017,Sample-Routine,Water,,644393096,Nitrate,Dissolved,,11.25,ug/l,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307NNN,03-07-2017,Sample-Routine,Water,,644393097,Nitrate,Dissolved,,63.58,ug/l,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309NNN,03-09-2017,Sample-Routine,Water,,644393108,Nitrate,Dissolved,,11.69,ug/l,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170307NH4,03-07-2017,Sample-Routine,Water,,644393114,Ammonia-nitrogen,Dissolved,,6.23,ug/l,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170307NH4,03-07-2017,Sample-Routine,Water,,644393115,Ammonia-nitrogen,Dissolved,,7.36,ug/l,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170309NH4,03-09-2017,Sample-Routine,Water,,644393126,Ammonia-nitrogen,Dissolved,,5.92,ug/l,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328T,03-28-2017,Field Msr/Obs,Water,,644393133,"Temperature, water",,,25.4,deg C,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328T,03-28-2017,Field Msr/Obs,Water,,644393134,"Temperature, water",,,25.6,deg C,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330T,03-30-2017,Field Msr/Obs,Water,,644393145,"Temperature, water",,,25.7,deg C,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328DO,03-28-2017,Field Msr/Obs,Water,,644393151,Dissolved oxygen (DO),,,6.71,mg/l,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328DO,03-28-2017,Field Msr/Obs,Water,,644393152,Dissolved oxygen (DO),,,6.76,mg/l,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330DO,03-30-2017,Field Msr/Obs,Water,,644393163,Dissolved oxygen (DO),,,6.73,mg/l,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328DOp,03-28-2017,Field Msr/Obs,Water,,644393169,Dissolved oxygen (DO),,,98.4,%,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328DOp,03-28-2017,Field Msr/Obs,Water,,644393170,Dissolved oxygen (DO),,,99.1,%,Actual,,,,Final,08-06-2017 7:32:55 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330DOp,03-30-2017,Field Msr/Obs,Water,,644393181,Dissolved oxygen (DO),,,99.6,%,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328pH,03-28-2017,Field Msr/Obs,Water,,644393187,pH,,,8.18,None,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328pH,03-28-2017,Field Msr/Obs,Water,,644393188,pH,,,8.18,None,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330pH,03-30-2017,Field Msr/Obs,Water,,644393199,pH,,,8.11,None,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328S,03-28-2017,Field Msr/Obs,Water,,644393205,Conductivity,,,34,ppt,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328S,03-28-2017,Field Msr/Obs,Water,,644393206,Conductivity,,,33.3,ppt,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330S,03-30-2017,Field Msr/Obs,Water,,644393217,Conductivity,,,34.3,ppt,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328TB,03-28-2017,Field Msr/Obs,Water,,644393223,Turbidity,,,1.88,NTU,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328TB,03-28-2017,Field Msr/Obs,Water,,644393224,Turbidity,,,2.17,NTU,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330TB,03-30-2017,Field Msr/Obs,Water,,644393235,Turbidity,,,7.85,NTU,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328TN,03-28-2017,Sample-Routine,Water,,644393240,Nitrogen,Dissolved,,86.99,ug/l,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328TN,03-28-2017,Sample-Routine,Water,,644393241,Nitrogen,Dissolved,,143.94,ug/l,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330TN,03-30-2017,Sample-Routine,Water,,644393252,Nitrogen,Dissolved,,69.22,ug/l,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328TP,03-28-2017,Sample-Routine,Water,,644393258,Phosphorus,Dissolved,,14.49,ug/l,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328TP,03-28-2017,Sample-Routine,Water,,644393259,Phosphorus,Dissolved,,16.31,ug/l,Actual,,,,Final,08-06-2017 7:32:56 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330TP,03-30-2017,Sample-Routine,Water,,644393270,Phosphorus,Dissolved,,9.61,ug/l,Actual,,,,Final,08-06-2017 7:32:57 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328PO4,03-28-2017,Sample-Routine,Water,,644393276,Phosphate-phosphorus,Dissolved,,8.87,ug/l,Actual,,,,Final,08-06-2017 7:32:57 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328PO4,03-28-2017,Sample-Routine,Water,,644393277,Phosphate-phosphorus,Dissolved,,9.49,ug/l,Actual,,,,Final,08-06-2017 7:32:57 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330PO4,03-30-2017,Sample-Routine,Water,,644393288,Phosphate-phosphorus,Dissolved,,5.77,ug/l,Actual,,,,Final,08-06-2017 7:32:57 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328Si,03-28-2017,Sample-Routine,Water,,644393294,Silicate,Dissolved,,303.09,ug/l,Actual,,,,Final,08-06-2017 7:32:57 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328Si,03-28-2017,Sample-Routine,Water,,644393295,Silicate,Dissolved,,591.67,ug/l,Actual,,,,Final,08-06-2017 7:32:57 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330Si,03-30-2017,Sample-Routine,Water,,644393306,Silicate,Dissolved,,59.4,ug/l,Actual,,,,Final,08-06-2017 7:32:57 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328NNN,03-28-2017,Sample-Routine,Water,,644393312,Nitrate,Dissolved,,19.08,ug/l,Actual,,,,Final,08-06-2017 7:32:57 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328NNN,03-28-2017,Sample-Routine,Water,,644393313,Nitrate,Dissolved,,81.12,ug/l,Actual,,,,Final,08-06-2017 7:32:57 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330NNN,03-30-2017,Sample-Routine,Water,,644393324,Nitrate,Dissolved,,3.2,ug/l,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170328NH4,03-28-2017,Sample-Routine,Water,,644393330,Ammonia-nitrogen,Dissolved,,6.92,ug/l,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170328NH4,03-28-2017,Sample-Routine,Water,,644393331,Ammonia-nitrogen,Dissolved,,7.49,ug/l,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170330NH4,03-30-2017,Sample-Routine,Water,,644393342,Ammonia-nitrogen,Dissolved,,8.89,ug/l,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418T,04-18-2017,Field Msr/Obs,Water,,644393349,"Temperature, water",,,26.1,deg C,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418T,04-18-2017,Field Msr/Obs,Water,,644393350,"Temperature, water",,,26.1,deg C,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420T,04-20-2017,Field Msr/Obs,Water,,644393361,"Temperature, water",,,25.9,deg C,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418DO,04-18-2017,Field Msr/Obs,Water,,644393367,Dissolved oxygen (DO),,,6.53,mg/l,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418DO,04-18-2017,Field Msr/Obs,Water,,644393368,Dissolved oxygen (DO),,,6.6,mg/l,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420DO,04-20-2017,Field Msr/Obs,Water,,644393379,Dissolved oxygen (DO),,,6.54,mg/l,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418DOp,04-18-2017,Field Msr/Obs,Water,,644393385,Dissolved oxygen (DO),,,96.9,%,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418DOp,04-18-2017,Field Msr/Obs,Water,,644393386,Dissolved oxygen (DO),,,97.7,%,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420DOp,04-20-2017,Field Msr/Obs,Water,,644393397,Dissolved oxygen (DO),,,97.3,%,Actual,,,,Final,08-06-2017 7:32:58 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418pH,04-18-2017,Field Msr/Obs,Water,,644393403,pH,,,8.16,None,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418pH,04-18-2017,Field Msr/Obs,Water,,644393404,pH,,,8.16,None,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420pH,04-20-2017,Field Msr/Obs,Water,,644393415,pH,,,8.1,None,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418S,04-18-2017,Field Msr/Obs,Water,,644393421,Conductivity,,,33.5,ppt,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418S,04-18-2017,Field Msr/Obs,Water,,644393422,Conductivity,,,33.1,ppt,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420S,04-20-2017,Field Msr/Obs,Water,,644393433,Conductivity,,,34.3,ppt,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418TB,04-18-2017,Field Msr/Obs,Water,,644393439,Turbidity,,,0.96,NTU,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418TB,04-18-2017,Field Msr/Obs,Water,,644393440,Turbidity,,,1.02,NTU,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420TB,04-20-2017,Field Msr/Obs,Water,,644393451,Turbidity,,,7,NTU,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418TN,04-18-2017,Sample-Routine,Water,,644393456,Nitrogen,Dissolved,,128.53,ug/l,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418TN,04-18-2017,Sample-Routine,Water,,644393457,Nitrogen,Dissolved,,168.36,ug/l,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420TN,04-20-2017,Sample-Routine,Water,,644393468,Nitrogen,Dissolved,,83.28,ug/l,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418TP,04-18-2017,Sample-Routine,Water,,644393474,Phosphorus,Dissolved,,13.35,ug/l,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418TP,04-18-2017,Sample-Routine,Water,,644393475,Phosphorus,Dissolved,,13.71,ug/l,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420TP,04-20-2017,Sample-Routine,Water,,644393486,Phosphorus,Dissolved,,10.3,ug/l,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418PO4,04-18-2017,Sample-Routine,Water,,644393492,Phosphate-phosphorus,Dissolved,,9.08,ug/l,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418PO4,04-18-2017,Sample-Routine,Water,,644393493,Phosphate-phosphorus,Dissolved,,10.41,ug/l,Actual,,,,Final,08-06-2017 7:32:59 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420PO4,04-20-2017,Sample-Routine,Water,,644393504,Phosphate-phosphorus,Dissolved,,5.44,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418Si,04-18-2017,Sample-Routine,Water,,644393510,Silicate,Dissolved,,619.74,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418Si,04-18-2017,Sample-Routine,Water,,644393511,Silicate,Dissolved,,850.37,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420Si,04-20-2017,Sample-Routine,Water,,644393522,Silicate,Dissolved,,72.89,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418NNN,04-18-2017,Sample-Routine,Water,,644393528,Nitrate,Dissolved,,35,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418NNN,04-18-2017,Sample-Routine,Water,,644393529,Nitrate,Dissolved,,79.71,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420NNN,04-20-2017,Sample-Routine,Water,,644393540,Nitrate,Dissolved,,3.09,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170418NH4,04-18-2017,Sample-Routine,Water,,644393546,Ammonia-nitrogen,Dissolved,,3.88,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170418NH4,04-18-2017,Sample-Routine,Water,,644393547,Ammonia-nitrogen,Dissolved,,4.93,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170420NH4,04-20-2017,Sample-Routine,Water,,644393558,Ammonia-nitrogen,Dissolved,,2.75,ug/l,Actual,,,,Final,08-06-2017 7:33:00 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509T,05-09-2017,Field Msr/Obs,Water,,644393565,"Temperature, water",,,26.4,deg C,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509T,05-09-2017,Field Msr/Obs,Water,,644393566,"Temperature, water",,,26.3,deg C,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511T,05-11-2017,Field Msr/Obs,Water,,644393577,"Temperature, water",,,25.3,deg C,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509DO,05-09-2017,Field Msr/Obs,Water,,644393583,Dissolved oxygen (DO),,,6.96,mg/l,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509DO,05-09-2017,Field Msr/Obs,Water,,644393584,Dissolved oxygen (DO),,,6.92,mg/l,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511DO,05-11-2017,Field Msr/Obs,Water,,644393595,Dissolved oxygen (DO),,,6.88,mg/l,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509DOp,05-09-2017,Field Msr/Obs,Water,,644393601,Dissolved oxygen (DO),,,103.7,%,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509DOp,05-09-2017,Field Msr/Obs,Water,,644393602,Dissolved oxygen (DO),,,102.2,%,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511DOp,05-11-2017,Field Msr/Obs,Water,,644393613,Dissolved oxygen (DO),,,101.5,%,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509pH,05-09-2017,Field Msr/Obs,Water,,644393619,pH,,,8.2,None,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509pH,05-09-2017,Field Msr/Obs,Water,,644393620,pH,,,8.19,None,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511pH,05-11-2017,Field Msr/Obs,Water,,644393631,pH,,,8.16,None,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509S,05-09-2017,Field Msr/Obs,Water,,644393637,Conductivity,,,33.6,ppt,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509S,05-09-2017,Field Msr/Obs,Water,,644393638,Conductivity,,,32.3,ppt,Actual,,,,Final,08-06-2017 7:33:01 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511S,05-11-2017,Field Msr/Obs,Water,,644393649,Conductivity,,,34.6,ppt,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509TB,05-09-2017,Field Msr/Obs,Water,,644393655,Turbidity,,,1.48,NTU,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509TB,05-09-2017,Field Msr/Obs,Water,,644393656,Turbidity,,,2.5,NTU,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511TB,05-11-2017,Field Msr/Obs,Water,,644393667,Turbidity,,,5.36,NTU,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509TN,05-09-2017,Sample-Routine,Water,,644393672,Nitrogen,Dissolved,,116.75,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509TN,05-09-2017,Sample-Routine,Water,,644393673,Nitrogen,Dissolved,,230.57,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511TN,05-11-2017,Sample-Routine,Water,,644393684,Nitrogen,Dissolved,,67.65,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509TP,05-09-2017,Sample-Routine,Water,,644393690,Phosphorus,Dissolved,,12.28,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509TP,05-09-2017,Sample-Routine,Water,,644393691,Phosphorus,Dissolved,,15.6,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511TP,05-11-2017,Sample-Routine,Water,,644393702,Phosphorus,Dissolved,,11.57,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509PO4,05-09-2017,Sample-Routine,Water,,644393708,Phosphate-phosphorus,Dissolved,,8.49,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509PO4,05-09-2017,Sample-Routine,Water,,644393709,Phosphate-phosphorus,Dissolved,,13.62,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511PO4,05-11-2017,Sample-Routine,Water,,644393720,Phosphate-phosphorus,Dissolved,,4.98,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509Si,05-09-2017,Sample-Routine,Water,,644393726,Silicate,Dissolved,,562.57,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509Si,05-09-2017,Sample-Routine,Water,,644393727,Silicate,Dissolved,,1488.58,ug/l,Actual,,,,Final,08-06-2017 7:33:02 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511Si,05-11-2017,Sample-Routine,Water,,644393738,Silicate,Dissolved,,102.26,ug/l,Actual,,,,Final,08-06-2017 7:33:03 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509NNN,05-09-2017,Sample-Routine,Water,,644393744,Nitrate,Dissolved,,25.13,ug/l,Actual,,,,Final,08-06-2017 7:33:03 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509NNN,05-09-2017,Sample-Routine,Water,,644393745,Nitrate,Dissolved,,156.2,ug/l,Actual,,,,Final,08-06-2017 7:33:03 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511NNN,05-11-2017,Sample-Routine,Water,,644393756,Nitrate,Dissolved,,6.23,ug/l,Actual,,,,Final,08-06-2017 7:33:03 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170509NH4,05-09-2017,Sample-Routine,Water,,644393762,Ammonia-nitrogen,Dissolved,,5.99,ug/l,Actual,,,,Final,08-06-2017 7:33:03 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170509NH4,05-09-2017,Sample-Routine,Water,,644393763,Ammonia-nitrogen,Dissolved,,5.01,ug/l,Actual,,,,Final,08-06-2017 7:33:03 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170511NH4,05-11-2017,Sample-Routine,Water,,644393774,Ammonia-nitrogen,Dissolved,,2,ug/l,Actual,,,,Final,08-06-2017 7:33:03 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530T,05-30-2017,Field Msr/Obs,Water,,644393781,"Temperature, water",,,26.5,deg C,Actual,,,,Final,08-06-2017 7:33:03 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530T,05-30-2017,Field Msr/Obs,Water,,644393782,"Temperature, water",,,26.4,deg C,Actual,,,,Final,08-06-2017 7:33:03 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601T,06-01-2017,Field Msr/Obs,Water,,644393793,"Temperature, water",,,25.8,deg C,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530DO,05-30-2017,Field Msr/Obs,Water,,644393799,Dissolved oxygen (DO),,,6.83,mg/l,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530DO,05-30-2017,Field Msr/Obs,Water,,644393800,Dissolved oxygen (DO),,,6.87,mg/l,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601DO,06-01-2017,Field Msr/Obs,Water,,644393811,Dissolved oxygen (DO),,,6.84,mg/l,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530DOp,05-30-2017,Field Msr/Obs,Water,,644393817,Dissolved oxygen (DO),,,102.3,%,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530DOp,05-30-2017,Field Msr/Obs,Water,,644393818,Dissolved oxygen (DO),,,102.9,%,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601DOp,06-01-2017,Field Msr/Obs,Water,,644393829,Dissolved oxygen (DO),,,101.8,%,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530pH,05-30-2017,Field Msr/Obs,Water,,644393835,pH,,,8.16,None,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530pH,05-30-2017,Field Msr/Obs,Water,,644393836,pH,,,8.16,None,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601pH,06-01-2017,Field Msr/Obs,Water,,644393847,pH,,,8.09,None,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530S,05-30-2017,Field Msr/Obs,Water,,644393853,Conductivity,,,34.3,ppt,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530S,05-30-2017,Field Msr/Obs,Water,,644393854,Conductivity,,,33.9,ppt,Actual,,,,Final,08-06-2017 7:33:04 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601S,06-01-2017,Field Msr/Obs,Water,,644393865,Conductivity,,,34.9,ppt,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530TB,05-30-2017,Field Msr/Obs,Water,,644393871,Turbidity,,,1.25,NTU,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530TB,05-30-2017,Field Msr/Obs,Water,,644393872,Turbidity,,,5.07,NTU,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601TB,06-01-2017,Field Msr/Obs,Water,,644393883,Turbidity,,,7.14,NTU,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530TN,05-30-2017,Sample-Routine,Water,,644393888,Nitrogen,Dissolved,,86.47,ug/l,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530TN,05-30-2017,Sample-Routine,Water,,644393889,Nitrogen,Dissolved,,144.84,ug/l,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601TN,06-01-2017,Sample-Routine,Water,,644393900,Nitrogen,Dissolved,,63.06,ug/l,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530TP,05-30-2017,Sample-Routine,Water,,644393906,Phosphorus,Dissolved,,10.51,ug/l,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530TP,05-30-2017,Sample-Routine,Water,,644393907,Phosphorus,Dissolved,,13.37,ug/l,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601TP,06-01-2017,Sample-Routine,Water,,644393918,Phosphorus,Dissolved,,7.8,ug/l,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530PO4,05-30-2017,Sample-Routine,Water,,644393924,Phosphate-phosphorus,Dissolved,,6.24,ug/l,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530PO4,05-30-2017,Sample-Routine,Water,,644393925,Phosphate-phosphorus,Dissolved,,8.19,ug/l,Actual,,,,Final,08-06-2017 7:33:05 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601PO4,06-01-2017,Sample-Routine,Water,,644393936,Phosphate-phosphorus,Dissolved,,3.56,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530Si,05-30-2017,Sample-Routine,Water,,644393942,Silicate,Dissolved,,427.43,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530Si,05-30-2017,Sample-Routine,Water,,644393943,Silicate,Dissolved,,657.55,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601Si,06-01-2017,Sample-Routine,Water,,644393954,Silicate,Dissolved,,83.75,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530NNN,05-30-2017,Sample-Routine,Water,,644393960,Nitrate,Dissolved,,24.06,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530NNN,05-30-2017,Sample-Routine,Water,,644393961,Nitrate,Dissolved,,63.53,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601NNN,06-01-2017,Sample-Routine,Water,,644393972,Nitrate,Dissolved,,1.84,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170530NH4,05-30-2017,Sample-Routine,Water,,644393978,Ammonia-nitrogen,Dissolved,,2.82,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170530NH4,05-30-2017,Sample-Routine,Water,,644393979,Ammonia-nitrogen,Dissolved,,5.3,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170601NH4,06-01-2017,Sample-Routine,Water,,644393990,Ammonia-nitrogen,Dissolved,,1.26,ug/l,Actual,,,,Final,08-06-2017 7:33:06 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912T,09-12-2017,Field Msr/Obs,Water,,675901912,"Temperature, water",,,28.1,deg C,Actual,,,,Final,11-01-2017 10:24:17 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912T,09-12-2017,Field Msr/Obs,Water,,675901913,"Temperature, water",,,28,deg C,Actual,,,,Final,11-01-2017 10:24:17 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914T,09-14-2017,Field Msr/Obs,Water,,675901923,"Temperature, water",,,28.3,deg C,Actual,,,,Final,11-01-2017 10:24:17 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915T,09-15-2017,Field Msr/Obs,Water,,675901927,"Temperature, water",,,27.5,deg C,Actual,,,,Final,11-01-2017 10:24:17 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912DO,09-12-2017,Field Msr/Obs,Water,,675901935,Dissolved oxygen (DO),,,6.38,mg/l,Actual,,,,Final,11-01-2017 10:24:17 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912DO,09-12-2017,Field Msr/Obs,Water,,675901936,Dissolved oxygen (DO),,,6.6,mg/l,Actual,,,,Final,11-01-2017 10:24:18 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914DO,09-14-2017,Field Msr/Obs,Water,,675901946,Dissolved oxygen (DO),,,6.35,mg/l,Actual,,,,Final,11-01-2017 10:24:18 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915DO,09-15-2017,Field Msr/Obs,Water,,675901950,Dissolved oxygen (DO),,,6.61,mg/l,Actual,,,,Final,11-01-2017 10:24:18 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912DOp,09-12-2017,Field Msr/Obs,Water,,675901958,Dissolved oxygen (DO),,,98.8,%,Actual,,,,Final,11-01-2017 10:24:18 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912DOp,09-12-2017,Field Msr/Obs,Water,,675901959,Dissolved oxygen (DO),,,102.3,%,Actual,,,,Final,11-01-2017 10:24:18 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914DOp,09-14-2017,Field Msr/Obs,Water,,675901969,Dissolved oxygen (DO),,,98.9,%,Actual,,,,Final,11-01-2017 10:24:18 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915DOp,09-15-2017,Field Msr/Obs,Water,,675901973,Dissolved oxygen (DO),,,101.4,%,Actual,,,,Final,11-01-2017 10:24:19 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912pH,09-12-2017,Field Msr/Obs,Water,,675901981,pH,,,8.15,None,Actual,,,,Final,11-01-2017 10:24:19 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912pH,09-12-2017,Field Msr/Obs,Water,,675901982,pH,,,8.18,None,Actual,,,,Final,11-01-2017 10:24:19 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914pH,09-14-2017,Field Msr/Obs,Water,,675901992,pH,,,8.08,None,Actual,,,,Final,11-01-2017 10:24:19 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915pH,09-15-2017,Field Msr/Obs,Water,,675901996,pH,,,8.16,None,Actual,,,,Final,11-01-2017 10:24:19 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912S,09-12-2017,Field Msr/Obs,Water,,675902004,Conductivity,,,34.5,ppt,Actual,,,,Final,11-01-2017 10:24:20 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912S,09-12-2017,Field Msr/Obs,Water,,675902005,Conductivity,,,34.7,ppt,Actual,,,,Final,11-01-2017 10:24:20 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914S,09-14-2017,Field Msr/Obs,Water,,675902015,Conductivity,,,34.9,ppt,Actual,,,,Final,11-01-2017 10:24:20 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915S,09-15-2017,Field Msr/Obs,Water,,675902019,Conductivity,,,34.7,ppt,Actual,,,,Final,11-01-2017 10:24:20 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912TB,09-12-2017,Field Msr/Obs,Water,,675902027,Turbidity,,,0.53,NTU,Actual,,,,Final,11-01-2017 10:24:20 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912TB,09-12-2017,Field Msr/Obs,Water,,675902028,Turbidity,,,1.7,NTU,Actual,,,,Final,11-01-2017 10:24:20 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914TB,09-14-2017,Field Msr/Obs,Water,,675902038,Turbidity,,,8.39,NTU,Actual,,,,Final,11-01-2017 10:24:21 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915TB,09-15-2017,Field Msr/Obs,Water,,675902042,Turbidity,,,0.96,NTU,Actual,,,,Final,11-01-2017 10:24:21 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912TN,09-12-2017,Sample-Routine,Water,,675902050,Nitrogen,Dissolved,,66.07,ug/l,Actual,,,,Final,11-01-2017 10:24:21 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912TN,09-12-2017,Sample-Routine,Water,,675902051,Nitrogen,Dissolved,,72.51,ug/l,Actual,,,,Final,11-01-2017 10:24:21 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914TN,09-14-2017,Sample-Routine,Water,,675902061,Nitrogen,Dissolved,,43.73,ug/l,Actual,,,,Final,11-01-2017 10:24:21 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915TN,09-15-2017,Sample-Routine,Water,,675902065,Nitrogen,Dissolved,,50.74,ug/l,Actual,,,,Final,11-01-2017 10:24:21 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912TP,09-12-2017,Sample-Routine,Water,,675902073,Phosphorus,Dissolved,,17.7,ug/l,Actual,,,,Final,11-01-2017 10:24:22 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912TP,09-12-2017,Sample-Routine,Water,,675902074,Phosphorus,Dissolved,,17.8,ug/l,Actual,,,,Final,11-01-2017 10:24:22 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914TP,09-14-2017,Sample-Routine,Water,,675902084,Phosphorus,Dissolved,,12.89,ug/l,Actual,,,,Final,11-01-2017 10:24:22 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915TP,09-15-2017,Sample-Routine,Water,,675902088,Phosphorus,Dissolved,,16.09,ug/l,Actual,,,,Final,11-01-2017 10:24:22 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912PO4,09-12-2017,Sample-Routine,Water,,675902096,Phosphate-phosphorus,Dissolved,,7.56,ug/l,Actual,,,,Final,11-01-2017 10:24:22 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912PO4,09-12-2017,Sample-Routine,Water,,675902097,Phosphate-phosphorus,Dissolved,,7.3,ug/l,Actual,,,,Final,11-01-2017 10:24:22 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914PO4,09-14-2017,Sample-Routine,Water,,675902107,Phosphate-phosphorus,Dissolved,,4.45,ug/l,Actual,,,,Final,11-01-2017 10:24:22 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915PO4,09-15-2017,Sample-Routine,Water,,675902111,Phosphate-phosphorus,Dissolved,,6.24,ug/l,Actual,,,,Final,11-01-2017 10:24:22 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912Si,09-12-2017,Sample-Routine,Water,,675902119,Silicate,Dissolved,,342.22,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912Si,09-12-2017,Sample-Routine,Water,,675902120,Silicate,Dissolved,,362.09,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914Si,09-14-2017,Sample-Routine,Water,,675902130,Silicate,Dissolved,,131.29,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915Si,09-15-2017,Sample-Routine,Water,,675902134,Silicate,Dissolved,,210.76,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912NNN,09-12-2017,Sample-Routine,Water,,675902142,Nitrate,Dissolved,,18.39,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912NNN,09-12-2017,Sample-Routine,Water,,675902143,Nitrate,Dissolved,,21.76,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914NNN,09-14-2017,Sample-Routine,Water,,675902153,Nitrate,Dissolved,,1.91,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915NNN,09-15-2017,Sample-Routine,Water,,675902157,Nitrate,Dissolved,,6.63,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,RAB,Airport Beach,RAB170912NH4,09-12-2017,Sample-Routine,Water,,675902165,Ammonia-nitrogen,Dissolved,,4.18,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,RCB,Canoe Beach,RCB170912NH4,09-12-2017,Sample-Routine,Water,,675902166,Ammonia-nitrogen,Dissolved,,6.57,ug/l,Actual,,,,Final,11-01-2017 10:24:23 PM
+HUIWAIOLA_WQX,OUB,Ukumehame Beach,OUB170914NH4,09-14-2017,Sample-Routine,Water,,675902176,Ammonia-nitrogen,Dissolved,,3.29,ug/l,Actual,,,,Final,11-01-2017 10:24:24 PM
+HUIWAIOLA_WQX,RFN,FlemingNorth DT beach park,RFN170915NH4,09-15-2017,Sample-Routine,Water,,675902180,Ammonia-nitrogen,Dissolved,,2.39,ug/l,Actual,,,,Final,11-01-2017 10:24:24 PM
