@@ -1,0 +1,241 @@
+OrganizationIdentifier
+OrganizationFormalName
+ActivityIdentifier
+ActivityStartDate
+ActivityStartTime/Time
+ActivityStartTime/TimeZoneCode
+MonitoringLocationIdentifier
+ResultIdentifier
+MethodSpecificationName
+CharacteristicName
+ResultSampleFractionText
+ResultMeasureValue
+ResultMeasure/MeasureUnitCode
+ResultStatusIdentifier
+ResultValueTypeName
+ResultAnalyticalMethod/MethodIdentifier
+ResultAnalyticalMethod/MethodIdentifierContext
+ResultAnalyticalMethod/MethodName
+ResultAnalyticalMethod/MethodUrl
+MethodDescriptionText
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101DO
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391514
+Dissolved oxygen (DO)
+6.34
+mg/l
+Final
+Actual
+8157
+HACH
+Dissolved Oxygen in Water
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101T
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391497
+"Temperature
+ water"
+24.8
+deg C
+Final
+Actual
+2550
+APHA
+Temperature of Water by Thermometer
+https://www.nemi.gov/methods/method_summary/9829
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101NH4
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391684
+as NH4
+Ammonia-nitrogen
+Dissolved
+7.16
+ug/l
+Final
+Actual
+350.1
+USEPA
+Ammonia Nitrogen by Colorimetry
+https://www.nemi.gov/methods/method_summary/5405
+https://www.nemi.gov/methods/method_summary/5405/
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101DOp
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391531
+Dissolved oxygen (DO)
+92.1
+%
+Final
+Actual
+8157
+HACH
+Dissolved Oxygen in Water
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101Si
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391650
+as Si
+Silicate
+Dissolved
+800.68
+ug/l
+Final
+Actual
+366
+USEPA
+Silicate by Colorimetry
+https://www.nemi.gov/methods/method_summary/4661/
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101TB
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391582
+Turbidity
+7.83
+NTU
+Final
+Actual
+180.1
+USEPA
+Turbidity by Nephelometry
+https://www.nemi.gov/methods/method_summary/5217
+https://www.nemi.gov/methods/method_summary/5217/
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101pH
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391548
+pH
+8.07
+None
+Final
+Actual
+8156
+HACH
+pH in Water
+https://www.nemi.gov/methods/method_summary/4724
+https://www.nemi.gov/methods/method_summary/4724/
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101PO4
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391633
+as PO4
+Phosphate-phosphorus
+Dissolved
+15.28
+ug/l
+Final
+Actual
+365.1
+USEPA
+Phosphorus by Colorimetry
+https://www.nemi.gov/methods/method_summary/4823
+https://www.nemi.gov/methods/method_summary/4823/
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101NNN
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391667
+as NO3
+Nitrate
+Dissolved
+83.68
+ug/l
+Final
+Actual
+353.3
+USEPA
+Nitrate-Nitrite Nitrogen by Cd Reduction
+https://www.nemi.gov/methods/method_summary/5251
+https://www.nemi.gov/methods/method_summary/5251/
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101TN
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391599
+as N
+Nitrogen
+Dissolved
+154.28
+ug/l
+Final
+Actual
+353.3
+USEPA
+Nitrate-Nitrite Nitrogen by Cd Reduction
+https://www.nemi.gov/methods/method_summary/5251
+https://www.nemi.gov/methods/method_summary/5251/
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101TP
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391616
+as P
+Phosphorus
+Dissolved
+18.7
+ug/l
+Final
+Actual
+365.1
+USEPA
+Phosphorus by Colorimetry
+https://www.nemi.gov/methods/method_summary/4823
+https://www.nemi.gov/methods/method_summary/4823/
+HUIWAIOLA_WQX
+The Nature Conservancy - Honolulu
+HUIWAIOLA_WQX-RPO161101S
+11/1/16
+7:44:00
+HAST
+HUIWAIOLA_WQX-RPO
+STORET-644391565
+Conductivity
+34.3
+ppt
+Final
+Actual
+8160
+HACH
+Conductivity in Water by Direct Measurement

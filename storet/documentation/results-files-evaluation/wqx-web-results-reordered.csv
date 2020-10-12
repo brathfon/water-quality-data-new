@@ -1,0 +1,177 @@
+Organization ID
+Monitoring Location ID
+Monitoring Location Name
+Activity ID
+Activity Start Date
+Activity Type
+Media
+Result UID
+Characteristic
+Fraction
+Value
+Unit
+Value Type
+Status
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101T
+11/1/16
+Field Msr/Obs
+Water
+644391497
+"Temperature
+ water"
+24.8
+deg C
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101DO
+11/1/16
+Field Msr/Obs
+Water
+644391514
+Dissolved oxygen (DO)
+6.34
+mg/l
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101DOp
+11/1/16
+Field Msr/Obs
+Water
+644391531
+Dissolved oxygen (DO)
+92.1
+%
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101pH
+11/1/16
+Field Msr/Obs
+Water
+644391548
+pH
+8.07
+None
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101S
+11/1/16
+Field Msr/Obs
+Water
+644391565
+Conductivity
+34.3
+ppt
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101TB
+11/1/16
+Field Msr/Obs
+Water
+644391582
+Turbidity
+7.83
+NTU
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101TN
+11/1/16
+Sample-Routine
+Water
+644391599
+Nitrogen
+Dissolved
+154.28
+ug/l
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101TP
+11/1/16
+Sample-Routine
+Water
+644391616
+Phosphorus
+Dissolved
+18.7
+ug/l
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101PO4
+11/1/16
+Sample-Routine
+Water
+644391633
+Phosphate-phosphorus
+Dissolved
+15.28
+ug/l
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101Si
+11/1/16
+Sample-Routine
+Water
+644391650
+Silicate
+Dissolved
+800.68
+ug/l
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101NNN
+11/1/16
+Sample-Routine
+Water
+644391667
+Nitrate
+Dissolved
+83.68
+ug/l
+Actual
+Final
+HUIWAIOLA_WQX
+RPO
+Pohaku
+RPO161101NH4
+11/1/16
+Sample-Routine
+Water
+644391684
+Ammonia-nitrogen
+Dissolved
+7.16
+ug/l
+Actual
+Final
