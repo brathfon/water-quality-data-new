@@ -1,9 +1,0 @@
-yes/no	yes/no	#	R2RS, R2RN, Polanui, Olowalu	LLHS	initials	initials	initials	RCB	RCB031717	2020	Canoe Beach	08/22/17	9:22											deg C	ppt	mg/L	%					0, 1, 2, 3, 4	0-8	0-5	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	
-Nut_Dup	Sed_Sample	Session	Team	Lab	Sampler	Sampler2	Sampler3	Station	SampleID	Location	SiteName	Date	Time	40D#	2100Q#	pHInst#	DOInst#	SalInst#	Moon	Cloud_1_8	Rain_1_4	Wind_dir	SampleID2	Temp	Salinity	DO	DO%	pH	Turb1	Turb2	Turb3	Waves	Wind	Stream	Swimmers	On Beach	Campers	Comments
-Example:		26	R2RS	LLHS	CM	TF	MS	RCB	RCB170821	2020	Canoe Beach	2017-08-21	9:22:00	1	1	4	2	3	1	7	2		RCB170821	27	33.1	6.92	104.4	8.18	5.78	5.86	6.03	1	0		1	20	0	Windy but no rain
-no	no	28	R2RS	LLHS	TF	MS	TS	RNS	RNS171003	2006	Napili Bay	2017-10-03	8:14	1	1	4	2	3	14	0	0	Trades	RNS171003	27	33.7	6.59	101	8.14	2.33	2.48	2.51	1	0	no	0	6	0	RNS erosion, drop off more evident
-no	no	28	R2RS	LLHS	TF	MS	TS	RPO	RPO171003	2010	Pohaku	2017-10-03	8:40	1	1	4	2	3	14	0	0	Trades	RPO171003	26.8	32.4	6.29	94.6	8.15	3.15	3.46	5.79	2	1	no	2	2	0	RPO surf is up today
-no	no	28	R2RS	LLHS	TF	MS	TS	RKS	RKS171003	2071	Kaanapali Shores	2017-10-03	8:58	1	1	4	2	3	14	0	0	Trades	RKS171003	27.1	34.2	6.41	97.8	8.11	3.05	3.22	3.39	1	0	no	3	9	0	RKS beach very busy
-no	no	28	R2RS	LLHS	TF	MS	TS	RAB	RAB171003	2017	Airport Beach	2017-10-03	9:16	1	1	4	2	3	14	0	0	Trades	RAB171003	27.9	34	6.49	100	8.19	0.5	0.79	0.67	1	1	no	10	10	0	RAB beach very busy
-no	no	28	R2RS	LLHS	TF	MS	TS	RCB	RCB171003	2020	Canoe Beach	2017-10-03	9:36	1	1	4	2	3	14	0	0	Trades	RCB171003	28	33.3	6.59	101.3	8.19	5.65	6.58	6	0	0	no	3	6	0	
-no	no	28	R2RS	LLHS	TF	MS	TS	RWA	RWA171003	2021	Wahikuli	2017-10-03	9:52	1	1	4	2	3	14	0	0	Trades	RWA171003	27.6	33.4	6.52	99.8	8.2	0.5	0.5	0.49	1	1	no	2	0	0	

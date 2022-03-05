@@ -1,9 +1,0 @@
-yes/no	yes/no	#	R2RS, R2RN, Polanui, Olowalu	LLHS	initials	initials	initials	RCB	RCB031717	2062	Canoe Beach	03/17/17	12:00											deg C	ppt	mg/L	%					0, 1, 2, 3, 4	0-8	0-5	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	0, 1, 5, 10, 20+	
-Nut_Dup	Sed_Sample	Session	Team	Lab	Sampler	Sampler2	Sampler3	Station	SampleID	Location	SiteName	Date	Time	40D#	2100Q#	pHInst#	DOInst#	SalInst#	Moon	Cloud_1_8	Rain_1_4	Wind_dir	SampleID2	Temp	Salinity	DO	DO%	pH	Turb1	Turb2	Turb3	Waves	Wind	Stream	Swimmers	On Beach	Campers	Comments
-Example:		26	R2RS	LLHS	CM	TF	MS	RCB	RCB170821	2020	Canoe Beach	2017-08-21	9:22:00	1	1	4	2	3	1	7	2		RCB170821	27	33.1	6.92	104.4	8.18	5.78	5.86	6.03	1	0		1	20		
-no	no	28	Polanui	LLHS	JM	RB	MB	PFF	PFF171004	2022	505 Front St	2017-10-04	8:20	1	1	4	2	3	14	0		trades	PFF171004	27.6	34	5.54	84.9	8.04	10.1	10.3	10.6	0	1		0	1	0	PFF stream flowing
-no	no	28	Polanui	LLHS	JM	RB	MB	PLH	PLH171004	2023	Lindsey Hale	2017-10-04	8:40	1	1	4	2	3	14	0		trades	PLH171004	27.8	33.8	5.64	86.7	8.03	4.04	4.14	4.08	0	1		0	4	0	PLH stream no flow
-no	no	28	Polanui	LLHS	JM	RB	MB	PLT	PLT171004	2024	Lahaina Town	2017-10-04	9:00	1	1	4	2	3	14	0		trades	PLT171004	29.3	33.7	5.67	87.7	8.05	3.29	4.3	4.79	0	2		0	1	0	
-no	no	28	Polanui	LLHS	JM	RB	MB	PPU	PPU171004	2025	Puamana	2017-10-04	9:25	1	1	4	2	3	14	0		trades	PPU171004	28.1	34.5	6.46	100.1	8.18	2.24	2.65	2.42	1	2		0	0	0	
-no	no	28	Polanui	LLHS	JM	RB	MB	OLP	OLP171004	2072	Launiupoko	2017-10-04	9:42	1	1	4	2	3	14	0		trades	OLP171004	28.4	34.6	6.52	101.4	8.14	1.51	1.94	1.55	1	2		3	6	0	
-no	no	28	Polanui	LLHS	JM	RB	MB	OSF	OSF171004	2027	Olowalu Pier	2017-10-04	10:10	1	1	4	2	3	14	0		trades	OSF171004	27.9	34.6	6.81	105.3	8.15	1.02	1.43	1.23	0	1		1	1	0	
