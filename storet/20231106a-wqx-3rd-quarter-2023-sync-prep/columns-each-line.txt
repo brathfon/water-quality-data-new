@@ -1,0 +1,251 @@
+Organization Formal Name
+Activity UID
+Activity ID
+Activity Identifier User Supplied
+Activity Type
+Activity Media Name
+Activity Media Subdivision Name
+Activity Start Date
+Activity Start Time
+Activity Start Time Zone
+Activity End Date
+Activity End Time
+Activity End Time Zone
+Activity Relative Depth Name
+Activity Depth Height Measure
+Activity Depth Height Measure Unit Code
+Activity Depth Height Top Measure
+Activity Depth Height Top Measure Unit Code
+Activity Depth Height Bottom Measure
+Activity Depth Height Bottom Measure Unit Code
+Activity Depth Altitude Reference Point Text
+Projects
+Project Identifier 1
+Project Identifier 2
+Project Identifier 3
+Activity Conducting Organization Text 1
+Activity Conducting Organization Text 2
+Activity Conducting Organization Text 3
+Monitoring Location ID
+Monitoring Location Name
+Monitoring Location Type Name
+Monitoring Location Latitude Measure
+Monitoring Location Longitude Measure
+Sampling Component Name
+Activity Comment Text
+Activity Latitude Measure
+Activity Longitude Measure
+Source Map Scale
+Horizontal Accuracy Measure
+Horizontal Accuracy Measure Unit Code
+Horizontal Collection Method Name
+Horizontal Coordinate Reference System Datum Name
+Activity Location Description Text
+Assemblage Sampled Name
+Collection Duration Measure
+Collection Duration Measure Unit Code
+Collection Area Measure
+Collection Area Measure Unit Code
+Collection Effort Measure
+Collection Effort Measure Unit Code
+Reach Length Measure
+Reach Length Measure Unit Code
+Reach Width Measure
+Reach Width Measure Unit Code
+Collection Description Text
+Pass Count
+Net Type Name
+Net Surface Area Measure
+Net Surface Area Measure Unit Code
+Net Mesh Size Measure
+Net Mesh Size Measure Unit Code
+Boat Speed Measure
+Boat Speed Measure Unit Code
+Current Speed Measure
+Current Speed Measure Unit Code
+Toxicity Test Type
+Habitat Selection Method
+Sample Collection Method ID
+Sample Collection Method ID Context
+Sample Collection Method Name
+Sample Collection Method Qualifier Type Name
+Sample Collection Method Description Text
+Sample Collection Equipment Name
+Sample Collection Equipment Comment Text
+Sample Preparation Method ID
+Sample Preparation Method ID Context
+Sample Preparation Method Name
+Sample Preparation Method Qualifier Type Name
+Sample Preparation Method Description Text
+Sample Container Label Name
+Sample Container Type Name
+Sample Container Color Name
+Chemical Preservative Used Name
+Thermal Preservative Used Name
+Sample Transport Storage Description
+Hydrologic Condition
+Hydrologic Event
+Activity Binary Object Files
+Activity Binary Object Filename
+Activity Binary Object Type
+Result UID
+Data Logger Line Name
+Result Detection Condition Text
+Characteristic Name
+Characteristic Name User Supplied
+Result Method Speciation Text
+Result Sample Fraction Text
+Result Measure Value
+Result Measure Unit Code
+Measure Qualifier Codes
+Measure Qualifier Code 1
+Measure Qualifier Code 2
+Measure Qualifier Code 3
+Measure Qualifier Code 4
+Measure Qualifier Code 5
+Measure Qualifier Code 6
+Converted Result Measure
+Target Count
+Proportion Sample Processed Numeric
+Result Status Identifier
+Statistical Base Code
+Statistical N Value Numeric
+Result Value Type Name
+Result Weight Basis Text
+Result Time Basis Text
+Result Temperature Basis Text
+Result Particle Size Basis Text
+Precision Value
+Bias Value
+Confidence Interval Value
+Upper Confidence Limit Value
+Lower Confidence Limit Value
+Result Comment Text
+Result Depth Height Measure
+Result Depth Height Measure Unit Code
+Result Depth Altitude Reference Point Text
+Result Sampling Point Name
+Result Sampling Point Type
+Result Sampling Point Place In Series
+Result Sampling Point Comment Text
+Record Identifier User Supplied
+Biological Intent Name
+Biological Individual Identifier
+Subject Taxonomic Name
+Subject Taxonomic Name User Supplied
+Subject Taxonomic Name User Supplied Reference Text
+Unidentified Species Identifier
+Sample Tissue Anatomy Name
+Group Summary Count
+Group Summary Weight Measure
+Group Summary Weight Measure Unit Code
+Cell Pollution Tolerances
+Cell Form Name
+Cell Shape Name
+Habit Names
+Habit Name 1
+Habit Name 2
+Habit Name 3
+Voltinism Name
+Taxonomic Pollution Tolerance
+Taxonomic Pollution Tolerance Scale Text
+Trophic Level Name
+Functional Feeding Group Names
+Functional Feeding Group Name 1
+Functional Feeding Group Name 2
+Functional Feeding Group Name 3
+Taxonomic Details Citation Title Name
+Taxonomic Details Citation Creator Name
+Taxonomic Details Citation Subject Text
+Taxonomic Details Citation Publisher Name
+Taxonomic Details Citation Date
+Taxonomic Details Citation Identifier
+Frequency Class Descriptors
+Frequency Class Descriptor Code
+Lower Class Bound Value
+Upper Class Bound Value
+Frequency Class Descriptor Unit Code
+Frequency Class Descriptor Code 2
+Lower Class Bound Value 2
+Upper Class Bound Value 2
+Frequency Class Descriptor Unit Code 2
+Frequency Class Descriptor Code 3
+Lower Class Bound Value 3
+Upper Class Bound Value 3
+Frequency Class Descriptor Unit Code 3
+Result Binary Object Files
+Result Binary Object Filename
+Result Binary Object Type
+Analytical Method Identifier
+Analytical Method Identifier Context*
+Analytical Method Name
+Analytical Method Qualifier Type Name
+Analytical Method Description Text
+Comparable Analytical Method Identifier
+Comparable Analytical Method Identifier Context
+Comparable Analytical Method Modification Text
+Laboratory Name
+Analysis Start Date
+Analysis Start Time
+Analysis Start Time Zone
+Analysis End Date
+Analysis End Time
+Analysis End Time Zone
+Laboratory Comment Text
+Detection Quantitation Limits
+Detection Quantitation Limit Type Name 1
+Detection Quantitation Limit Measure 1
+Detection Quantitation Limit Measure Unit Code 1
+Detection Quantitation Limit Comment Text 1
+Detection Quantitation Limit Type Name 2
+Detection Quantitation Limit Measure 2
+Detection Quantitation Limit Measure Unit Code 2
+Detection Quantitation Limit Comment Text 2
+Detection Quantitation Limit Type Name 3
+Detection Quantitation Limit Measure 3
+Detection Quantitation Limit Measure Unit Code 3
+Detection Quantitation Limit Comment Text 3
+Laboratory Sample Split Ratio
+Laboratory Accreditation Indicator
+Laboratory Accreditation Authority Name
+Taxonomist Accreditation Indicator
+Taxonomist Accreditation Authority Name
+Lab Sample Preparation Method Identifier 1
+Lab Sample Preparation Method Context 1
+Lab Sample Preparation Method Name 1
+Lab Sample Preparation Method Qualifier Type Name 1
+Lab Sample Preparation Method Description Text 1
+Preparation Start Date 1
+Preparation Start Time 1
+Preparation Start Time Zone 1
+Preparation End Date 1
+Preparation End Time 1
+Preparation End Time Zone 1
+Substance Dilution Factor 1
+Lab Sample Preparation Method Identifier 2
+Lab Sample Preparation Method Context 2
+Lab Sample Preparation Method Name 2
+Lab Sample Preparation Method Qualifier Type Name 2
+Lab Sample Preparation Method Description Text 2
+Preparation Start Date 2
+Preparation Start Time 2
+Preparation Start Time Zone 2
+Preparation End Date 2
+Preparation End Time 2
+Preparation End Time Zone 2
+Substance Dilution Factor 2
+Lab Sample Preparation Method Identifier 3
+Lab Sample Preparation Method Context 3
+Lab Sample Preparation Method Name 3
+Lab Sample Preparation Method Qualifier Type Name 3
+Lab Sample Preparation Method Description Text 3
+Preparation Start Date 3
+Preparation Start Time 3
+Preparation Start Time Zone 3
+Preparation End Date 3
+Preparation End Time 3
+Preparation End Time Zone 3
+Substance Dilution Factor 3
+Last Change Date
+Transaction ID
+User ID
