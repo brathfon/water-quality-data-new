@@ -1,5 +1,4 @@
-Organization Formal Name
-Activity UID
+Activity UID  first line was: Organization Formal Name
 Activity ID
 Activity Identifier User Supplied
 Activity Type
